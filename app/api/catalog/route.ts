@@ -2,11 +2,12 @@ const BASE_URL = "https://superflixapi.pro";
 
 type ContentType = "movie" | "series" | "anime" | "dorama";
 
-const TYPE_CONFIG: Record<ContentType, { path: string; searchCode: string }> = {
-  movie: { path: "filmes", searchCode: "1" },
-  series: { path: "series", searchCode: "2" },
-  anime: { path: "animes", searchCode: "3" },
-  dorama: { path: "doramas", searchCode: "5" },
+const PAGE_SIZE = 40;
+const TYPE_CONFIG: Record<ContentType, { path: string; searchCode: string; listCategory: string; label: string }> = {
+  movie: { path: "filmes", searchCode: "1", listCategory: "filme", label: "Filme" },
+  series: { path: "series", searchCode: "2", listCategory: "serie", label: "Série" },
+  anime: { path: "animes", searchCode: "3", listCategory: "anime", label: "Anime" },
+  dorama: { path: "doramas", searchCode: "5", listCategory: "dorama", label: "Dorama" },
 };
 
 const CARD_START = /<div\s+x-data="\{\s*open:\s*false\s*\}"/gi;
@@ -64,6 +65,42 @@ function parseCatalog(html: string, type: ContentType) {
   return [...unique.values()];
 }
 
+async function readCatalogIds(type: ContentType, genre: string) {
+  const config = TYPE_CONFIG[type];
+  const endpoint = new URL(`${BASE_URL}/lista`);
+  endpoint.searchParams.set("category", config.listCategory);
+  endpoint.searchParams.set("type", "tmdb");
+  endpoint.searchParams.set("format", "json");
+  endpoint.searchParams.set("order", "asc");
+  if (genre) endpoint.searchParams.set("genero", genre);
+
+  const response = await fetch(endpoint, {
+    headers: {
+      Accept: "application/json",
+      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.6",
+      "User-Agent": "Mozilla/5.0 (compatible; CineLume Web/1.0)",
+    },
+    next: { revalidate: 300 },
+  });
+  if (!response.ok) throw new Error(`A lista de ${config.label.toLocaleLowerCase("pt-BR")} respondeu HTTP ${response.status}.`);
+  const payload: unknown = await response.json();
+  if (!Array.isArray(payload)) throw new Error("A API retornou uma lista de catálogo inválida.");
+
+  return payload.filter((value): value is string => typeof value === "string" && value.trim().length > 0);
+}
+
+function buildIdFallback(ids: string[], type: ContentType, page: number) {
+  const config = TYPE_CONFIG[type];
+  const start = (page - 1) * PAGE_SIZE;
+  return ids.slice(start, start + PAGE_SIZE).map((id) => ({
+    id,
+    title: `${config.label} ${id}`,
+    poster: "/og.png",
+    year: "",
+    type,
+  }));
+}
+
 export async function GET(request: Request) {
   const url = new URL(request.url);
   const requestedType = url.searchParams.get("type");
@@ -97,9 +134,26 @@ export async function GET(request: Request) {
       next: { revalidate: 300 },
     });
 
+    if (!response.ok && !query) {
+      const ids = await readCatalogIds(requestedType, genre);
+      const fallbackItems = buildIdFallback(ids, requestedType, page);
+      return Response.json(
+        { items: fallbackItems, page, type: requestedType },
+        { headers: { "Cache-Control": "public, s-maxage=300, stale-while-revalidate=600" } },
+      );
+    }
+
     if (!response.ok) throw new Error(`O catálogo respondeu HTTP ${response.status}.`);
-    const html = await response.text();
-    const items = parseCatalog(html, requestedType);
+    let items;
+    if (response.ok) {
+      const html = await response.text();
+      items = parseCatalog(html, requestedType);
+    } else if (!query) {
+      const ids = await readCatalogIds(requestedType, genre);
+      items = buildIdFallback(ids, requestedType, page);
+    } else {
+      throw new Error(`Catalog upstream HTTP ${response.status}.`);
+    }
     return Response.json(
       { items, page, type: requestedType },
       { headers: { "Cache-Control": "public, s-maxage=300, stale-while-revalidate=600" } },
