@@ -45,8 +45,8 @@ type ChannelsResponse = {
 const CONTENT: { id: ContentType; label: string; endpoint: string; eyebrow: string }[] = [
   { id: "movie", label: "Filmes", endpoint: "filme", eyebrow: "Filmes para a sua noite" },
   { id: "series", label: "Séries", endpoint: "serie", eyebrow: "Séries para maratonar" },
-  { id: "anime", label: "Animes", endpoint: "anime", eyebrow: "Histórias sem limite" },
-  { id: "dorama", label: "Doramas", endpoint: "dorama", eyebrow: "Doramas em destaque" },
+  { id: "anime", label: "Animes", endpoint: "serie", eyebrow: "Histórias sem limite" },
+  { id: "dorama", label: "Doramas", endpoint: "serie", eyebrow: "Doramas em destaque" },
 ];
 
 const EMPTY_CATALOG: Record<ContentType, MediaItem[]> = {
