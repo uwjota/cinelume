@@ -10,7 +10,7 @@ const TYPE_CONFIG: Record<ContentType, { path: string; searchCode: string }> = {
 };
 
 const CARD_START = /<div\s+x-data="\{\s*open:\s*false\s*\}"/gi;
-const IMAGE = /<img[^>]*?src="([^"]+)"[^>]*?alt="([^"]*)"[^>]*>/is;
+const IMAGE = /<img[\s\S]*?src="([^"]+)"[\s\S]*?alt="([^"]*)"[\s\S]*?>/i;
 const CONTENT_LINK = /data-copy="https:\/\/(?:www\.)?superflixapi\.pro\/(filme|serie|anime|dorama)\/([^"/?#]+)(?:[/?#][^"]*)?"/i;
 const YEAR = /<div\s+class="mt-3[^"]*"[\s\S]*?<span>(\d{4})<\/span>/i;
 

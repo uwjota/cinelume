@@ -1,6 +1,7 @@
 {
-  "name": "site-creator-vinext-starter",
+  "name": "cinelume",
   "version": "0.1.0",
+  "description": "CineLume web: filmes, séries, animes, doramas e TV ao vivo.",
   "private": true,
   "engines": {
     "node": ">=22.13.0"

@@ -29,6 +29,10 @@ pnpm build
 
 O catálogo e os canais são consultados por rotas internas em `app/api/`, assim o navegador não depende de CORS do provedor.
 
+## Publicar na Vercel
+
+Importe o repositório no painel da Vercel e mantenha a configuração detectada do projeto. O arquivo `vercel.json` já instrui a plataforma a executar `next build`; não há variáveis de ambiente obrigatórias.
+
 ## Aviso sobre reprodução
 
 O CineLume incorpora o player fornecido pelo parceiro de conteúdo. Caso o parceiro exija abertura externa ou bloqueie a incorporação, o site mostra a opção de abrir a página dele — sem tentar contornar essa proteção.

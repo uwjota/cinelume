@@ -24,7 +24,7 @@ body {
   min-width: 320px;
   background: var(--ink);
   color: var(--paper);
-  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans, Arial), Helvetica, sans-serif;
 }
 
 button, input { font: inherit; }
