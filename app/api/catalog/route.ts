@@ -1,6 +1,9 @@
+import catalogCache from "../../../data/catalog-cache.json";
+
 const BASE_URL = "https://superflixapi.pro";
 
 type ContentType = "movie" | "series" | "anime" | "dorama";
+type CatalogItem = { id: string; title: string; poster: string; year: string; type: ContentType };
 
 const PAGE_SIZE = 40;
 const TYPE_CONFIG: Record<ContentType, { path: string; searchCode: string; listCategory: string; label: string }> = {
@@ -65,6 +68,16 @@ function parseCatalog(html: string, type: ContentType) {
   return [...unique.values()];
 }
 
+function readCachedCatalog(type: ContentType, page: number, query: string) {
+  const cached = catalogCache[type] as unknown as CatalogItem[];
+  const normalizedQuery = query.trim().toLocaleLowerCase("pt-BR");
+  const filtered = normalizedQuery
+    ? cached.filter((item) => item.title.toLocaleLowerCase("pt-BR").includes(normalizedQuery))
+    : cached;
+  const start = normalizedQuery ? 0 : (page - 1) * PAGE_SIZE;
+  return filtered.slice(start, start + PAGE_SIZE);
+}
+
 async function readCatalogIds(type: ContentType, genre: string) {
   const config = TYPE_CONFIG[type];
   const endpoint = new URL(`${BASE_URL}/lista`);
@@ -111,6 +124,15 @@ export async function GET(request: Request) {
   const page = Math.max(1, Number.parseInt(url.searchParams.get("page") || "1", 10) || 1);
   const query = (url.searchParams.get("q") || "").trim();
   const genre = (url.searchParams.get("genre") || "").trim();
+
+  if (process.env.VERCEL === "1") {
+    const cachedItems = readCachedCatalog(requestedType, page, query);
+    return Response.json(
+      { items: cachedItems, page, type: requestedType, source: "cache", updatedAt: catalogCache.updatedAt },
+      { headers: { "Cache-Control": "public, s-maxage=300, stale-while-revalidate=86400" } },
+    );
+  }
+
   const config = TYPE_CONFIG[requestedType];
   const upstream = query
     ? new URL(`${BASE_URL}/pesquisar`)
@@ -159,6 +181,13 @@ export async function GET(request: Request) {
       { headers: { "Cache-Control": "public, s-maxage=300, stale-while-revalidate=600" } },
     );
   } catch (error) {
+    const cachedItems = readCachedCatalog(requestedType, page, query);
+    if (cachedItems.length || query) {
+      return Response.json(
+        { items: cachedItems, page, type: requestedType, source: "cache", updatedAt: catalogCache.updatedAt },
+        { headers: { "Cache-Control": "public, s-maxage=300, stale-while-revalidate=86400" } },
+      );
+    }
     return Response.json(
       { error: error instanceof Error ? error.message : "Não foi possível acessar o catálogo agora." },
       { status: 502, headers: { "Cache-Control": "no-store" } },

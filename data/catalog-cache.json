@@ -1,0 +1,5590 @@
+{
+  "updatedAt": "2026-08-10T06:05:15.129Z",
+  "movie": [
+    {
+      "id": "1290432",
+      "title": "Vida Privada",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kl5aoP7AQDeeXzzzhO8zekcqSci.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1284041",
+      "title": "A Última Casa",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rfT3d4TLZBJsouNzh3b5jFWs76t.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1658572",
+      "title": "Hungria: A Escolha de um Sonho",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1244517",
+      "title": "Apreensão",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/nrULF6tc5ky5K5aLlNkxph8DVcB.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1263532",
+      "title": "Corrida dos Bichos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2bzIygGnua4tlLo7qTyMSUsME3d.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1372572",
+      "title": "Flamingos: A Vida Depois do Meteorito",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1VdObnJlNSBj2WWpPX07bcYyLdP.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1432241",
+      "title": "Cinco Tipos de Medo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iNE8DVinMuPARsDSVg5GlHJjxAB.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1363974",
+      "title": "That Time I Got Reincarnated as a Slime o Filme: Lágrimas do mar azul-celeste",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cmYFNjvmWYwwwpcNdcyLE87LzoF.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1184385",
+      "title": "A Última Cena",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3kyCh5CX6RDusHBttNJ3rWXZ62p.jpg",
+      "year": "2023",
+      "type": "movie"
+    },
+    {
+      "id": "1740877",
+      "title": "Tempestade na Vila Sésamo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7Ibn8R0SDx1859Ekqd5ALsuxU2f.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1662168",
+      "title": "Authentic Games: No Império Desconectado",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9xkEKCOfVC44Awe2gHJQrt02eak.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1105934",
+      "title": "1968 - Um Ano Na Vida",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/m2YDyCQqteWTGcqBcUGuaIXWAP.jpg",
+      "year": "2023",
+      "type": "movie"
+    },
+    {
+      "id": "1728056",
+      "title": "Frango: A Conspiração do Fast-Food",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vZvfPX0FrUONMfYEaKZo1sXo4Js.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1421594",
+      "title": "Trustor: Por Dentro do Escândalo Financeiro",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/q6NAnjrGV7BGrEIqpglQYshFHq9.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "778946",
+      "title": "Missão Majnu",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gNdWr0cLitHBjwsvj9w6r3D9HLm.jpg",
+      "year": "2023",
+      "type": "movie"
+    },
+    {
+      "id": "609375",
+      "title": "Heel",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/e7I20HP3tEFiuQDzkCGsdwLv4Cs.jpg",
+      "year": "2019",
+      "type": "movie"
+    },
+    {
+      "id": "1337438",
+      "title": "Não Identificada",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/pz5Ma2Xpl58Py202cVgEtyPhizP.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1213049",
+      "title": "O Sonho de Clarice",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5vZaN787XwW5l49eJ8rPz5qvyhf.jpg",
+      "year": "2023",
+      "type": "movie"
+    },
+    {
+      "id": "1219606",
+      "title": "Retrato de um Certo Oriente",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jUa2RypM8eUNW9JwN5XDJfrZhsx.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "1704846",
+      "title": "Instadocs: Alex Murdaugh, Unconvicted",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iP9b3NBxJKtyzLf7CKFWl3MpgKS.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1542812",
+      "title": "Do Outro Lado do Pavilhão",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xtDYQbecaDKrng7DmhZQRxGGKmd.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1736916",
+      "title": "Instadocs: O Jogo dos Palpites",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xeTCcALCqpT8IvJuakrjk5clzXL.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1061661",
+      "title": "O Apanhador de Almas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/awhPCcgZCJFK5ntjihTqALAcbXo.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1033462",
+      "title": "Destruição Iminente",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/63XregsiXaKDNVtDJv3vymHFdLr.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "1027938",
+      "title": "Dentes de Leite",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9rvbc02OyoC9xxyMAqA6thzHOe5.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "539745",
+      "title": "A Revolução dos Bichos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/j2svEVdHI5QfmeXAbuPye5l6y0I.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1510795",
+      "title": "Shake, Rattle & Roll: As Origens do Mal",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4NSwhJVIvO54GyWsvGXHxRPRd3q.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1433929",
+      "title": "N121 Bus de nuit",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kyqgCGP7GkAeBD5wTErqoABzY1u.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1284016",
+      "title": "Hit Para Dois",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9UDXiDRwsKt1G9pSVeXqNdzPAVm.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1341137",
+      "title": "‎Um Grande Despertar",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1245859",
+      "title": "A Mansão Savage",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/k5Maipij0lwfTWJSs6xq3dcCWVj.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1094473",
+      "title": "Bambi, Uma Aventura na Floresta",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/pm4eFHE5hL0YennQkmQftofTEmd.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "1261635",
+      "title": "Encanto Quebrado",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rdFOVAlGrS3Fz3X77DedH6OvXRh.jpg",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "id": "1732097",
+      "title": "Euphoria: Um Olhar para Trás",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/g9T0tOaK7IL5cvJbrcJQ3puNOh8.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1137179",
+      "title": "O Delator",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6oGvvHeToT0cexqG1WoqvmcVBkY.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1511789",
+      "title": "Capitão Hook: As Marés Malditas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1rkLG0iuhvY0gevbH7kFDYIDV6q.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1487861",
+      "title": "Elize: Sombras de uma Mulher",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hLTKARaZn0fH5zr3j5EkKtJhu1G.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1734724",
+      "title": "Preta - Eu Não Ando Só",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/x8MfvmDrnYqf3ZhY1cNbMYUGqkQ.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1620682",
+      "title": "Amor em Câmera Lenta",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1xufFKDpVSxATQh0i7gsA4SjSl1.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1630409",
+      "title": "O Cobrador de Dívidas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qBKdfIV8YeReAYyzebW7R14vWhe.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1723460",
+      "title": "Amor Tóxico",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1280668",
+      "title": "Cash for Gold",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mpSoCWnZVfUNBGDreQUWbZd2Dc1.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "1283671",
+      "title": "Amor Apocalipse",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6am5c1ZnU1T2v308QIEBmzhuU7h.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1096633",
+      "title": "O Soldado Desaparecido",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/g1voqwfA7o8VlbJkGyiL02H70VK.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "1659155",
+      "title": "Conspiradores",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1382832",
+      "title": "A Fera do Pântano",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hxg4RRGVJ2FTq6C38dGaOKu57l8.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1659338",
+      "title": "Shiboyugi: Playing Death Games to Put Food on the Table 44: Cloudy Beach",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ze0GjDGEbpq83LDmGyar358lbcT.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "960033",
+      "title": "O Desafio de Marguerite",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/72trgN1iL0T17CYCzr7GKxqKNte.jpg",
+      "year": "2023",
+      "type": "movie"
+    },
+    {
+      "id": "1299799",
+      "title": "Chopin, Uma Sonata em Paris",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/C1ravfdArkb48xfcbx4RHxwtde.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1401044",
+      "title": "O Meu, O Seu, O Nosso Natal",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kLp3P3eQnXgQSdPDkNYW9T2MNyX.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "1418237",
+      "title": "Arame Farpado",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/o9w7j07MFSSvOWSr0dtFo0F3511.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1656220",
+      "title": "23.000 Vidas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iABvE2vyn7ZorgMlDqtIElpDaLn.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1668364",
+      "title": "Desejo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6iToFU4GaJz4OlLMx34v3VWV7JE.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1427595",
+      "title": "Apenas Coisas Boas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aCXb4le0ogtxwI8kR62tMwwiu5d.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1702607",
+      "title": "O Brasil Evangélico",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qILFLftThKcjhtVVdUqrbvMxQI.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1313226",
+      "title": "A Vida Secreta de Kika",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/Acd3fBHhUDs3av8fkQPB8OhaTiG.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1459709",
+      "title": "A Bahia Me Fez Assim",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/lLgRVHa0zk80ccdOosBJD5ndNFk.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "918287",
+      "title": "Eu Já Fui Engraçada",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xPBNvSdC874oviTgl1DR4VisFwF.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "1073650",
+      "title": "Nosso Natal em Família",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6TY2aQtC0tOQGiMvVJpBoocko1S.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "681434",
+      "title": "Conselhos De Um Serial Killer Aposentado",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dJShBIOyYB1MZDSpcbvcRRiO46.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1193115",
+      "title": "Fora de Controle",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wTK6fhpocXVu2ComINGaU3T8nyn.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1632812",
+      "title": "Nada Entre Nós",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rfawOwTzIEDoBIVgNxpXtrvngus.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1616674",
+      "title": "Eu Antes de Mim",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jnq1i2obAreHlkfEZCswlKu1zvF.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1078801",
+      "title": "Barba Ensopada de Sangue",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7bfhnpThjeVVMfMJdxAvC2Vtm2m.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1126336",
+      "title": "O Aniversário",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7NjwRKKwTGQnBKAYnDBDKjLSzCP.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1242265",
+      "title": "Golpe Explosivo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8Y2C9CBQLXYc61xuUeLER6jwNdD.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1580803",
+      "title": "Susana e Elvira: Sem Plano B",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/l4ygfNJ7PpOa68oqkPOWhZJLWEv.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1361240",
+      "title": "O Verdadeiro Sentido do Natal",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cerKpX1lZRtbpugmmLUJBIUTrFC.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "1118721",
+      "title": "A Vida Que Eu Quero",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bi7hRJ3afbv27clei4qIqV4k5FW.jpg",
+      "year": "2023",
+      "type": "movie"
+    },
+    {
+      "id": "1397201",
+      "title": "Golden Kamuy 3 - Invasão a Prisão Abashiri",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/clYkNUIdjFhe1PJGYiFEBepyy6k.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1155324",
+      "title": "King Ivory: Vício das Ruas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tcLnCy7fWFbucfPUBu0fGplftAW.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1338972",
+      "title": "Armadilha Mortal",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/n6vegYWdGHiumr8fWODZ8SP6vjw.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1438203",
+      "title": "Shogun's Ninja",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yYlePTFBWKpypkEh2Z13jzr2rY0.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "701437",
+      "title": "Queridos, Cresci!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/pQQVDyuNOoAzwRIxqLHlrtFi521.jpg",
+      "year": "2020",
+      "type": "movie"
+    },
+    {
+      "id": "1440050",
+      "title": "Pai em Tempo Integral",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wVwzSsmKWsYKC79vym7jAEHU2wF.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1380316",
+      "title": "Ardente Vingança",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wRJvRIGlMQ7BiS72hhwMmmVknDj.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1703741",
+      "title": "Onde Estiver Estarei: Uma Paixão Rubro-negra",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xU0dutVC6FP16oYhIXHuFaUZddw.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1249199",
+      "title": "19 Outra Vez",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/NAarJ6i1OJ4aEQKuM6Kw43i2nT.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "1633263",
+      "title": "Um Pesadelo Maravilhoso",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yF2VjrEfU3C4hNCz4gCwKqXuy3J.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "29973",
+      "title": "Cobb, A Lenda",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kIYnU9WyxTqok2wt5M2Xe267Xs4.jpg",
+      "year": "1994",
+      "type": "movie"
+    },
+    {
+      "id": "1484913",
+      "title": "Trunfo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gbg2dqK1zIvvSyTMaCJ4g22Pl9l.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1488583",
+      "title": "O Gênio do Crime",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/g3Ztdj2KM1WUvYrPzq2SKM8V3Sd.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1715492",
+      "title": "Naufrágio: O Pesadelo do Costa Concordia",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4LuFhKoO1NXZiB7R3Cu4Eiw1GWR.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1722713",
+      "title": "Miguel Ángel Blanco: As 48 Horas que Mudaram a Espanha",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sGG27jtVbmJ6xPwa8MINgGYavE5.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1292079",
+      "title": "O Advogado de Deus",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gp2oOYYURxxVJScSq6FFKVXWOkL.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1275255",
+      "title": "Anjos da Guerra",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cbYQM3LVXHFjdRcw4thB0SszV0X.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "593804",
+      "title": "Festival Charlie Chaplin",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kZqVmoHksjX1FANINggnaoCmwIn.jpg",
+      "year": "1941",
+      "type": "movie"
+    },
+    {
+      "id": "191550",
+      "title": "Gaby - Uma História Verdadeira",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wecCBEySqd7cbWG7oojQ5YnesJd.jpg",
+      "year": "1987",
+      "type": "movie"
+    },
+    {
+      "id": "1092803",
+      "title": "Fogo Contra Fogo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/44X4UuVxeTjCzKeDsDWGq9uyEHV.jpg",
+      "year": "2023",
+      "type": "movie"
+    },
+    {
+      "id": "1083324",
+      "title": "Escalando o Everest de Chinelos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5FsGF8LbFweTcFC9KRvjKykygm2.jpg",
+      "year": "2024",
+      "type": "movie"
+    },
+    {
+      "id": "1376511",
+      "title": "Uma Amizade para Recordar",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tlSRvlexHMIiygEclzwWc0GIjAa.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1106590",
+      "title": "Rejeito",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8HqU65UxAT9xUjeBxLG0EoizsHR.jpg",
+      "year": "2023",
+      "type": "movie"
+    },
+    {
+      "id": "1449004",
+      "title": "Pau D'Arco",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iB5nwpmZC4RHXFhOJyv9iaw5Pda.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1352381",
+      "title": "O Silêncio das Ostras",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/lYrPJTWEUslWsB0tOSrf0cA26fz.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1723068",
+      "title": "Tubarões de Perto com Bertie Gregory: Tubarão-martelo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/n8zyzS02nwHwUoxu5YpCUhvLM4X.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "844547",
+      "title": "Taurus",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bWH1s160oYX1vybg3zPnL4ygMpw.jpg",
+      "year": "2022",
+      "type": "movie"
+    },
+    {
+      "id": "18974",
+      "title": "As Viagens de Gulliver",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rCsS5LtZSu10XV9i7QUisfCSWM4.jpg",
+      "year": "1960",
+      "type": "movie"
+    },
+    {
+      "id": "26149",
+      "title": "Música do Coração",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yKbzT8q9b65hc1eIZxuRsLxopi7.jpg",
+      "year": "1999",
+      "type": "movie"
+    },
+    {
+      "id": "29376",
+      "title": "A Roda da Fortuna",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gYINlLGUVcqPsb7VxCy8zEMhbq0.jpg",
+      "year": "1953",
+      "type": "movie"
+    },
+    {
+      "id": "149574",
+      "title": "James Brown Live At The Boston Garden - April 5, 1968",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8DKcuXCUXNk99HnFVXAg6vMuh1M.jpg",
+      "year": "2008",
+      "type": "movie"
+    },
+    {
+      "id": "1108306",
+      "title": "Sound! Euphonium: Ensemble Contest",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8XXCFL95E0B2yJ9uhOxIODNsie8.jpg",
+      "year": "2023",
+      "type": "movie"
+    },
+    {
+      "id": "9037",
+      "title": "Grease 2: Os Tempos da Brilhantina Voltaram",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6hpNiJurw8A5f1aJKRqInNmQmtd.jpg",
+      "year": "1982",
+      "type": "movie"
+    },
+    {
+      "id": "3682",
+      "title": "Studio 54",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/h9cBNxRfpX8JGJuy7R6YN4PStKC.jpg",
+      "year": "1998",
+      "type": "movie"
+    },
+    {
+      "id": "10805",
+      "title": "Os Embalos de Sábado Continuam",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zOLfw1dPgL9feu8vTzJ8XOpMngd.jpg",
+      "year": "1983",
+      "type": "movie"
+    },
+    {
+      "id": "804013",
+      "title": "Under the Volcano",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iVlOOpvFCddoLYc0R5lm0UsHjeU.jpg",
+      "year": "2021",
+      "type": "movie"
+    },
+    {
+      "id": "1557993",
+      "title": "Babo: A História de Haftbefehl",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xDcNgFDjo4byORStAQ0xfoPXK55.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "19594",
+      "title": "Bartok o Magnífico",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hFBzhlZObK2jy5AiusMUFmutxOQ.jpg",
+      "year": "1999",
+      "type": "movie"
+    },
+    {
+      "id": "26593",
+      "title": "Rio Lobo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xYAnVB0Y5zlqhHIpX8PD4HBjekV.jpg",
+      "year": "1970",
+      "type": "movie"
+    },
+    {
+      "id": "13249",
+      "title": "À Procura da Vingança",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wYXblPo0s1RrGSJSKOxzxD9lhLV.jpg",
+      "year": "2007",
+      "type": "movie"
+    },
+    {
+      "id": "13496",
+      "title": "Jovens Justiceiros",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cfPnWsHzMlnNwLPdkR8Vimg7w0M.jpg",
+      "year": "2001",
+      "type": "movie"
+    },
+    {
+      "id": "16563",
+      "title": "Sete Noivas Para Sete Irmãos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/eExiNiIMAQ6ArzudNG3G3ehPTc.jpg",
+      "year": "1954",
+      "type": "movie"
+    },
+    {
+      "id": "8388",
+      "title": "Três Amigos!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5BlxocUtfFfpG1QJS7F4FtH6mZ0.jpg",
+      "year": "1986",
+      "type": "movie"
+    },
+    {
+      "id": "18647",
+      "title": "A Face Oculta",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/lG3GFHevR0C56szIkv7broOId0k.jpg",
+      "year": "1961",
+      "type": "movie"
+    },
+    {
+      "id": "492429",
+      "title": "Pistoleiros: Vingança Sem Perdão",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/82r95zHrVDpu3EdaXTZhHd4zbAt.jpg",
+      "year": "2017",
+      "type": "movie"
+    },
+    {
+      "id": "37308",
+      "title": "100 Rifles",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/slmaFStLZ0RMaWopC1xMT125cXy.jpg",
+      "year": "1969",
+      "type": "movie"
+    },
+    {
+      "id": "76140",
+      "title": "Sangue na Terra",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qRIRy1yb44RHCZjKL2O1WEPjK46.jpg",
+      "year": "1953",
+      "type": "movie"
+    },
+    {
+      "id": "18069",
+      "title": "8 Segundos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/spR7fNK7vzp8uhPakXsFHbF9uKf.jpg",
+      "year": "1994",
+      "type": "movie"
+    },
+    {
+      "id": "31658",
+      "title": "A Hora da Pistola",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4sFnOXm9wvJIfWzfwIvTN1dZ8KE.jpg",
+      "year": "1967",
+      "type": "movie"
+    },
+    {
+      "id": "22660",
+      "title": "O Meu Melhor Companheiro",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cAywXQWKv0QgjrKQPHGY6Qle3Zn.jpg",
+      "year": "1957",
+      "type": "movie"
+    },
+    {
+      "id": "987912",
+      "title": "Blackwood",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oFtsst7wMLG0AH8cfYxmIWyrxLw.jpg",
+      "year": "2022",
+      "type": "movie"
+    },
+    {
+      "id": "27105",
+      "title": "A Pistola do Mal",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/t7a1jF54bndiZFplEQ8c1kbiaMU.jpg",
+      "year": "1968",
+      "type": "movie"
+    },
+    {
+      "id": "62648",
+      "title": "Punido Pelo Próprio Sangue",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aclkbF7bIeG9QKtYH2noO8ggMGv.jpg",
+      "year": "1956",
+      "type": "movie"
+    },
+    {
+      "id": "605347",
+      "title": "The Outsider",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/36HLSziHVip4umkEjspf4IW9TKU.jpg",
+      "year": "2019",
+      "type": "movie"
+    },
+    {
+      "id": "359787",
+      "title": "Reza a Lenda",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wbjhR6kPoo2n8gi9MIzIH44zXuj.jpg",
+      "year": "2016",
+      "type": "movie"
+    },
+    {
+      "id": "38732",
+      "title": "E o Sangue Semeou a Terra",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gSnS6dGHBcOdcOc1dQi1qBTnGkV.jpg",
+      "year": "1952",
+      "type": "movie"
+    },
+    {
+      "id": "43829",
+      "title": "Jesse James",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/s85NggId22ntp4pbYwTbtHdalnY.jpg",
+      "year": "1939",
+      "type": "movie"
+    },
+    {
+      "id": "966",
+      "title": "Sete Homens e Um Destino",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sJaBbNqyN0k0z0nJ7EIsAZ4L5SG.jpg",
+      "year": "1960",
+      "type": "movie"
+    },
+    {
+      "id": "10935",
+      "title": "O Portal do Paraíso",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg",
+      "year": "1980",
+      "type": "movie"
+    },
+    {
+      "id": "362703",
+      "title": "Diablo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6uAVDyWhkXfaMo09hNpyqR0xkFp.jpg",
+      "year": "2016",
+      "type": "movie"
+    },
+    {
+      "id": "11842",
+      "title": "Sol Vermelho",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gFTOCKx2f5AVTHFGHUT31ndkvzy.jpg",
+      "year": "1971",
+      "type": "movie"
+    },
+    {
+      "id": "3090",
+      "title": "O Tesouro de Sierra Madre",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aDx0b64VlRJt36kpDwx5CqAY2tg.jpg",
+      "year": "1948",
+      "type": "movie"
+    },
+    {
+      "id": "12160",
+      "title": "Wyatt Earp",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/51LItgyecu2KMAtIchYogEykCIu.jpg",
+      "year": "1994",
+      "type": "movie"
+    },
+    {
+      "id": "14117",
+      "title": "Ardida como Pimenta",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mYsageDBMvUbqP9svZ2Y5B8CKLv.jpg",
+      "year": "1953",
+      "type": "movie"
+    },
+    {
+      "id": "2023",
+      "title": "Mar de Fogo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1xFLWSxUp28egthMzqdfEokYa3h.jpg",
+      "year": "2004",
+      "type": "movie"
+    },
+    {
+      "id": "259611",
+      "title": "Frontera",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rjdJN48tBaLB7HdmyzBnlypXvPj.jpg",
+      "year": "2014",
+      "type": "movie"
+    },
+    {
+      "id": "18118",
+      "title": "O Ouro de Mackenna",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bY2nhM1Va91Ps5NYUIxTq8wKBjT.jpg",
+      "year": "1969",
+      "type": "movie"
+    },
+    {
+      "id": "534262",
+      "title": "À Procura do Submarino I-52",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zlQWKwXaqhd7BJWlA1psOVFkUEd.jpg",
+      "year": "2000",
+      "type": "movie"
+    },
+    {
+      "id": "1490157",
+      "title": "Robbie Williams: Live at the Albert",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qGqjS1FC7EWUwnftiEfdN7eagQI.jpg",
+      "year": "2001",
+      "type": "movie"
+    },
+    {
+      "id": "792206",
+      "title": "O Chefinho – Pega Esse Bebê!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wSpHWT1YpwC2sUUYAPuW5LarFEA.jpg",
+      "year": "2020",
+      "type": "movie"
+    },
+    {
+      "id": "426312",
+      "title": "Fantasma cidade fantasma",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aKWhvCeh2nW9w4sxMUpwT0vXOWp.jpg",
+      "year": "2016",
+      "type": "movie"
+    },
+    {
+      "id": "1523096",
+      "title": "Fragmentos para Vênus",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/15Xja9WDqxylfwrV7QQ1aP8ABsb.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "1089768",
+      "title": "Root",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/txuwAaX1G4y2Ml1hEOs1jYXyqqq.jpg",
+      "year": "2023",
+      "type": "movie"
+    },
+    {
+      "id": "1629799",
+      "title": "O Fio da Meada",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jBhhKgySDsY7GI5AMxRL7i9UDSA.jpg",
+      "year": "2019",
+      "type": "movie"
+    },
+    {
+      "id": "1073149",
+      "title": "O Garoto que Hackeou o Twitter",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/s7FYEiNABEAD0X7pQbYsUfySBM0.jpg",
+      "year": "2020",
+      "type": "movie"
+    },
+    {
+      "id": "535149",
+      "title": "As Incríveis Artimanhas da Nuvem Cigana",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jl8ZcbhO22jsU4g8Vq1diDCMdc8.jpg",
+      "year": "2016",
+      "type": "movie"
+    },
+    {
+      "id": "508075",
+      "title": "Balança mas não Cai",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/y3xfgK7jtReOecx8b3VVR80C8Fr.jpg",
+      "year": "2012",
+      "type": "movie"
+    },
+    {
+      "id": "1079968",
+      "title": "Paula",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kqve8TwLrTOEeXArLmozC3wFNta.jpg",
+      "year": "2021",
+      "type": "movie"
+    },
+    {
+      "id": "256242",
+      "title": "Cortina de Fumaça",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vFQtralVNLc1KovPqhhjNPGbUsI.jpg",
+      "year": "2011",
+      "type": "movie"
+    },
+    {
+      "id": "1598379",
+      "title": "Renato Albani Compilado Interagindo Com a Plateia - 2021",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/foQj3evAQSPEFhETJUrKpcBZH2G.jpg",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "id": "278444",
+      "title": "Causa e Efeito",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/uaUSlWrDA2G4cj6L4qqlgFOMh95.jpg",
+      "year": "2014",
+      "type": "movie"
+    },
+    {
+      "id": "363904",
+      "title": "Masha e o Urso - Vol 3",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wuFLoeOeribuIGTX3Nhpep5oiWt.jpg",
+      "year": "2008",
+      "type": "movie"
+    },
+    {
+      "id": "114814",
+      "title": "Dominatrix - Jogos de Sedução",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/p43sV4C73MOKY99As9KW8d3zrgS.jpg",
+      "year": "2006",
+      "type": "movie"
+    },
+    {
+      "id": "814873",
+      "title": "Apalaches Selvagens",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/b62CqF9wIeLdYqpm85nCGp4tnzU.jpg",
+      "year": "2013",
+      "type": "movie"
+    },
+    {
+      "id": "27945",
+      "title": "Hombre",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/puqgDLxdIZSnodDJ6Q0KxofOebo.jpg",
+      "year": "1967",
+      "type": "movie"
+    },
+    {
+      "id": "15263",
+      "title": "Quando Um Homem É Homem",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bMg4BMP60VLqdlcXAOc8jNl6s19.jpg",
+      "year": "1963",
+      "type": "movie"
+    },
+    {
+      "id": "275631",
+      "title": "Rastro Perdido",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8xAuh1KvxT9vHkJNwQIzyroMCqY.jpg",
+      "year": "2006",
+      "type": "movie"
+    },
+    {
+      "id": "136228",
+      "title": "Onde Imperam as Balas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dseUhH2ZGlDmAI3UndbNgfS8KuX.jpg",
+      "year": "1956",
+      "type": "movie"
+    },
+    {
+      "id": "14241",
+      "title": "As 7 Faces do Dr. Lao",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iLiSUuejkSXNWhQlRjIJUlF44s1.jpg",
+      "year": "1964",
+      "type": "movie"
+    },
+    {
+      "id": "287503",
+      "title": "Miragem",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gRo4qyaWfEaD70FvtpgbQiawVmi.jpg",
+      "year": "2014",
+      "type": "movie"
+    },
+    {
+      "id": "43040",
+      "title": "Audazes e Malditos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xWU9jhaL6Dg47MEW57IqAjaXj10.jpg",
+      "year": "1960",
+      "type": "movie"
+    },
+    {
+      "id": "16331",
+      "title": "Justiça de um Bravo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gKdb8fcKDQLhlRi6SRWxjTMtI0B.jpg",
+      "year": "1999",
+      "type": "movie"
+    },
+    {
+      "id": "111459",
+      "title": "Califórnia",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5uzCAnXTkzw1UTAR3bTXh7Wf831.jpg",
+      "year": "1947",
+      "type": "movie"
+    },
+    {
+      "id": "39558",
+      "title": "Audácia de Forasteiro",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/i8td1yjG10IEFk3MrG17uNH9rKs.jpg",
+      "year": "1959",
+      "type": "movie"
+    },
+    {
+      "id": "95838",
+      "title": "O Dólar Furado",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cewLaeFpL9ApcUSn4T8oDYcMtXO.jpg",
+      "year": "1965",
+      "type": "movie"
+    },
+    {
+      "id": "11175",
+      "title": "Lucky Luke",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cnBw87wu31s6VM6LKilokFwgqZu.jpg",
+      "year": "1991",
+      "type": "movie"
+    },
+    {
+      "id": "89888",
+      "title": "A Vingança de Wyatt Earp",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hqQvZ3TcV8f1oy8K5No9bR0FOxQ.jpg",
+      "year": "2012",
+      "type": "movie"
+    },
+    {
+      "id": "116871",
+      "title": "Dólares de Sangue para McGregor",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xZf1cidHYDzSeNq8jzWGLsoCjnK.jpg",
+      "year": "1970",
+      "type": "movie"
+    },
+    {
+      "id": "1182189",
+      "title": "Adiós al amigo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vOyWHDi3ZS5I7PRWINQ0twxNMAk.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "23356",
+      "title": "O Purgatório",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zzDesXXUjvx1agDNPlNdVcu3w5Z.jpg",
+      "year": "1999",
+      "type": "movie"
+    },
+    {
+      "id": "1081705",
+      "title": "O Silêncio dos Culpados",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/fw8wZLFBQEbkFk6hvviDglD5tWP.jpg",
+      "year": "2023",
+      "type": "movie"
+    },
+    {
+      "id": "56431",
+      "title": "Uma Pistola Para Ringo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/pveEikUHPYHulL4gVZEAe9Sf4MQ.jpg",
+      "year": "1965",
+      "type": "movie"
+    },
+    {
+      "id": "51051",
+      "title": "Uma Cabeça a Prêmio",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/c7qK6yY7cMiL1JGMWDRgvn4Y3EK.jpg",
+      "year": "2006",
+      "type": "movie"
+    },
+    {
+      "id": "419274",
+      "title": "O Menino da Porteira",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aeFAIBO89UaE3i3t75msdReeZCC.jpg",
+      "year": "1977",
+      "type": "movie"
+    },
+    {
+      "id": "21717",
+      "title": "Jake Grandão",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hSwLFWVTpQqVHv9lERmwXBDQj5l.jpg",
+      "year": "1971",
+      "type": "movie"
+    },
+    {
+      "id": "6609",
+      "title": "Keoma",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/pIA7fJH6t6Vw0TUiAziGz7KIEHn.jpg",
+      "year": "1976",
+      "type": "movie"
+    },
+    {
+      "id": "110228",
+      "title": "Atiradores Fabulosos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bsVdy5XTCuywMfttz4vQPO5F4er.jpg",
+      "year": "1972",
+      "type": "movie"
+    },
+    {
+      "id": "12146",
+      "title": "Desaparecidas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4KNZmENogCZhf1rG6t4xg68sziI.jpg",
+      "year": "2003",
+      "type": "movie"
+    },
+    {
+      "id": "506410",
+      "title": "We Take the Low Road",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qh8Ix2UUgz1cJZyEeIa4D8YKdcM.jpg",
+      "year": "2019",
+      "type": "movie"
+    },
+    {
+      "id": "42201",
+      "title": "Raízes da Ambição",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/y7c6oYikUX6yekbnA8NDWZTutEu.jpg",
+      "year": "1978",
+      "type": "movie"
+    },
+    {
+      "id": "934852",
+      "title": "Rise Above",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tSwKA6I1ZXwC1HbYX8EmpA761o0.jpg",
+      "year": "2022",
+      "type": "movie"
+    },
+    {
+      "id": "468407",
+      "title": "Calango Ball",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/f6vVkz0z5WKGHmj39EY5h0mJvPD.jpg",
+      "year": "2017",
+      "type": "movie"
+    },
+    {
+      "id": "77002",
+      "title": "Bruce Lee - O Dragão Chines",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/q5SR0JUsYsw1N92bSigKuzwKYdS.jpg",
+      "year": "1972",
+      "type": "movie"
+    },
+    {
+      "id": "719938",
+      "title": "Nando Viana: A vida não tá nem aí pro teu planejamento",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/h9np5V0a9kwxMkv4HzI2GED1Njb.jpg",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "id": "115529",
+      "title": "Atómica",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iXuPnVbI96LZbZfQj40xg8Z8etv.jpg",
+      "year": "1998",
+      "type": "movie"
+    },
+    {
+      "id": "585163",
+      "title": "Mirante",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kCIT3tYY3l3uUnd1qVsE82c37Yk.jpg",
+      "year": "2019",
+      "type": "movie"
+    },
+    {
+      "id": "642094",
+      "title": "Gato",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8XXM7RT4XPnWmGKUXJU7kNCfhz.jpg",
+      "year": "2009",
+      "type": "movie"
+    },
+    {
+      "id": "370622",
+      "title": "Amigos de Risco",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wafr1FCmTFADNr1oOMHbRCiVfsa.jpg",
+      "year": "2007",
+      "type": "movie"
+    },
+    {
+      "id": "950051",
+      "title": "Sujeito Oculto",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bGKGfS5d6NQrCxjQPy60KqguslQ.jpg",
+      "year": "2022",
+      "type": "movie"
+    },
+    {
+      "id": "212267",
+      "title": "Na Quadrada das Águas Perdidas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dK7Mp8ssQeE3npyxh04SjKhNBsW.jpg",
+      "year": "2013",
+      "type": "movie"
+    },
+    {
+      "id": "1710008",
+      "title": "Sem Nada a Perder",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/h18Yg7onsoRDsOlkGhIiMCUT9W8.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1125701",
+      "title": "Refúgio de Inverno",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tRJsSc6cnIRZdQznK3YblxyFLiJ.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1205225",
+      "title": "Portões do Inferno",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1hHbYJTZmNmNv5zQBQqUhIHfKGR.jpg",
+      "year": "2025",
+      "type": "movie"
+    },
+    {
+      "id": "873512",
+      "title": "Meu Coração é um Pouco Mais Vazio na Cheia",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zU0mK6kxgUXE79SRyCp7fKswRYS.jpg",
+      "year": "2021",
+      "type": "movie"
+    },
+    {
+      "id": "1659389",
+      "title": "One Piece: Heroines",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "138632",
+      "title": "Até Que a Morte os Separe",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aHL7unZQgSFKn6TFhEV7oPzpjge.jpg",
+      "year": "2006",
+      "type": "movie"
+    },
+    {
+      "id": "1450527",
+      "title": "Forbidden Fruits",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/AoD5aNBtGUCQzR3MQSzOu270wHU.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1698575",
+      "title": "Snoopy Apresenta - Não Há Nada Como a Nossa Casa, Snoopy",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iXqPxcIQoYL7PEfXVu9VJyXmtdT.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1361774",
+      "title": "The Dink - A Última Chance",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/lIQGvXrP76yQ3bKiUkYTqGTXFcM.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1318621",
+      "title": "Descendentes: País das Maravilhas Malvado",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/eAwtbyR9wIaYoEUozTQjlu7KhgN.jpg",
+      "year": "2026",
+      "type": "movie"
+    },
+    {
+      "id": "1481343",
+      "title": "A Boca do Diabo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2CZecxLrTSmzngWqIGganSMg6gK.jpg",
+      "year": "2026",
+      "type": "movie"
+    }
+  ],
+  "series": [
+    {
+      "id": "311731",
+      "title": "Monstros de Deus",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zQSXfv1GiLJW2kszQUNMyrZGoqF.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "83085",
+      "title": "Treme Treme",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wnQgcZzuw4MrR72pcSSnqnsF0gd.jpg",
+      "year": "2015",
+      "type": "series"
+    },
+    {
+      "id": "327817",
+      "title": "Harry Quer Casar",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oV3Kr8qV9ta1RYqtk35ajYmrFax.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "298168",
+      "title": "Estilhaços",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/orLH106fzkssfRH7Sh1ZMbM7YBP.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "296814",
+      "title": "Sempre Rir: A História do Palhaço Mais Famoso do Mundo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/A7bguY0P9cv7HSfrEv0XGWSFNPf.jpg",
+      "year": "2025",
+      "type": "series"
+    },
+    {
+      "id": "276505",
+      "title": "A Missão",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cN4AtbXonivSo1ETMHpHP3Gl16u.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "85250",
+      "title": "Pesadelo Americano",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/96Lq0RfjyXmmyIvegbm4zpncZMq.jpg",
+      "year": "2019",
+      "type": "series"
+    },
+    {
+      "id": "283297",
+      "title": "Sterling Point",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "91794",
+      "title": "Nada de Bandeja",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kKzGcTc1URsjhqbiuh7BMNyxTuV.jpg",
+      "year": "2019",
+      "type": "series"
+    },
+    {
+      "id": "101200",
+      "title": "#blackAF",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rZsWeJzJbsb14IjNgTeBP3FEmvx.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "106894",
+      "title": "Emergência Animal",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dFjk3w8OJyLi33A6uHqCttd0wbP.jpg",
+      "year": "2018",
+      "type": "series"
+    },
+    {
+      "id": "330129",
+      "title": "A Mulher Proibida",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6yI1f9qk1aaW16f6EkIPi73HXaS.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "283151",
+      "title": "The Five Star Weekend",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/l9z65nDVteL88PmwDqyiTFmxCtF.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "321954",
+      "title": "Casa de Stassi Schroeder",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "327814",
+      "title": "Projeto Final",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/11rCh2E4SmdT06Qr9HsBrIftoHQ.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "247796",
+      "title": "Diarra de Detroit",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/82h6c3yOXvaty7s0VNIFV8Fc3We.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "242008",
+      "title": "Marbella",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/u2w6pfPNaK6OxICsrtS6MVLOjpV.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "313101",
+      "title": "Musafir Cafe",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1SbKjtoRKIpVQG5iYnumnfQIqhd.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "328735",
+      "title": "Os Assassinatos de Idaho: Pesadelo Universitário",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "318419",
+      "title": "Paradise: O Podcast Oficial",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3btPk5vUs9waWKSPTYwGefmKMKg.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "209835",
+      "title": "Quem Matou Otto Mueller?",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vi2mcR0TpAAUN6CEvaMwRMuj2Uw.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "322785",
+      "title": "A Batalha dos 100 Cozinheiros",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/n1AMcuCgGgXSokKOmYJ5cv1k8n6.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "297772",
+      "title": "Critical Role: The Mighty Nein",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/485htmZIOsOEjeHLR0IBFdQFNwX.jpg",
+      "year": "2018",
+      "type": "series"
+    },
+    {
+      "id": "64220",
+      "title": "Breakthrough: Bem-Vindo ao Futuro",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/epoHwwoT4VAxOcSEUqjEFNeyQLh.jpg",
+      "year": "2015",
+      "type": "series"
+    },
+    {
+      "id": "61616",
+      "title": "Sobreviva, se Puder",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/j9w3iF6BygWrZl7cefCpqGyb9yA.jpg",
+      "year": "2013",
+      "type": "series"
+    },
+    {
+      "id": "80259",
+      "title": "De Volta pra Pista",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rpf7ybSZuqFWpwbxzD8dRIyiqO.jpg",
+      "year": "2013",
+      "type": "series"
+    },
+    {
+      "id": "65460",
+      "title": "Coppers: Justiça Implacável",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gWA4QqyplBE6ktJvr3TjEoGTJv4.jpg",
+      "year": "2016",
+      "type": "series"
+    },
+    {
+      "id": "287238",
+      "title": "Fúria",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/o5rdLGzKH359Kh74KXbF9Acnv4n.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "324434",
+      "title": "Sou Luna: De Volta à Pista",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zgBu2yOtE2Swc4ZyR4djiau0Dpg.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "205239",
+      "title": "Sabores Extremos com Gordon Ramsay: Aventuras Extremas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/a6GVT4Y0trqWaI4L4cOMqv8cbnU.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "139132",
+      "title": "Pearl Harbor: Minuto a Minuto",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4HoFB4MTXqUeHT2R26XMGtjG5if.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "329394",
+      "title": "O Pai da Minha Filha",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9oSHbsE4gbnvzpvYMEtv886YCBt.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "132012",
+      "title": "Como Virar um Cowboy",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iI8FdyODT9b6ydXfPLTYaPVko5i.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "295099",
+      "title": "Amor em Ruínas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/LevsRifthKTYSuuCmI6A17k6HM.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "327760",
+      "title": "Anos 90: A Explosão do Pagode",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hCKbkQUpAKFd049tqakIt7Rd5Dg.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "299188",
+      "title": "Jogada de Risco",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iEcju8TBN5jmZswIpQXV5YTJB9L.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "281281",
+      "title": "Unidade de Elite GIGN",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gOMeaNpXAu4hE7iowA9LD5eSHX0.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "329383",
+      "title": "Meu Nome é Preta",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2f6e3MdT7GVTK8eSyJumllTIq9p.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "105055",
+      "title": "Tempestades Implacáveis",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vZVJhbDNQqqujq6CB0uYBNszbwN.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "104201",
+      "title": "Taste the Nation with Padma Lakshmi",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8IQSs2FZ2YxI9S6xk6k0VKxjfTm.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "258518",
+      "title": "Stories da Mansão",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/36Qr4X2BsCSk14JfWt1vNG8RrA2.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "240798",
+      "title": "Gaddar: Sem Piedade",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jGUZcxYv8doPgQ2B1pi3iBnb5GN.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "274782",
+      "title": "A Mulher do Banker",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mO6KeniPK2zEvT37OEWR30gEUMv.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "325622",
+      "title": "Aula de Assassinato",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aXZduHzTSH9uDJqzy6T6oHikfEB.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "328150",
+      "title": "Love Algorithm",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/eLtKtcucvdVbX2ETy7uPsRUYL8m.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "270572",
+      "title": "Lord of the Flies",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "320430",
+      "title": "You're Killing Me",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "286709",
+      "title": "Os Westies: Donos do Oeste",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oowoQborxPwaa5WJ8UIUHe5pFNC.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "313323",
+      "title": "Nurse the Dead",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iyknfrYDm4yTFq6SoAYpeTE2KH.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "1781",
+      "title": "Os Pioneiros",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iPbWZcxiuMyzcoKjE7tzImyPpt.jpg",
+      "year": "1974",
+      "type": "series"
+    },
+    {
+      "id": "282859",
+      "title": "Diogo na Cozinha",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cRk6xmPFjjRJYmtsupE9fVWTKun.jpg",
+      "year": "2025",
+      "type": "series"
+    },
+    {
+      "id": "327787",
+      "title": "A Salsa de Salcedo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6YJwwuKbJvV8nwK97nH1rsfmLFh.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "58937",
+      "title": "Masters of Sex",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bC42ksckQpjfck2BZ5McaEDN4pk.jpg",
+      "year": "2013",
+      "type": "series"
+    },
+    {
+      "id": "324562",
+      "title": "Squatters: Get the F*** Out of My House",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yIhz2K69CdyyP5gxskI2L7AQW89.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "290232",
+      "title": "Não Tenho Medo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cXdLcQJBgzGGL1qjUM2ZyqnMTCo.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "325858",
+      "title": "Ultras: Paixão e Morte",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/AjGfTHDoCMySQOrNhzZMC57k10v.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "62317",
+      "title": "Botched: Desastres do Bisturi",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/CjAyzlaM8bxaNnj8Jg3ox91LD6.jpg",
+      "year": "2014",
+      "type": "series"
+    },
+    {
+      "id": "246233",
+      "title": "BONES 25: DREAMING FORWARD",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vGf5AFH2n0xtlhLnVmmhFryRP2O.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "283609",
+      "title": "Super Subbu",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oNjTdpWZFccXGekoWwIqNZZEoXK.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "277640",
+      "title": "Pompeia: Além do Tempo com Tom Hiddleston",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iKiD6DqHLKF4Kfr3mJyJCD103kk.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "287620",
+      "title": "Stuart Não Consegue Salvar o Universo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cqjN2oaX0N3rVQHZ0WG9O9CWwqE.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "241882",
+      "title": "Parceiras no Crime",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/giGyRt8ImU8KWnI9Xwqy1vKra7e.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "288671",
+      "title": "O Mapa dos Desejos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sd26iv3RzCUKZPmbrQOHHDa6gUq.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "254528",
+      "title": "O Falcão do Golfe",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/g22CVVxQiort0J9pabyLjggep0v.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "283304",
+      "title": "Uma Casa na Pradaria",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5U8WPMqnTx0xGQWwTVLTJGz8wqC.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "278624",
+      "title": "Lucky",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "313727",
+      "title": "Miss Behave",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dHAV6cGS43qF9hPELupUAFkAfEF.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "319820",
+      "title": "Rosa Elettrica - In fuga con il nemico",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6L8mWi31O2SwdX8b3oCLv0S6eJI.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "325188",
+      "title": "A Pior Vizinhança",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jedGZ2DMXQTvemg0Vx77WTAiBN4.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "254420",
+      "title": "Elle: Legalmente Loira",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2yYFavbSBNwW0dNCbVKw57qSaQZ.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "287976",
+      "title": "O Verão de 1936",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/diytnT5JBnGmsBOdynQKUj7QMKW.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "292462",
+      "title": "Irmãs Divorciadas de Tyler Perry",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sRvxRFx4INJNqgmpMbijQTWwUWX.jpg",
+      "year": "2025",
+      "type": "series"
+    },
+    {
+      "id": "73910",
+      "title": "Spy in the Wild",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rG6oDKwnffl5OLe7aa1PgcCsF0j.jpg",
+      "year": "2017",
+      "type": "series"
+    },
+    {
+      "id": "286617",
+      "title": "Tip Toe",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2V9V7dxNCNFFYpMsvID6PcZQ7Ia.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "290953",
+      "title": "A Irmandade da Adaga Negra",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6Ol47btYfg5NDy6a6GjglcrOwOi.jpg",
+      "year": "2025",
+      "type": "series"
+    },
+    {
+      "id": "21561",
+      "title": "A Quinta Dimensão",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/AhYH64bB8Cg13GlnjhNBvhDmFwT.jpg",
+      "year": "1995",
+      "type": "series"
+    },
+    {
+      "id": "322427",
+      "title": "O Experimento Americano",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yciuq5wF4jmipPu9yzCVUlGGJgI.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "3382",
+      "title": "As Panteras",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kGegHTleO2gf9ZlLDJKJm1TcfXE.jpg",
+      "year": "1976",
+      "type": "series"
+    },
+    {
+      "id": "275557",
+      "title": "Inocência Selvagem",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oxn4ylDZSnQq83H0jXAmueBFV8A.jpg",
+      "year": "2025",
+      "type": "series"
+    },
+    {
+      "id": "295780",
+      "title": "Larry e a Busca da Infelicidade",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sYvLOHT7Om7RbJcaSfFIlsNGAJ3.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "232630",
+      "title": "Modo Tunado",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1ZLjPe9jTyTvd5xophLDVchXfpe.jpg",
+      "year": "2023",
+      "type": "series"
+    },
+    {
+      "id": "297246",
+      "title": "Monstros Sobre Rodas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/eCDYhFdgnon6jmtLaBgsSsVg0FN.jpg",
+      "year": "2025",
+      "type": "series"
+    },
+    {
+      "id": "259609",
+      "title": "Bipolar",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7TXWDEHQmYO4K3Ots0O4k6H5kSv.jpg",
+      "year": "2010",
+      "type": "series"
+    },
+    {
+      "id": "323842",
+      "title": "Várzea: Onde Nasce o Futebol",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hw1GzjpTcxhhgaI5Rd4s6EP3gbX.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "325271",
+      "title": "Dating Alys Perez",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1BiRO1RHDRBOhv1wlHYbw6iUrU1.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "11203",
+      "title": "Doutor Jivago",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iqQRFtJmXrTJWjuZvtKJZawagWb.jpg",
+      "year": "2002",
+      "type": "series"
+    },
+    {
+      "id": "296285",
+      "title": "Oasis",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iuKWuyyam7iuqvWWPjbNlniZI9l.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "316881",
+      "title": "IC- Investigação Criminal",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/474agBUft3bxR50ipnAV6q8Vur7.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "322928",
+      "title": "Million Dollar Nannies",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/i16LcTs83PG4D6vGiUC0dL8Fgcb.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "74013",
+      "title": "Tempos de Guerra",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hxRnwBGuaWPXe6UTx2McQQ3ILeF.jpg",
+      "year": "2017",
+      "type": "series"
+    },
+    {
+      "id": "71247",
+      "title": "Austentação",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5bvhmTJOvtwg3jk542hHKHRE5iw.jpg",
+      "year": "2015",
+      "type": "series"
+    },
+    {
+      "id": "7143",
+      "title": "Antologia do Medo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vlcynm3pJf5tRsyXre9oEnVAEVb.jpg",
+      "year": "2008",
+      "type": "series"
+    },
+    {
+      "id": "246839",
+      "title": "James Brown: Say It Loud",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ydsO48UkdL2h9fFXDbalnIuUoPZ.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "315610",
+      "title": "Orgulho",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4pEfAVMt4VJ1G1TzPDkkGBBMebP.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "323979",
+      "title": "Os Topuria",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/fjajtHv0GTW7ttXcUH2tgRKw1yI.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "322261",
+      "title": "No Fogo Com Bronze",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/r6I7rsxdl9v9tAc8mUiRtD2E6XR.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "259200",
+      "title": "Perdendo o Juizo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ioyuupNi55EPjqutl0Kl6KaXZuV.jpg",
+      "year": "2025",
+      "type": "series"
+    },
+    {
+      "id": "322430",
+      "title": "O Polígamo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/44dDRL0E3BqxFW8qje9Ilkv0iv7.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "324043",
+      "title": "O Paraíso das Plus Size: Abusos e Mentiras",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/k5kEG4LTnfLJ3Uchw2MyzLX6Imf.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "319661",
+      "title": "Operação Guerra Verde",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/owls79jn4a0FLy3xt092La1zrn7.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "247334",
+      "title": "Um Bom Divórcio",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yj8lZdBaTA6QpbUPjMkvPmnRnxX.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "309732",
+      "title": "Confissões de Assassinos: Verdades Perturbadoras",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aurSOkkKxD7QXs2uGc6aO7N5qu1.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "270699",
+      "title": "Glitter e Ganância: A História de Lisa Frank",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8Q3AhLD8taXfabqp5ikJtIShOWP.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "322426",
+      "title": "Noruega: O Retorno Que Promete",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gzOE9qmITz5qJ2XFJP8nIhNMRR5.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "323039",
+      "title": "O Melhor do Mundo com Antoni Porowski",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3cTBwAS3kLDV9UkeFUhvGL1VomG.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "318203",
+      "title": "Alice and Steve",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/m6kzq1EMrDhY5RKhhxqW3okyfCx.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "319919",
+      "title": "Dubai Ostentação: Milionários Indianos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/26TTFiR3kLzqrzPw2ZJEavpTPHD.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "315596",
+      "title": "As Fãs do Turno da Noite",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kdbDbSO9jMUbdmlRKaRLZkbQjbN.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "322974",
+      "title": "Os Escolhidos da Beleza",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "319048",
+      "title": "K-Everything: A CNN Original Series",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/acKxwOQvtJWqkt7P1f7ipdd05LF.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "323111",
+      "title": "Michael Jackson: O Veredito",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5PBXN5Z9BCQaxT8QrLX3f8CSjxS.jpg",
+      "year": "2026",
+      "type": "series"
+    },
+    {
+      "id": "109476",
+      "title": "Desafio Selvagem: 100 Dias no Alasca",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/q3GUfstW6NwYlBVGUFdEKCcEh2a.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "58010",
+      "title": "The Guilty",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/l7htAfsU3mxRyJIpFsFGSNBpfH7.jpg",
+      "year": "2013",
+      "type": "series"
+    },
+    {
+      "id": "90242",
+      "title": "Caçadores de Pítons",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3un5BFvV8W5k48PK8e6ssT2r2Oj.jpg",
+      "year": "2019",
+      "type": "series"
+    },
+    {
+      "id": "66606",
+      "title": "Raízes",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/grUCZEzcKtEK9BImMhM0SJCIJws.jpg",
+      "year": "2016",
+      "type": "series"
+    },
+    {
+      "id": "301823",
+      "title": "Masmorras e Batatas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kDmH9WVy0DLBPgVk151BnsFSHAY.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "252584",
+      "title": "A Persistência da Memória",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/p6sirrTgls3GIDU8RTeeWm2uuuR.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "117010",
+      "title": "Academia de Giuseppe",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rKdSA5YHKfFgNmEX7fgaObzprLZ.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "238394",
+      "title": "Alegorias do Brasil",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oaXhukWGP0t5VaExfp1SHgvFYQl.jpg",
+      "year": "2018",
+      "type": "series"
+    },
+    {
+      "id": "117649",
+      "title": "Criaturas Estranhas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7U0agXw5q8lKxYcRv9zO1eXtYHn.jpg",
+      "year": "2015",
+      "type": "series"
+    },
+    {
+      "id": "302595",
+      "title": "Taxitramas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5ljOa4ErWnGCk0IbZqD2qGoWghY.jpg",
+      "year": "2019",
+      "type": "series"
+    },
+    {
+      "id": "313305",
+      "title": "Ministério da Verdade",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/y7O22T3QXtEAv8ZA7YLX9CrgQ8O.jpg",
+      "year": "2023",
+      "type": "series"
+    },
+    {
+      "id": "157205",
+      "title": "David Blaine: Magia Inesperada",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/uSShdCZONxrBEwyiUT1DMx0Ky5B.jpg",
+      "year": "2025",
+      "type": "series"
+    },
+    {
+      "id": "225866",
+      "title": "O Que Estou Comendo? Com Zooey Deschanel",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8iEQdYIMdpQGuH8X0KAt7IRgELI.jpg",
+      "year": "2023",
+      "type": "series"
+    },
+    {
+      "id": "231311",
+      "title": "Animais de Perto com Bertie Gregory",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ujHhZWFr8dE60TkljLSN11nX7Fl.jpg",
+      "year": "2023",
+      "type": "series"
+    },
+    {
+      "id": "208709",
+      "title": "A Trama",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/27ZvQGDi9cgPdRgRULtWZkVLqc6.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "91445",
+      "title": "Two Weeks to Live",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cOhQYHbHVo03elgWA4mTW5bzNAg.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "102901",
+      "title": "Condenados pela Mídia",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7AhMUw8JbGKi7MfILtBaHauS8Q8.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "90837",
+      "title": "Isto É futebol",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1ZMdAee5nXzUA7pyoYgJajG8Uus.jpg",
+      "year": "2019",
+      "type": "series"
+    },
+    {
+      "id": "25992",
+      "title": "MasterChef",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xSizqjt6Mg5XRSC0LwfaMm68oMx.jpg",
+      "year": "2005",
+      "type": "series"
+    },
+    {
+      "id": "271050",
+      "title": "Rise of the Raven",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/q69nebvjrLU6u131L6HGQyO2OwP.jpg",
+      "year": "2025",
+      "type": "series"
+    },
+    {
+      "id": "227220",
+      "title": "Mexicánicos Celebridades",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5lnh5XhLeOP6FJmXqQOqpCJZrNU.jpg",
+      "year": "2023",
+      "type": "series"
+    },
+    {
+      "id": "93246",
+      "title": "Over Run Over",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aan1hUqrORtcd8TKfLWQWtdopUP.jpg",
+      "year": "2016",
+      "type": "series"
+    },
+    {
+      "id": "233592",
+      "title": "Entre tierras",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9CoArNRTXUxiaGvR8CUX59jRB6k.jpg",
+      "year": "2023",
+      "type": "series"
+    },
+    {
+      "id": "243741",
+      "title": "Formula Dreams",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cAn6UerbPG7PTbn8a3KlfoDnQJa.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "241162",
+      "title": "Te Vejo No After",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6Y0VPs2lnBUPwUYMXtnVXBRc8NK.jpg",
+      "year": "2023",
+      "type": "series"
+    },
+    {
+      "id": "238395",
+      "title": "Inconveniências Históricas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/lP9b6NUqSAIe9LyKCStemuSAI6i.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "236868",
+      "title": "Assim Como a Gente",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zfY44rhTvb69WCCbuMtMtlnAQry.jpg",
+      "year": "2023",
+      "type": "series"
+    },
+    {
+      "id": "122650",
+      "title": "Globo Rural",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cMgNEPYsc2SeXUKVTKIyWqpLLvo.jpg",
+      "year": "1980",
+      "type": "series"
+    },
+    {
+      "id": "220148",
+      "title": "Limbo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xddL47MKelUeZi6utRmSQ9fVRg0.jpg",
+      "year": "2023",
+      "type": "series"
+    },
+    {
+      "id": "12461",
+      "title": "Players",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yUHeIgpgwXkzNpdlh0Vt9pGNnw0.jpg",
+      "year": "1997",
+      "type": "series"
+    },
+    {
+      "id": "6310",
+      "title": "Filthy Rich",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rHjXZARdwSDWdZnWKMF7GBzGyjl.jpg",
+      "year": "1982",
+      "type": "series"
+    },
+    {
+      "id": "230218",
+      "title": "Favela Gay: Periferias LGBTQI+",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kkpPWnEB0z8KgvFH4FSIJu2c3JB.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "92824",
+      "title": "Agora Muppets",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/porL1UExXMIWH78lTAESV7x4l1j.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "2538",
+      "title": "Hyperdrive",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zUpHbyVK0O32KDqd2U0egJHfWif.jpg",
+      "year": "2006",
+      "type": "series"
+    },
+    {
+      "id": "122685",
+      "title": "Pequenas Empresas, Grandes Negócios",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tsyBnpGRLTzRS6EbgTrkxVn8KmS.jpg",
+      "year": "1988",
+      "type": "series"
+    },
+    {
+      "id": "56304",
+      "title": "Gigantes da Indústria",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kmxok1OGUFLd2psEMzZ7mU0MjQi.jpg",
+      "year": "2012",
+      "type": "series"
+    },
+    {
+      "id": "106463",
+      "title": "De la vida al plato",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/AbGs7v8hvPEJsAPmzxqP7btpcYr.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "286056",
+      "title": "Mix Tape",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3M1P5qla8gpaPZQkyZmAI7p08CW.jpg",
+      "year": "2025",
+      "type": "series"
+    },
+    {
+      "id": "258217",
+      "title": "Amor Proibido",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/19uzCQbIrnAUMZ52LhPzoEA30xT.jpg",
+      "year": "2024",
+      "type": "series"
+    },
+    {
+      "id": "203286",
+      "title": "Depois do Adeus",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ctWDo1qe0gFtYWfNKK8ZgSP2Uto.jpg",
+      "year": "2013",
+      "type": "series"
+    },
+    {
+      "id": "230966",
+      "title": "Drunk History: A Historia Bebada",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kTOpAg26R0gnxKR4DPhruVwLIi4.jpg",
+      "year": "2017",
+      "type": "series"
+    },
+    {
+      "id": "132719",
+      "title": "La casa de papel: De Tóquio a Berlim",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wnJzgLcf4OCGSiqHsAnkjNdQm7Z.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "204572",
+      "title": "Cozinha Selvagem: O Duelo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8PFpvJcnWm6k9EIW5v0urlzd4XS.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "84162",
+      "title": "Noites de Corrida em Bowman Gray",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4pqj9zRq7T1DX5gaGDVpQFqKwFu.jpg",
+      "year": "2018",
+      "type": "series"
+    },
+    {
+      "id": "216575",
+      "title": "Chefs Sob Pressão",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vRrbA7n1evBY0S3Y2C19a695xHb.jpg",
+      "year": "2023",
+      "type": "series"
+    },
+    {
+      "id": "136794",
+      "title": "Os Contatinhos de Lauren",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qseiaPdb5gtgig64uDwDiM3Rl5o.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "214949",
+      "title": "Cozinha em Conta",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/12UdXjnR6i5FJJ3J8wv0Cc5o5uX.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "131244",
+      "title": "O Último Grande Peixe",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1PSaVHGWAsM24PAtkvDwPsRzXOp.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "212900",
+      "title": "Um Trem para o Qatar",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mXdCmc3e9cSdNv7JlXXDsHs2syQ.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "214302",
+      "title": "Amor: Verdade ou Consequência – Sardenha",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/clIyu6EZNCtX0PADLoGKOMWFTDu.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "212109",
+      "title": "The BMF Documentary: Blowing Money Fast",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/f9SlZMXOGDzfOmS3h1G0vZHBvkj.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "201006",
+      "title": "Filhotes Selvagens",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gDTYirqns8XFR4lRieLZQn5qHIH.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "202972",
+      "title": "Alasca: Sabedoria Nativa",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/k2B6QSoyAgK0PG6qq4WzkmTeGOO.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "4018",
+      "title": "Contratempos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gKkxWhFa1g4AZSNjAWWwK9KoPhZ.jpg",
+      "year": "1989",
+      "type": "series"
+    },
+    {
+      "id": "2902",
+      "title": "Queer as Folk",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mmhL30PonbrrpEOQH5OdyUguyMg.jpg",
+      "year": "2000",
+      "type": "series"
+    },
+    {
+      "id": "97469",
+      "title": "Valendo Ouro",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zPn7q9J4htJMpFHTJBVq1ndGgA2.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "195815",
+      "title": "I Love That for You",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/AhNp9oNhHcRJRwwYN6ZOVZu9Y5A.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "122648",
+      "title": "Happy End: Por Trás da Webcam",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/lXPKh0zNxXvrKOyUZuUwl3wiGjX.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "195819",
+      "title": "Agência",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/nK2X6JVTnQn4VmRffus2bZ2hVy4.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "104712",
+      "title": "Men in Kilts: A Roadtrip with Sam and Graham",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "131719",
+      "title": "Dough: O Ganha-Pão",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6XbDbxL81so3t7BHFjMqGAgCe05.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "158634",
+      "title": "Os Queridinhos de Byron Bay",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/pSryd0p4sJry2NJTwV8g9znQcuB.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "156135",
+      "title": "Ritmo Selvagem",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/twXlwOwEyw21Qf2xe6gGl1saove.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "157429",
+      "title": "Criadores de Diversão",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cCsBAUska0KY9Z5j64Yc1RuCjlX.jpg",
+      "year": "2022",
+      "type": "series"
+    },
+    {
+      "id": "97082",
+      "title": "The Gloaming",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tgPN0Ur45f3upig342nu3cPzz5C.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "152312",
+      "title": "Você Sobreviveria?",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/31NoD0DdSH70X5RMPfDKj0KxThu.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "137952",
+      "title": "Tudo ou Nada: Juventus",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/623WQnO0JDULYt64tg5Px1omoEW.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "274771",
+      "title": "Doenças Misteriosas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xifo6afsehI5qfpRGlIDW7c7Jkd.jpg",
+      "year": "2015",
+      "type": "series"
+    },
+    {
+      "id": "137584",
+      "title": "School of Chocolate",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mJe4JUiH3qz40eXT6wQ1zd6dA3O.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "115771",
+      "title": "Nós, Os Filhos da Estação Zoo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tXulRafHUB33uN90oMcPijXcKVF.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "116019",
+      "title": "Onision: Abuso na Internet",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/fyQl6QdvoUnrULxQxIUK6Fq5w5H.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "104022",
+      "title": "Losing Alice",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9H1ZnmIVSiC4YmhdwdH3MxKTa3i.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "211124",
+      "title": "Elas no Singular",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yrQJiCuT4TQBRSmTBkb8CkWH5cQ.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "93704",
+      "title": "Trigonometry",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1VoKtxF99V0mige4JtWnPfEeWgV.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "125972",
+      "title": "This Is Pop",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/uVG8QtrKspTYGCJRKqFUa4Vyfgs.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "125409",
+      "title": "Hit Parade",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jZtAk6gTVjCIMj83bZhchmpD2As.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "125970",
+      "title": "Cidade dos Pinguins",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "125629",
+      "title": "Os Mestres da Fritura",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/la4KfrDkxkMtjN2uojL5ILCugtu.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "88365",
+      "title": "Foodie Love",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/eJkekj427HeYuUYPU90wRhbWB01.jpg",
+      "year": "2019",
+      "type": "series"
+    },
+    {
+      "id": "125072",
+      "title": "Cinquentinha",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oNMNYnSoDpSlg8avptWK9uh2F0H.jpg",
+      "year": "2009",
+      "type": "series"
+    },
+    {
+      "id": "96230",
+      "title": "Leonardo Da Vinci",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dDjLdoDSNsttWDVu8FZmQs4fESK.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "99815",
+      "title": "Alef",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6CyNjKgbgs6dTBKNkUJsEfMnX1B.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "307437",
+      "title": "Dra. Cathy - Devolvendo a Autoestima",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/51qz91MF10y8Hj74sj7osye1S1A.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "139529",
+      "title": "Batalha Makers Brasil",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/udajQI6Gv0Bswhps47fzeoIpX0d.jpg",
+      "year": "2019",
+      "type": "series"
+    },
+    {
+      "id": "118876",
+      "title": "Last Chance U: Basketball",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/s31DU5sL0NFkRUAiXyQl18Icptr.jpg",
+      "year": "2021",
+      "type": "series"
+    },
+    {
+      "id": "110862",
+      "title": "Distanciamento Social",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yHEWcDbCaa5cNFsSj9b00BpGhCI.jpg",
+      "year": "2020",
+      "type": "series"
+    },
+    {
+      "id": "102970",
+      "title": "Cold Courage",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4F54hdqsbPhPCO4x3sNwLgOa5fx.jpg",
+      "year": "2020",
+      "type": "series"
+    }
+  ],
+  "anime": [
+    {
+      "id": "289324",
+      "title": "Star Wars: Visions Apresenta — A Nona Jedi",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1O3ExMFvf2gUPD6WIyfD3dou9eB.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "36041",
+      "title": "Bakuman",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/fAVxZaCS4j93ebPIpGwTMLLpjOZ.jpg",
+      "year": "2010",
+      "type": "anime"
+    },
+    {
+      "id": "7266",
+      "title": "Speed Racer: Nova Geração",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bAX4tC8bRlldz9mLFLuaNgg4hfq.jpg",
+      "year": "2008",
+      "type": "anime"
+    },
+    {
+      "id": "14675",
+      "title": "As Novas Aventuras de Jonny Quest",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wrtBKhLEuWbD64yzxSBtugV47la.jpg",
+      "year": "1986",
+      "type": "anime"
+    },
+    {
+      "id": "296756",
+      "title": "Presidente Curtis",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bslvJffCHQSJxUKuEEzjkYPNrTn.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "317375",
+      "title": "Locker Diaries: Phineas And Ferb",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "111462",
+      "title": "The Liberator",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg",
+      "year": "2020",
+      "type": "anime"
+    },
+    {
+      "id": "110792",
+      "title": "Idolls!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/g9vXLkUeZukspxhBfeJcZZzpuXw.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "204024",
+      "title": "Pedra, Papel e Tesoura",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3ZB94QJKsGccZWdg4M8N1gG9BQS.jpg",
+      "year": "2024",
+      "type": "anime"
+    },
+    {
+      "id": "228721",
+      "title": "RoboGobo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jRpeRCcUH7rPgKlzSXdSNptYaZ7.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "16097",
+      "title": "Viewtiful Joe",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/A5qfZOO5VXao6IT3kLHi4835pp2.jpg",
+      "year": "2004",
+      "type": "anime"
+    },
+    {
+      "id": "936",
+      "title": "Super Amigos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8XLq57nkeLB5YuX9r5pZw7sQ3IM.jpg",
+      "year": "1973",
+      "type": "anime"
+    },
+    {
+      "id": "6670",
+      "title": "A Turma do Charlie Brown e Snoopy",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4tpCaJq94eHBWsWVtwFWojbUjcM.jpg",
+      "year": "1983",
+      "type": "anime"
+    },
+    {
+      "id": "286345",
+      "title": "Though I Am an Inept Villainess",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sdWNqtcPJpudPItPG3zBdyGyzTH.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "312266",
+      "title": "Hanaori-san Still Wants to Fight in the Next Life",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/MtHcMTVjuIPta3pQJtCc9LqYdT.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "325052",
+      "title": "KAMUI: He's Behind You",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/eB3kUvHD5WLzkEHJNM32v2O8PCY.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "98865",
+      "title": "Mebius Dust",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "298103",
+      "title": "IbiKona: Minha Madrasta e Suas Filhas Nada Malvadas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1i67CAfM8JsUvVOA6K6OC05L7X0.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "297826",
+      "title": "Tomb Raider King",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "326119",
+      "title": "Thunder 3",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/uVGuFiXA1PocSxpQbMVCHXgGPwr.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "255358",
+      "title": "THE GHOST IN THE SHELL",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xTipilnMw5XWWjW4YaDzG2AMrQk.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "326191",
+      "title": "Saved by the Ice Cold Prince's Embrace",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2UJ1RqmF6ONhFk7RFewJxhjvXuT.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "295840",
+      "title": "Flaming Dodgeball Girl Danko",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4xVWpYkfnVnfFtmqIcdLYGEhC1X.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "314054",
+      "title": "Red River",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wWlfBMTA7VygmYC4KUg2qLWJGmv.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "302519",
+      "title": "Victoria of Many Faces",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aJcMTjkB9HVo5wMhPLOzD2xIevS.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "285574",
+      "title": "I Want to Love You Till Your Dying Day",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/73DZoZWswGICwZ8G287avfBUeYj.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "117120",
+      "title": "Young Ladies Don't Play Fighting Games",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zGNd9CG8RKovJXD2vDAPoE8bOzm.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "325158",
+      "title": "The Forsaken Saintess and Her Foodie Road Trip in Another World",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/d0hx0f1vz6S5UvZChaxyUf51HFK.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "250008",
+      "title": "Oh Boy, Was I Wrong About Her",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tVsZgmz8GTnh1Br00HoWpR88ogt.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "284581",
+      "title": "The Insipid Prince's Furtive Grab for the Throne",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "298831",
+      "title": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/61TfKgUhwJLpsEOsWQXu3ClKPNI.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "309974",
+      "title": "Love Unseen Beneath the Clear Night Sky",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bWHLEMqymTuaRAEDQQvwHfw7AR9.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "319803",
+      "title": "Bittersweet",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9KCHOEAB4jBvE03g6Tm20jkQijj.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "112667",
+      "title": "I★Chu: Halfway Through the Idol",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qiHi7A3ffLA4wzzlV0cpUJd7qba.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "137643",
+      "title": "Irodorimidori",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/a9EGfIhMio0X2fePNiW6CngfS5S.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "300267",
+      "title": "The World's Strongest Rearguard",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oYVBc1fUzPNrBSrfOLSCSd9BYjL.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "308403",
+      "title": "Iron Wok Jan",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tS7mxwOZrbW5IhGUMjOvWIg0YlT.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "153217",
+      "title": "A Luz do Futuro",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/nnqscYuGNJKdM62PAxTYEf8Z9cm.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "109805",
+      "title": "AzurLane: Slow Ahead!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3PkcQPUztJIldbU19o86P5fTCgh.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "302824",
+      "title": "Let's go KAIKIGUMI",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tXMNuSJmoOhRrdGyo5TI1hiEvSM.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "295071",
+      "title": "Goodbye, Lara",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "312849",
+      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/o6k2eVEowtfwTKnKvbKUn87LGzX.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "296101",
+      "title": "Grow Up Show",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6UTl7dGkApReBWc3r9mmeZQGNE8.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "285993",
+      "title": "BLACK TORCH",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qxPsSYAiNhFLETmFJZ0s5HWyYhr.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "315054",
+      "title": "The Duke's Son Claims He Won't Love Me, But Showers Me with Adoration",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yr6dl4TYfG9EznBmM8fUqlo3ewd.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "293489",
+      "title": "The Ogre's Bride",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8grnaUpKFjvOP24oGlCtkPs1Yjn.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "287075",
+      "title": "Magical Girl Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6FTC8b0V0xdCQrT4929HPdPnoYo.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "288971",
+      "title": "Jaadugar: A Witch in Mongolia",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/A62nNZKHo1Ee8AjXHFAu6ykM66F.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "324335",
+      "title": "Recommendations from Iwamoto-Senpai",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kkK5nwGKtsFj4r6GnH1meNi6V0G.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "326844",
+      "title": "Coroado em Cem Dias",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kIDCdjafW4PLi0c2DhVLzD0NcwB.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "307585",
+      "title": "Please Excuse My Younger Brothers",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sFSwNfxWxDGAjfbbzEJYz9BUIbC.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "287028",
+      "title": "Draw This, Then Die!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/fE7Ec3bVVUaFKHxgMlBEhkDLF4t.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "302051",
+      "title": "I Became a Legend After My 10 Year-Long Last Stand",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/svcJyWDhj1STkOTSfxgd2hOvZ0z.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "312949",
+      "title": "Chainsmoker Cat",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "296437",
+      "title": "The Frontier Lord Begins with Zero Subjects",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sFMfJnehzGh9lSvULJBEp8Pr0zV.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "308874",
+      "title": "KAIJU GIRL CARAMELISE",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tG2yE7HILQdH32RzYajSgXYSrRV.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "312507",
+      "title": "Dara-san of the Reiwa Era",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gYY22ONn1dg8ISPzCRRqSBdcPaA.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "270603",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/flcyEjfwHECnqgXMGNZsajLg1rv.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "300112",
+      "title": "BanG Dream! YUME∞MITA",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cjBrbolU9S3VqfzGBEpHmXzlESz.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "298994",
+      "title": "The Villager of Level 999",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "204137",
+      "title": "OS DOOMIES",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8gGP5wpMKnFlyOMwzMbnI6xFzbd.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "254101",
+      "title": "Cordélicos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tnDW4yJjLXJKvscauqoT2pWg9Qw.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "138987",
+      "title": "Equipe de Resgate",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/huYI7ftZE5Mm7sBizkj6HMcczTJ.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "296436",
+      "title": "The Oblivious Saint Can't Contain Her Power",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gHtmP0fpNbPXRxYGIYzrbJsUuWi.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "312020",
+      "title": "The World Is Dancing",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oOmQf94idSBnDueIrM3FNQy8IXw.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "284029",
+      "title": "The Cat and the Dragon",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yxk6gTbLKnENVzej1ER4mH6zfkB.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "314554",
+      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/t3PY70vsvRWSNewgUQmrSRIY0nW.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "296286",
+      "title": "Smoking Behind the Supermarket with You",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/heZ2rAwnILBs6Io1oecJKBQ1Rik.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "286346",
+      "title": "Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1dOBL5Px9mHbS6GMqSom0fO48Yk.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "217167",
+      "title": "Karna the Guardian",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3M7PkwXvT2scTNUoXOaCqlIpfVM.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "201478",
+      "title": "Supergatinhos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yWq7fDrrC21N4lS37FVXNRgKW3K.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "3303",
+      "title": "Space Ghost",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hD2ciSqTHxnvF0MQbJdMBmi6XM4.jpg",
+      "year": "1966",
+      "type": "anime"
+    },
+    {
+      "id": "204135",
+      "title": "Dragon Striker",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "229544",
+      "title": "Among Us",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "318048",
+      "title": "Heart Mark Oome.",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1t3qSpXZ9KZySk25Ua0InZiXTWR.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "315350",
+      "title": "Seishidouin no Oshigoto",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vUwUCE6THUAuJHiS8h7mOBE8zrF.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "312487",
+      "title": "Todo no Tsumari",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sgAZhJERDE5QTHGedgaWTkld7pc.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "85857",
+      "title": "Jewelry The Animation",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ouUGl96I7Va65uROAWoy3qtPjm0.jpg",
+      "year": "2018",
+      "type": "anime"
+    },
+    {
+      "id": "117675",
+      "title": "Lovely Day: My Seven Days with Her",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rKGjTHfT8C5y0EHbZEW98uH7aAV.jpg",
+      "year": "2012",
+      "type": "anime"
+    },
+    {
+      "id": "318049",
+      "title": "Paihame Kazoku",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4owBb5J1oJdBtqPMwi4r8Ctzooe.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "262330",
+      "title": "WUKONG",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rwd42N9SlzbQ8eerQfenUyoeel9.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "76346",
+      "title": "The Qwaser of Stigmata ⅠⅠ",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8yRdYUfw1QRE7ww2OfEjbZEZlXs.jpg",
+      "year": "2011",
+      "type": "anime"
+    },
+    {
+      "id": "203949",
+      "title": "As Aventuras de Gudetama",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/z6wsptlplFIWb2RBGCMtQWZRsqo.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "243327",
+      "title": "Honra dos Reis",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/clau3P6P6MEljsngIZBsydaQfy8.jpg",
+      "year": "2024",
+      "type": "anime"
+    },
+    {
+      "id": "203687",
+      "title": "Perninha em Obras",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/78IAfz9TrYtqNwSUZzyDWsyGTC9.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "156746",
+      "title": "Pretzel e os Filhotes",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wb2NUw1V8tpFZdczfcqtihcCunC.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "8620",
+      "title": "DÓ, RÉ & MI",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jYCbHUMifYMVxXPV2MokgycPLsw.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "86340",
+      "title": "Undone",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/s1TZYhSTk6Bv7qqGc0233P3KQrA.jpg",
+      "year": "2019",
+      "type": "anime"
+    },
+    {
+      "id": "84587",
+      "title": "Vampirina: O Show das Sinistras",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ylQHVh8K3IEjQxfQfqw0JheTH02.jpg",
+      "year": "2018",
+      "type": "anime"
+    },
+    {
+      "id": "256747",
+      "title": "Oh My God...Yes! Uma Série de Momentos que Fazem Todo Sentido",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/l289FhqM9gTKD3XkNiu2ebshiWQ.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "274388",
+      "title": "Homem de Ferro e seus Amigos Incríveis",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oHKO7ibdu1YEksqkASa2mSLv9vj.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "45154",
+      "title": "Mazinkaiser",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/n5YDvG88bKcfTnzlUwuWBsiCxE8.jpg",
+      "year": "2001",
+      "type": "anime"
+    },
+    {
+      "id": "121628",
+      "title": "Headspace - Guia para Dormir Melhor",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/smMONDVSiUZswZoPPVEhbPdKlDG.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "73919",
+      "title": "Homem-Formiga: Curtas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hKlqUTy020o6XEzfJqVdiuNZmG7.jpg",
+      "year": "2017",
+      "type": "anime"
+    },
+    {
+      "id": "97959",
+      "title": "Ursinhos Carinhosos: Libere a Magia",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kRW940X9egNY5RLzSYTfd3OOPSt.jpg",
+      "year": "2019",
+      "type": "anime"
+    },
+    {
+      "id": "62569",
+      "title": "Go! Princess Precure",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hjbDINi2GZ86kdFeUn7u2twNcat.jpg",
+      "year": "2015",
+      "type": "anime"
+    },
+    {
+      "id": "117595",
+      "title": "Fera Sagrada",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/60PTkqKGorxLkE4mYv71y1XzKzG.jpg",
+      "year": "2003",
+      "type": "anime"
+    },
+    {
+      "id": "133529",
+      "title": "As Crônicas de Gumball",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gVOMUYPd7Mft8KSMxecUsAAgtHl.jpg",
+      "year": "2020",
+      "type": "anime"
+    },
+    {
+      "id": "95039",
+      "title": "A Princesa Assassina",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9jy4PvYezI6GhWeJHtoCKNrN38A.jpg",
+      "year": "2007",
+      "type": "anime"
+    },
+    {
+      "id": "97009",
+      "title": "Saiki Kusuo no Psi-nan: Reativado",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/r4hhIRzLSTU3GFImxPn3q6gSEhz.jpg",
+      "year": "2019",
+      "type": "anime"
+    },
+    {
+      "id": "223119",
+      "title": "Yakitori: Soldados do Desastre",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mijdTx5N6o0mHoR527dYPxUMOUL.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "76004",
+      "title": "Ursinhos Carinhosos e Seus Primos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/42rLDq7mHH7DyWWWklSTQy7y2ze.jpg",
+      "year": "2015",
+      "type": "anime"
+    },
+    {
+      "id": "128255",
+      "title": "Transformers: War for Cybertron: O Reino",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ujDiswEAFxMtVibjxozJn3UPiF5.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "117682",
+      "title": "Transformers: War for Cybertron: O Nascer da Terra",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/76N0zN2B95ZNDHoffOmcKGdBlkc.jpg",
+      "year": "2020",
+      "type": "anime"
+    },
+    {
+      "id": "100617",
+      "title": "Transformers: War for Cybertron: O Cerco",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jOZ1P4pLAR2SSM87w9J6agBZQtV.jpg",
+      "year": "2020",
+      "type": "anime"
+    },
+    {
+      "id": "119831",
+      "title": "Cidade de Fantasmas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rGSNlbq14XAn92SH22j3kao7CbS.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "95543",
+      "title": "Rocketeer",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jkrGFCn9Yb0Lbb4kGROohoJ2gxM.jpg",
+      "year": "2019",
+      "type": "anime"
+    },
+    {
+      "id": "259466",
+      "title": "MIRU: Paths to My Future",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mKe8afK13PaXICl5Cj5D37IezzI.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "289197",
+      "title": "Laços Celestiais",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vKAQxuoQ3sAQO0OX8eOZJE9aofH.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "83558",
+      "title": "LEGO Star Wars: All-Stars",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/97dmYYI7TACdGvXWQd2sIyMq16n.jpg",
+      "year": "2018",
+      "type": "anime"
+    },
+    {
+      "id": "273266",
+      "title": "Histórias Assustadoras do Mickey",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gT1MDtqUqxmbikmtY979jpycFAn.jpg",
+      "year": "2024",
+      "type": "anime"
+    },
+    {
+      "id": "258071",
+      "title": "Pindorama",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/uXBIs7WL5N4IWelVro6cSgoV5kO.jpg",
+      "year": "2024",
+      "type": "anime"
+    },
+    {
+      "id": "233905",
+      "title": "Pictoline: A Vida Secreta da sua Mente",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/uKycJyHbyyfd2oxI2gR6SMcVBUJ.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "70331",
+      "title": "As Grandes Férias Grandes",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gABnFCaKiP0ZAMUTP6eFNq7MUzu.jpg",
+      "year": "2015",
+      "type": "anime"
+    },
+    {
+      "id": "90366",
+      "title": "This Boy is a Professional Wizard",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vJNQngsK1499lWI7b0wHzTQStDq.jpg",
+      "year": "2016",
+      "type": "anime"
+    },
+    {
+      "id": "283884",
+      "title": "Chuhai Lips: Canned Flavor of Married Women",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sVgDf52QbkKRYBXjM4Y2xQOr86X.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "205683",
+      "title": "Chibiverso",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sfLdBGHL0qsIqP7IsuMxgTYA890.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "321582",
+      "title": "Digimon Adventure Tri",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gthpJBl0F8M12eE89zRPSn41AeI.jpg",
+      "year": "2015",
+      "type": "anime"
+    },
+    {
+      "id": "37529",
+      "title": "Nabari no Ou",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1uBxNCC17W2OMrHChCR4uQJ3UQM.jpg",
+      "year": "2008",
+      "type": "anime"
+    },
+    {
+      "id": "215806",
+      "title": "Hello Kitty: Super Style!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7UHhvqLFmCwIAxDh7acMFInA0B2.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "123594",
+      "title": "Eu S2 Arlo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ecaxpn3pIxM0PtKr6ltSblO2Gel.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "66856",
+      "title": "Futsuu no Joshikousei ga [Locodol] Yattemita.",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ciJydt7dsKSaL2KtkyRiwKse3YZ.jpg",
+      "year": "2014",
+      "type": "anime"
+    },
+    {
+      "id": "28397",
+      "title": "Dream Team",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hxHonAhV59ISqDLD6i8g1YdF9Dv.jpg",
+      "year": "2002",
+      "type": "anime"
+    },
+    {
+      "id": "95579",
+      "title": "Kyouryuu Shoujo Gauko",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cH7utN2b5YbqPTcz9p24YVUf1Za.jpg",
+      "year": "2019",
+      "type": "anime"
+    },
+    {
+      "id": "244983",
+      "title": "Miliki Family",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/pcVIKLmQ1lygyzcvC9ecNTk934o.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "70923",
+      "title": "Rua Rakshasa",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qIU43Apw8tM9uMRirI6TbjiqoEM.jpg",
+      "year": "2016",
+      "type": "anime"
+    },
+    {
+      "id": "216878",
+      "title": "Os Cavaleiros do Zodíaco - Saga do Santuário",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3nEe4PCafQpKYaSdkKTyAaTw16H.jpg",
+      "year": "1994",
+      "type": "anime"
+    },
+    {
+      "id": "215597",
+      "title": "A Saga Wingfeather",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wRquZNWAqtp6cPUEM4RS4DZULLs.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "106611",
+      "title": "Yakunara Mug Cup mo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7ugTcRcwKCviKFWd8l6p1tvcwR0.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "304597",
+      "title": "Não Tem Dinheiro que Pague",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "38247",
+      "title": "Marvel Anime: Wolverine",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wgN8YRBtof55H2Glza256kzJ300.jpg",
+      "year": "2011",
+      "type": "anime"
+    },
+    {
+      "id": "65842",
+      "title": "Bob Zoom",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yr83vGcXQmSfzEEOVj44nOrS3oP.jpg",
+      "year": "2012",
+      "type": "anime"
+    },
+    {
+      "id": "95073",
+      "title": "Maesetsu!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rJc1yM6TArWb2t5cLP351a0QRT1.jpg",
+      "year": "2020",
+      "type": "anime"
+    },
+    {
+      "id": "290295",
+      "title": "Mating Season",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dJjPnw3NQHmbGWGUXdlROqtTMuX.jpg",
+      "year": "2026",
+      "type": "anime"
+    },
+    {
+      "id": "46227",
+      "title": "Aoi Sekai no Chuushin de",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tz0XyKP5tVGdrliCfNt4ssTUCoP.jpg",
+      "year": "2012",
+      "type": "anime"
+    },
+    {
+      "id": "232869",
+      "title": "A Casa do Mickey Mouse+",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1SCGiyL8wxE6koS7yMw1Iu6qW3H.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "214068",
+      "title": "As Aventuras de Bernie",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/fliKMhwubjSUCXagyJWu5PzcHMx.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "89504",
+      "title": "Chip e Potato",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/df2OtvZdUgiNhxRoB9cvwTBttrm.jpg",
+      "year": "2018",
+      "type": "anime"
+    },
+    {
+      "id": "79654",
+      "title": "Wake Up, Girl Zoo!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7UU5iQEXbm03bDFjHjhIwYZ85hq.jpg",
+      "year": "2014",
+      "type": "anime"
+    },
+    {
+      "id": "230458",
+      "title": "Vamos Brincar com a Turma da Mônica",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ubDIp4UyigyrrxcF4zWHwCSffjB.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "76534",
+      "title": "As Aventuras de Kid Danger",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3JqQ473UkYpFBjvpGMydI5sjoCI.jpg",
+      "year": "2018",
+      "type": "anime"
+    },
+    {
+      "id": "224981",
+      "title": "Kitti Katz",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xQE0OunJ4oOGJZ3pQRzZ43i9S9W.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "69355",
+      "title": "The File of Young Kindaichi Returns",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4pAtoEWIhL6hCAkMtv45RSzGso0.jpg",
+      "year": "2014",
+      "type": "anime"
+    },
+    {
+      "id": "78941",
+      "title": "Aggretsuko",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aVcbyBT1hvgFRi6HS2VkjydkjCO.jpg",
+      "year": "2018",
+      "type": "anime"
+    },
+    {
+      "id": "131478",
+      "title": "Pequena Ellen",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/raBHCaTOe7bKdwP7rpSpu5rO0ka.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "136300",
+      "title": "A Pequena Espiã",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aNFHgkJB0yQy158IEOtwHUKltLi.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "130232",
+      "title": "A Casa Harper",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1rkg1Ds1oF9CKpBqmcLzB0G6nbh.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "136752",
+      "title": "Farejando Novos Mundos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wyrX626w311nbLfmG2JXewUjmFi.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "93233",
+      "title": "O Mundo dos Centauros",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2klp8BwNDbmV5pfBSWhNjr1MktC.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "205164",
+      "title": "Eva, a Coruja",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2gh6OinnoXOqMu53J7udeo7oOif.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "209710",
+      "title": "Turma CoComelon",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/eJYeNwCiF9kDzYejid0invHvEdz.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "224047",
+      "title": "Família Larva",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5WYKClgu17xq0IcHkvYYfa25TTW.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "237015",
+      "title": "Mulheres com Ombreiras",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3CvIuDzEaeLfGNFcN3hqjygwEwp.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "291416",
+      "title": "Não é uma Caixa",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vsxrLoCIcxVlvQtDiyWW9u493Lt.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "282209",
+      "title": "Cãezinhos no Passeio",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hwlWcwKHdOOmu9DUNfZtanLAGoJ.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "231821",
+      "title": "O Bicho Vai Pegar: O Chamado da Natureza",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ez3iqVdbjVXCw58IucLELvtRYpw.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "220897",
+      "title": "SÓ VOCÊ: Uma Coleção de Curtas de Animação",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jQ0zJ9yANkFaUNgzTg5rU9TGjb0.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "210249",
+      "title": "Digman!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yt6yvFBpeWVaqowRqmeXmvU3IsT.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "4929",
+      "title": "The Great Grape Ape Show",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/lJZuiAo3nn7sxtY67WX2VhiPoiK.jpg",
+      "year": "1975",
+      "type": "anime"
+    },
+    {
+      "id": "24211",
+      "title": "Josie e as Gatinhas no Espaço",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bdoWG0ras2rpDdZkJQvVw21W7PO.jpg",
+      "year": "1972",
+      "type": "anime"
+    },
+    {
+      "id": "135597",
+      "title": "Fairfax",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oOEFB2yTmaDOoYsybgxJw7lz8UW.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "120140",
+      "title": "Elliott, O Terráqueo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oVpTQgsjFPAomcw8jKaE4IwFteB.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "224373",
+      "title": "Irmãos Construtores e a Fábrica de Sonhos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kINJzPc2FX2fH41yK02YpGX5KvH.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "289273",
+      "title": "Brasas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/i5WJVyq3GoHpOPHj0a6gFLFKrCq.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "297259",
+      "title": "Missão 347",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6kgS2G0HxbQzGonDQCgm6zrLMsh.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "228674",
+      "title": "Brincando com o Ursinho Pooh",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5bx7j9PxAB8qoHG7B94GpQCsoAV.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "35871",
+      "title": "Gigi e a Fonte da Juventude",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4oWqEdc3ZyxXLYvlltV2JjWQ1zP.jpg",
+      "year": "1982",
+      "type": "anime"
+    },
+    {
+      "id": "158694",
+      "title": "Arvolândia",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/f7s7e8BDuDJG2ePAWJQvVpjNgM5.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "202638",
+      "title": "(A)mar",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wHX8k3J3J9Tw07v2PQCN6EUqkRe.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "5687",
+      "title": "Os Smurfs",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/uXLeMyXWvzihqvtPtnHDJpWz8VD.jpg",
+      "year": "1981",
+      "type": "anime"
+    },
+    {
+      "id": "133620",
+      "title": "O Mundo de Karma",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aj3pBdQrjmJ7tbOsXSfwTuHC9jR.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "216186",
+      "title": "Summer Memories",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yMaL14POvBjaPIscggQhoFubIbR.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "195352",
+      "title": "Pinha e Pony",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hH2zSIrjWOVsuNqllklSbLdlBUR.jpg",
+      "year": "2022",
+      "type": "anime"
+    },
+    {
+      "id": "222783",
+      "title": "Monster but Wild",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/e4SLnzWxyyiMgYkKux3A61RMVu0.jpg",
+      "year": "2023",
+      "type": "anime"
+    },
+    {
+      "id": "70420",
+      "title": "As Lendas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mzhsNpi8hzstf2KbYuihPpnMyHy.jpg",
+      "year": "2017",
+      "type": "anime"
+    },
+    {
+      "id": "72028",
+      "title": "Katsugeki TOUKEN RANBU",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vGzM9LxSxXWnSdT4UWRIQ0czrws.jpg",
+      "year": "2017",
+      "type": "anime"
+    },
+    {
+      "id": "63054",
+      "title": "Perdidos em Oz",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/pHh8mVYB9XRO4S6QfUwAiTmuBqc.jpg",
+      "year": "2015",
+      "type": "anime"
+    },
+    {
+      "id": "23436",
+      "title": "Hokuto no Ken - Legends of the Dark King -",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/p4Jimz8z4d1RJwaHFfA8TtFWOMB.jpg",
+      "year": "2008",
+      "type": "anime"
+    },
+    {
+      "id": "109086",
+      "title": "Yabba-Dabba Dinossauros",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5q0o3WiOrLur7eKLcwpF982iR2y.jpg",
+      "year": "2020",
+      "type": "anime"
+    },
+    {
+      "id": "67809",
+      "title": "Mundo Bita",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/19xWCmiOlwKKpTXBibmAkaLKT1q.jpg",
+      "year": "2013",
+      "type": "anime"
+    },
+    {
+      "id": "274382",
+      "title": "Super Fofos - Aventura na Cidade",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4kPSWumoZUKF1pcQvDpXGTR85zn.jpg",
+      "year": "2024",
+      "type": "anime"
+    },
+    {
+      "id": "65047",
+      "title": "Folha Mágica",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+      "year": "2013",
+      "type": "anime"
+    },
+    {
+      "id": "278475",
+      "title": "The War of Cards",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/y36ha7aG2uSOghuji1dSihLaDXp.jpg",
+      "year": "2024",
+      "type": "anime"
+    },
+    {
+      "id": "108977",
+      "title": "Project Scard: Praeter no Kizu",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qyMM0PVhHNocADOGex4j2uyBQpL.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "114202",
+      "title": "Selection Project",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kZsNPggW59mKcy5tEkuMRd5TkGF.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "286170",
+      "title": "Wylde Pak",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yTPd7x3WNNQuJsJeItGuXRHbqnv.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "125749",
+      "title": "MYTIKAH - O Livro dos Heróis",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sg45nCHLjS4MfYbBkvoDcSjckja.jpg",
+      "year": "2018",
+      "type": "anime"
+    },
+    {
+      "id": "10862",
+      "title": "Perdido nas Estrelas",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mJAO2P2x0MSvYkL0uZ5i6AlWrKE.jpg",
+      "year": "1991",
+      "type": "anime"
+    },
+    {
+      "id": "676",
+      "title": "As Aventuras de Tom e Jerry",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9TCOHLsHSr56uScnZuIQofdkSnt.jpg",
+      "year": "2006",
+      "type": "anime"
+    },
+    {
+      "id": "117",
+      "title": "A Pedra dos Sonhos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yVObl8fTiECcJbZuAIfytMCchrc.jpg",
+      "year": "1990",
+      "type": "anime"
+    },
+    {
+      "id": "214087",
+      "title": "Universal Basic Guys",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hdoEXYV82N3wMmWdvFinjyNOCt2.jpg",
+      "year": "2024",
+      "type": "anime"
+    },
+    {
+      "id": "225303",
+      "title": "BE@RBRICK",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8QNmKKMhmjmSlQRtXQ0g1gIu7cM.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "282727",
+      "title": "Goldie",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2KIkoBuWaNiE4X73MSPQcmHtR9r.jpg",
+      "year": "2025",
+      "type": "anime"
+    },
+    {
+      "id": "34662",
+      "title": "Ginyuu Mokushiroku Meine Liebe",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/u4ZQC6DLwpIVaT8z0NBJte12KLY.jpg",
+      "year": "2004",
+      "type": "anime"
+    },
+    {
+      "id": "137634",
+      "title": "Zouk a Bruxinha",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2UDpDZfcoAOULyjD1ucdexG1G7E.jpg",
+      "year": "2021",
+      "type": "anime"
+    },
+    {
+      "id": "1069",
+      "title": "Os 13 Fantasmas do Scooby-Doo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/48o9m9rV3BEfltJnoGE3PEFo4cI.jpg",
+      "year": "1985",
+      "type": "anime"
+    },
+    {
+      "id": "42468",
+      "title": "Maria Olha Por Nós",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ySE0mr2h0rhn9ksybGo9UdhD5.jpg",
+      "year": "2004",
+      "type": "anime"
+    },
+    {
+      "id": "226745",
+      "title": "Snoopy Vai Acampar",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/f5ZUsxpZZrH1UPGxt1zOkSY07jE.jpg",
+      "year": "2024",
+      "type": "anime"
+    },
+    {
+      "id": "1126",
+      "title": "Happy Tree Friends",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2rYqJg1OzaDlc5kiBK4IdgrELMf.jpg",
+      "year": "1999",
+      "type": "anime"
+    },
+    {
+      "id": "45211",
+      "title": "Tari Tari",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mr3wYtG6bO68Q1w32eHSQ5VBhPa.jpg",
+      "year": "2012",
+      "type": "anime"
+    }
+  ],
+  "dorama": [
+    {
+      "id": "323005",
+      "title": "After Moving Seats, The Boy Behind Me Has A Crush On Me",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dZMQz3mNFPcKec88QhAVc9BtyG.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "306598",
+      "title": "Unlucky Bae",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dns92Dt7gWKBclO2HV0cG9OzCQw.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "330440",
+      "title": "Contos da Noite",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2ah8irNR08fONfeQkMlvnc3143w.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "323579",
+      "title": "GATE24: The Border",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yLzAQzq1JhoMzTjeYwnIOCYJHQu.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "289116",
+      "title": "A Namorada Genial",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7JvbZKJSHUYfgWDEQeFXY79OsEk.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "301418",
+      "title": "Além da traição",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8tA7kjsuQaKFsrRuxjkEn5F9LII.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "245159",
+      "title": "Shine",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/a4UwKjW1V1TM8Y8716GwZu1nq3v.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "294095",
+      "title": "A Justiceira",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/zChO8JkgXkxYBr49wxxXMPbfquz.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "271016",
+      "title": "Nove Místicos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/urBcgV5Oa8jnIVPph22zairERVK.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "310326",
+      "title": "Love on the Menu",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6M34aDRWttbjApzgWqYr43xpJzA.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "312643",
+      "title": "Ciclo Infinito do Amor",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8kwGSIUn1rhytjWRzd6zChKnpXL.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "283780",
+      "title": "Guerreiros Nascidos do Vento",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ybE61R0h8r7lLVppxThPKmOsICO.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "303493",
+      "title": "KNOT",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/YC0i5PrabFdcok34xG2pIcKivz.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "324113",
+      "title": "Sin And Love",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vmVeg3OxzAEjcLam70ehBhKuhTz.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "295599",
+      "title": "Royal Betrothal",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/31nFRRsQQnCti8TiBuiEgNKYaZp.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "306629",
+      "title": "Match Point",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/g6LQZqsxGRb9NTG2MAKYrp1z1fC.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "312573",
+      "title": "Class Crush Crisis",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cSeaHoDPVpfqwMt68xJBq64GmYz.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "289356",
+      "title": "Kenzo Kitakata: SUIKODEN",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/v4bjh9L5zY7CvMp366E3MiTowNo.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "313642",
+      "title": "The Shadow Sovereign",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5fOClIVHXMgHmYAe5BV8G6rnjII.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "215986",
+      "title": "Do reparo ao par",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5SB7O7Vnzw1uGCb98aAS6dczpdx.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "245557",
+      "title": "A Vida É Drama",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tj6Nmy2xC8UevKcHJ5ryrRcnqde.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "325022",
+      "title": "GTO",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jdB7KYkZg56rOjPw1wpIlukU8a.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "296003",
+      "title": "Xiao Fang",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dF8AzhhHtOLHTmuZ12Wx2if7oz2.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "301412",
+      "title": "Um Sonho até Você",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wtdOlHpGDoMtAopJ6xmaKYwhxEp.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "252741",
+      "title": "Eu sou o Conde Mais Bonito",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rqCGuXRwQLARKKxAnDMElLnncZg.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "249104",
+      "title": "Amor Sem Receita",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5JzcSf9I0ZcsIYVlDxTvBPVZ4u3.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "326063",
+      "title": "25 Anos de Você",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2DbzjVa35TAQ6oW2djLpLO2SdcB.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "322571",
+      "title": "Criminal",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jUHRgBdLOapRB9RbhaznqXOHRD9.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "322570",
+      "title": "Até a Camiseta Secar",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/u4FV6Y2JtTaGpVp94V7Vp0JR3R3.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "326445",
+      "title": "Peach e Eu",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mPXlYxZyAwggX2E5qMgOQpcB8CX.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "289139",
+      "title": "Overdo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sOh7qrLixexhiWObAKSyh4mAlAR.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "298610",
+      "title": "Assustadoramente Apaixonados",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iBhyQsX73fl4SUkDkaEp8MHa0dW.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "314936",
+      "title": "Don't Be Too Emotional",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/lS4NcIAFf3qCebxQUzFCIQyFgSY.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "323569",
+      "title": "The Servant Prince",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4fKpcAFmwW2hOX2YuqBkY6a07Cv.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "320676",
+      "title": "Blue Lips",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hm1d5DeaD3Ud8CZqVNxqikGwTr5.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "6100",
+      "title": "Long Vacation",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7PkSuliqZ1QnPU8jBh6puFjyvQ2.jpg",
+      "year": "1996",
+      "type": "dorama"
+    },
+    {
+      "id": "323563",
+      "title": "Your Summer, My Storm",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/quOAksTmTYdYG7s4AemwEaSGWKt.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "308216",
+      "title": "Ultraman Teo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wF3VjWmjTQK6i1VWk17aB1Y0MDH.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "285992",
+      "title": "The Fire",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3TYyy6SrirPMr3xBeG6PUriWD1A.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "295558",
+      "title": "A Chave para o Coração da Fênix",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/15yxaoXDWKinS5M1ksRFpkUSTms.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "300727",
+      "title": "The Apartment Job",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/k9kr6D791PFWasa9GLL8UTZokkw.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "286506",
+      "title": "Flores do Poder",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sWdiop8BQwODB6tVOMeTfi0XHE3.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "132262",
+      "title": "Um Yakuza Genial: Tatsu Imortal",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ibXkjpfpseWoqr7c3LFICqKrWLu.jpg",
+      "year": "2021",
+      "type": "dorama"
+    },
+    {
+      "id": "323990",
+      "title": "Are the Sexy Buttocks Not Good?",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/82kmYM4Q6YtBrWjHu8563Oljyz4.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "85529",
+      "title": "Os Refens do Professor Hiiragi",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ggmfQz1r0uVxLCqEN6TcjOVWMg9.jpg",
+      "year": "2019",
+      "type": "dorama"
+    },
+    {
+      "id": "315007",
+      "title": "Amor em Sintonia",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mvGapmmyKqVumsY2REedtEjdigp.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "305078",
+      "title": "Tóquio P.D. Relações Públicas 2",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1ifRpg5Hj3ldJHQWuqXapcA39xS.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "245840",
+      "title": "Em Meio à Tempestade",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gsHZ9kCUFCZTfriUSh4qNZLj2zg.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "316205",
+      "title": "Doce Vingança",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gwoYkyT1XaE6BhHEUP7DrFPX4w3.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "316540",
+      "title": "Bittersweet Love",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8cp0T45VlImvWqnuJXxTEoDwKjG.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "300954",
+      "title": "O Marido",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/uXNxrbSMthnctxvbfiFZL2fzy79.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "291392",
+      "title": "Meu Amor por Você",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/c2SqqmHDfjysKosPzLd460YHaeU.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "285143",
+      "title": "O Caminho para o Sucesso",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/fXi1o6FnNMpcP29FVbuxFyYPXrN.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "279323",
+      "title": "A Leste do Palácio",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qxn0dgt6k0yOH3CIFqmGRwSBZYO.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "300074",
+      "title": "When Light Fades",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6Mp3Ghb3jqowl2WU5YjrzHHGGuk.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "322741",
+      "title": "Unfold",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mqHwDNU9pQ64La09zPcBMfsY0wa.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "307012",
+      "title": "Saint Love Survivors",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/uJ9JTM5xZ9tLVj6v0DXNs0zBBpk.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "253960",
+      "title": "Vapor Humano",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7b0SnIKCI4QY2572GrCt9XUdJWM.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "322072",
+      "title": "My Summer of You",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/he0yILQnhKDO8Tr94s9R0eFgDzb.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "310708",
+      "title": "AI Girl",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1vzOdJMwZje4DWKyiOSQIxyoJaf.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "251600",
+      "title": "A Fragância Eterna",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xcIOiINsf1dBxAXR0QNiIjEQIzp.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "322055",
+      "title": "The Prosecutor's Proposal",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/fxEfx2Tt98l4oW2KI0GU3Q0qgnB.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "295893",
+      "title": "A Amada do Chefe da Yakuza",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gjlm61hM3stjhCGS3ioihNiFXFY.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "278169",
+      "title": "WU",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tKMUUkgABjUFadX6cLvguoxm4On.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "303084",
+      "title": "Deep In",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9HH3S9jjN8mQsvrC6wpS4xiCEcR.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "286360",
+      "title": "Notas da Última Fila",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4dKOAftNf61gv7VOYuoiL1TydVG.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "296206",
+      "title": "Agente Kim: Reativado",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wEczPGv2YvL9hYWqVt2wjBVwnE9.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "323264",
+      "title": "Let's End Our Friendship Now",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9ACz4RNhdAH1sZjW2x8OnWuUsqS.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "313263",
+      "title": "Lost to Light",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3wHsb2h7bUEu1cOuzn4NzE5mHym.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "316294",
+      "title": "Payback",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/616HQHGVqEh0ZbQIRdyjIBQfqhU.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "315438",
+      "title": "LOVED ONE",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hLAhi5Qu4v5LeVcpnO5D5t5b67i.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "308834",
+      "title": "In Love Forever",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/28QpybDe3wN8oqecTWwREULuH4k.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "310837",
+      "title": "Você Tem Meu Coração",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2h8TvubWGFsGp6leNV1j9YXL6GK.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "230311",
+      "title": "O Amor Tem Fogos de Artifício",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6MAPSqklbEo4DpcnpriDFyEoisu.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "239901",
+      "title": "Leve-me para Onde as Nuvens Nascem",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6NoxYhG4ksBsPGtc7aIUtTAqWCM.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "289763",
+      "title": "Te vejo no trabalho!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8Mrj2ZxbXAnkaD67hlgiPNB2hId.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "315083",
+      "title": "The Edge of Horizon",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/eDgs0vwfJxKSUy6USVItypOJY5K.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "319037",
+      "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1rE1nJ2cboJ3Hzfd8yuCnWX0wQ6.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "318606",
+      "title": "Check In to You",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vMm21BKPo7sefFS2YLB7YWWF3Vo.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "288603",
+      "title": "Never-Ending Summer",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9bB4tJbjViEsQCMJ0qth7wuzpNA.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "225930",
+      "title": "O Amor Perdura",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/q1ryxOH0JsPG0rYFdOiAg47m4NM.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "244621",
+      "title": "Amor à Primavera",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vvkPAgQFvcWhuDrIU7FKXTgEr5Y.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "324487",
+      "title": "Fix the Error!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kEz0h48ssU7hRBQM11Ejqm0yaNW.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "274621",
+      "title": "Conspiração do Amor",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/99EjSv9c0yKDNkZIBwnk6hsnifc.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "278605",
+      "title": "Arquivos: O Mistério de Nanyang",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/nX6WBk4BogPFzMngsmzXTt9SyzA.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "292696",
+      "title": "The First Jasmine",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ygvVoUa6S88aT3vPMi1WVUt2meo.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "324115",
+      "title": "No Limite da Lei",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1xVfGMogjedmwtomxxeXi2VsCSe.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "313397",
+      "title": "Visage and Soul",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gSk5AzwQ7alc2FuPd4Yv82Vly9b.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "278403",
+      "title": "Um Artista Polêmico",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bWIFVKZQqQ5iWHOnGWXpJr3Otif.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "321559",
+      "title": "The Lie We Lived In",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8GaDUt2mY7L2fZeawEbhjxO1Vc2.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "256301",
+      "title": "Mark Your Kiss",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/berY82xA9wu85fIhG531GgkWv3l.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "276161",
+      "title": "Aprendendo a Lição",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/stz0JXaDMwe6VxvYIEbUCkEF1SX.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "93879",
+      "title": "Glory of Special Forces",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hok7iwxSDXWgHnRGx5UAxpTXOkN.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "228921",
+      "title": "A Melhor Professora",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wgIeuwOEyVter9ZdTbTPRkWB6dG.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "253357",
+      "title": "Ver Seu Amor",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/nIBXuRZla7IcitXzlzN11GVWseU.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "243691",
+      "title": "Influencer por Acidente",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9ZGuNavgUvjC6duXuKkeB2e0HeU.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "221416",
+      "title": "Kiseki: Querido Para Mim",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4j3TXDps28ZVsWOOQ7Ykb3jRLnz.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "133670",
+      "title": "Trabalhar Mais Tarde, Beber Agora",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8xAhACoI550LTSzAPKlzdRUoPsh.jpg",
+      "year": "2021",
+      "type": "dorama"
+    },
+    {
+      "id": "252617",
+      "title": "The Heart Killers",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8lFnwJJ9xOLPXJFYuIWlARmF9Gy.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "274878",
+      "title": "Desculpa, Só Que Não",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hBA52mKuUfo7BaQl8Qrm8Iq8T6v.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "237343",
+      "title": "Amor do Meu Curry",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xb7lrHqDYO7uNELzYwWHek2J9GX.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "237337",
+      "title": "Oportunidade Colorida",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aFoVhqRWN93F15aeu3tWdEVHyQn.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "138055",
+      "title": "Paint With Love",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ozyY3hXXYnVUxKAmRT5D944aKyK.jpg",
+      "year": "2021",
+      "type": "dorama"
+    },
+    {
+      "id": "241613",
+      "title": "O Unico",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rrH9qHsRNV4T6Ox9zLV3DEdVpjW.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "222059",
+      "title": "Notas de Amor",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/8W9YhOEL2ZDxy64plNNeI5pgTxp.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "217806",
+      "title": "Um Chefe e Um Bebê",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gZWFoNQkZZF6fHIV3A8MBuiFIaf.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "242019",
+      "title": "GARO: O Herdeiro de Hagane",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mxJyfKWFpaUunbzO00U80myOqsX.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "157362",
+      "title": "Quem é a Loba?",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yH7KsOP4qSFJG8CoBKQUsBloKni.jpg",
+      "year": "2017",
+      "type": "dorama"
+    },
+    {
+      "id": "214891",
+      "title": "Os Outros Não",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xwrFYGCUqY8oemCBu6AC1EHfLU7.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "16069",
+      "title": "Tokyo Love Story",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xsDh00GOrmEfS9Q1M11DVUEpCL7.jpg",
+      "year": "1991",
+      "type": "dorama"
+    },
+    {
+      "id": "271336",
+      "title": "A Toca do Leão",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/X4YqOo8K57flH1VAX0tF6muRTZ.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "276114",
+      "title": "Um Novo Arranjo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vM5eb85Sfa7YSFMrNCQr1K29LdT.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "198097",
+      "title": "Talk Queens",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/pR10it0INbK5xtZhYofpWTRs4wl.jpg",
+      "year": "2020",
+      "type": "dorama"
+    },
+    {
+      "id": "230242",
+      "title": "Anti-Redefinição",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rtEc87pgwgGSPRBP3ycfBB5oEDo.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "138385",
+      "title": "Meu Belo Homem",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/amMQCozpaWqt2RRoldYkMRliF9S.jpg",
+      "year": "2021",
+      "type": "dorama"
+    },
+    {
+      "id": "62644",
+      "title": "Os Produtores",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/fVHTunWDcnwaApYcMsMxHiY3gPE.jpg",
+      "year": "2015",
+      "type": "dorama"
+    },
+    {
+      "id": "292513",
+      "title": "9 Anos de Você",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/pa7giz6BMvV42HOuKRH8mUiowvy.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "107692",
+      "title": "Sr. Coração",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/58iATk6KkdKUWsYLJFNqfcKBTLh.jpg",
+      "year": "2020",
+      "type": "dorama"
+    },
+    {
+      "id": "242335",
+      "title": "O Amor do Ossan: Retorna",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4l73v45bSTyKDzOttID5FXZoZAm.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "282269",
+      "title": "Roller Coaster",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hKPRis3SQLVTBpyOc0s9fYICzxp.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "156669",
+      "title": "In Your Heart",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vk2Xhdux4LiFBImmseQ9wT9kLpr.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "203325",
+      "title": "O Céu em seu Coração",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/vyhxZQFcr1x2lvU0ufhSxlltvQG.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "169561",
+      "title": "Sr. Azarado Não Tem Escolha Senão Beijar!",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sOV54r4vXMWrWcDWcEn3cviBeXG.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "214483",
+      "title": "Ameiro Paradox",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ah8ojci5xTamrvA9zQmggJCvsdV.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "231375",
+      "title": "PQ Tinha Que ser Você?",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wOphDDki2oPQI1nooRKQcM1qpxq.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "224232",
+      "title": "Final Feliz e Alegre",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rmvz1eY6TfsNBczwdOiRjHdWSqd.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "117878",
+      "title": "Você me Faz Dançar",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sLNhGMsPERQ2wqt0t1soA6PcqdI.jpg",
+      "year": "2021",
+      "type": "dorama"
+    },
+    {
+      "id": "130513",
+      "title": "A Saborosa Florida",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xJ1cxt3VtudDj1x8bV3udJeCcTz.jpg",
+      "year": "2021",
+      "type": "dorama"
+    },
+    {
+      "id": "157208",
+      "title": "Erro Semântico",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/334epDKJwNyNfuC5KeZh5epsBz5.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "199923",
+      "title": "O Oceano Gosta de Mim",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/brjI8zYGLsX5fwjJX6rtRyu3xiC.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "133091",
+      "title": "Meu Doce Querido",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bqKNvuJ3Pyw17HmzGlY31f2vFt3.jpg",
+      "year": "2021",
+      "type": "dorama"
+    },
+    {
+      "id": "214406",
+      "title": "Romance com Final Feliz",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/fXmWewqNrx64ON1JRuHp9gx438K.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "157214",
+      "title": "Flores de Cerejeira Depois do Inverno",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4jKBjM4aWpfnBX59jaaM7lTENWv.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "95293",
+      "title": "O Amor do Ossan: No Céu",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5KQyQyJR28CyXS1nrGSy6MJwixu.jpg",
+      "year": "2019",
+      "type": "dorama"
+    },
+    {
+      "id": "206619",
+      "title": "Tudo que amamos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/apSnBOaKlJCpfGPAKtVtKiV4TG3.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "221102",
+      "title": "Nossa Simulação de Namoro",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sCQ74gIlK24y0RyCYCwQtQdYz20.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "155441",
+      "title": "Recomeço",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/3vbovxhpmrHbz3Ot9AhzLziaxTO.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "152291",
+      "title": "Kentaro Hiyama: O Homem que Engravidou",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/iXvP4c8QZBibWt2bdbn616jvvAS.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "90955",
+      "title": "O Diretor Nu",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/2tQlszc8XmkixscXvuhh2QwFbK4.jpg",
+      "year": "2019",
+      "type": "dorama"
+    },
+    {
+      "id": "85517",
+      "title": "Tokusatsu GaGaGa",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ekrEZFXoKuDJ6YGtV4mbXWcL4GN.jpg",
+      "year": "2019",
+      "type": "dorama"
+    },
+    {
+      "id": "282275",
+      "title": "A Canção de Apolo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6rBsb7VeWiVNP6hq5EtDFI7SD7X.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "121926",
+      "title": "Um Homem que Desafia o Mundo BL",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/xr6A7tBpyiNzVRHKE0IdIQ7mQDr.jpg",
+      "year": "2021",
+      "type": "dorama"
+    },
+    {
+      "id": "80051",
+      "title": "O Amor do Ossan",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/atDYLNUfSMaAwbL9GSH1l9l6jAS.jpg",
+      "year": "2018",
+      "type": "dorama"
+    },
+    {
+      "id": "296263",
+      "title": "Beijar ou Morrer",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oMWPXgreCaKWLeQEBzANQuRU1EV.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "304068",
+      "title": "Três Tontos no Quênia",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/nRmbIIsX4QIPScDqQ1T46VlwJlw.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "304256",
+      "title": "O Amor Começa no Mundo do “E Se”",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/oJAFcIXytprS61AuKs3VDhEHkWt.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "90988",
+      "title": "Heaven? ~My Restaurant, My Life~",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/7CZrxKVtG7pLJbeSAN6CDNyBeTK.jpg",
+      "year": "2019",
+      "type": "dorama"
+    },
+    {
+      "id": "202340",
+      "title": "Vênus em Marte",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ydvp0XaF2aB2IwccrefusLYdTj9.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "237530",
+      "title": "Bake Me, Please",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/yaHULvPT5uhYb5loQYBO8zHBHcI.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "241756",
+      "title": "Perfect Propose",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/nDUlxd9sQgbEZHa1nFTJdtCV4B.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "235842",
+      "title": "One Room Angel",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5JonUa3hTpcoS1M7DzvdCg4umUg.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "246482",
+      "title": "O Amor é Melhor na Segunda Vez",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/qydu7H3wdcb70p2oB7k0VyykIAi.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "129128",
+      "title": "First Love Again",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/uC6Y86LieZu1XJS0gc9VY0SHEC2.jpg",
+      "year": "2021",
+      "type": "dorama"
+    },
+    {
+      "id": "69850",
+      "title": "My Runway",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tCKwuuTZr5Yx8rTt1FWvQKDrXnw.jpg",
+      "year": "2016",
+      "type": "dorama"
+    },
+    {
+      "id": "211020",
+      "title": "Patrulha do Rio Han",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jMzeqFvhaqZMCwuVuDSMI6wwOcG.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "219586",
+      "title": "Jack Frost",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hZv3rTe3U0VqxjVgr5e1PEbtcy8.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "196268",
+      "title": "Anna",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/srwmWw5efuIWmKOUM9wIvX7QLve.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "89618",
+      "title": "As Maiores Máquinas do Mundo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cx7y339L5Cix2j7aEmTXkAQI22v.jpg",
+      "year": "2019",
+      "type": "dorama"
+    },
+    {
+      "id": "306129",
+      "title": "Mestres das Lembranças",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/4CdwHBLvb1202guzNkw61sy33i9.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "312175",
+      "title": "O Clube dos Amigos Secretos",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kdVGMcMgdj3RXiYZgESkGfrxQJP.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "307682",
+      "title": "Entre o Inverno e a Primavera",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dn0MVtByu6DKGzb2n9QBm9AqRCr.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "296238",
+      "title": "Enigma do Palco Negro",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tylM2VJxXn85pT8mPsUwNj6Mz4I.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "122012",
+      "title": "Precise Shot",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9zcGcxMyihTJ5xTTxpw48E82VHd.jpg",
+      "year": "2020",
+      "type": "dorama"
+    },
+    {
+      "id": "84351",
+      "title": "Nosso Céu",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wzptAelIePD7znaCNWUEEqzgAMw.jpg",
+      "year": "2018",
+      "type": "dorama"
+    },
+    {
+      "id": "203990",
+      "title": "Cupcake à Moda Antiga",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/14Zv44QlQm4Ln210lS6Qja2yZPI.jpg",
+      "year": "2022",
+      "type": "dorama"
+    },
+    {
+      "id": "315224",
+      "title": "Misty Hearts",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dpHvLszmB31C2rMQZr2oPJfphn.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "81822",
+      "title": "The Guest",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/mZq0Ou89Er6EOBnpRFWCvxNj3AY.jpg",
+      "year": "2018",
+      "type": "dorama"
+    },
+    {
+      "id": "296772",
+      "title": "Matando Para Amar",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/lZqQeScubXBVGKztGG1vqZNkvK7.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "104976",
+      "title": "Vida~Amor na Linha",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sv6rkGsCgQWM8vAJuOLe0euKRPo.jpg",
+      "year": "2020",
+      "type": "dorama"
+    },
+    {
+      "id": "129000",
+      "title": "Abandono de Evento",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6U915q81w2kE2AIGTqPDKGn78aD.jpg",
+      "year": "2021",
+      "type": "dorama"
+    },
+    {
+      "id": "291753",
+      "title": "Boys II Planet",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/x0H55KMVsUK3k0yOvhXp5L9r95R.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "284241",
+      "title": "Chihayafuru: Ciclo Completo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/50q71XeUTcn4WQ6rucL4Fompy9m.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "62299",
+      "title": "Shine or Go Crazy",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/wheCHdXIHgnwjaLU4UbXujiJcIu.jpg",
+      "year": "2015",
+      "type": "dorama"
+    },
+    {
+      "id": "46385",
+      "title": "A Clínica do Dr. Coto",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jkRYpl8bVx9cKYgGvEnsqgjMYcE.jpg",
+      "year": "2003",
+      "type": "dorama"
+    },
+    {
+      "id": "236903",
+      "title": "Doente de Amor",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/1rkAat1oQqF1qnKI6STqwOr9t77.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "313130",
+      "title": "Fall in Love Again",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sVow2YP5bTsbEE3n6TqxWyD058y.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "229776",
+      "title": "Quando Um Caracol Se Apaixona",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/ix3US5jAuLvQBPW656s82AM1704.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "235576",
+      "title": "O Príncipe Herdeiro Desaparecido",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/o1kZ69LJLhLFcMdNNkdKbKUHQDI.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "262247",
+      "title": "Kamen Rider Fourze",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/jgPm3pvDgmYH3FOqFrZnCJjs8sD.jpg",
+      "year": "2011",
+      "type": "dorama"
+    },
+    {
+      "id": "93972",
+      "title": "PQ Tinha Que ser Você?",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sKS1XwEaareXoH6kuuKC1p0op2A.jpg",
+      "year": "2020",
+      "type": "dorama"
+    },
+    {
+      "id": "246093",
+      "title": "Dear My Secretary",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/gG35TTvZBIC4PDX8HDG6q1l26nT.jpg",
+      "year": "2025",
+      "type": "dorama"
+    },
+    {
+      "id": "6044",
+      "title": "O Homem do Vinhedo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/cfVoiZA7PMkeGRX4H9gu3p3rBJN.jpg",
+      "year": "2006",
+      "type": "dorama"
+    },
+    {
+      "id": "1199",
+      "title": "Tempo Entre Cão e Lobo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/6fNbr1Rt578xR1WnFdcA3G9UfdZ.jpg",
+      "year": "2007",
+      "type": "dorama"
+    },
+    {
+      "id": "228965",
+      "title": "Senhora Durian",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/5N0wxho9p28p9dJJCZWFWOgyil5.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "37681",
+      "title": "Coração Escarlate",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/kFFnOTW5ufmfyq0GT6IAIdydRku.jpg",
+      "year": "2011",
+      "type": "dorama"
+    },
+    {
+      "id": "82658",
+      "title": "Ms Ma, Nemesis",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/lP6N8LZYf2rpQJhKbMMwKnZw8Q0.jpg",
+      "year": "2018",
+      "type": "dorama"
+    },
+    {
+      "id": "95485",
+      "title": "O Jogo: Rumo à Zero Hora",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aqIjQKWWC58wtAk1iGd6nSx3aiX.jpg",
+      "year": "2020",
+      "type": "dorama"
+    },
+    {
+      "id": "62265",
+      "title": "Heard It Through the Grapevine",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/E6a9nB7kNFj3DYN5jXMC7swz63.jpg",
+      "year": "2015",
+      "type": "dorama"
+    },
+    {
+      "id": "65895",
+      "title": "My Lawyer, Mr. Jo",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/dg9oQ7evGEAZEiB6uqeTaZgEY9o.jpg",
+      "year": "2016",
+      "type": "dorama"
+    },
+    {
+      "id": "213439",
+      "title": "Realeza Majestosa King-Ohger",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9DTsXGdP9KZeA0hF3Ga8JLY1R5R.jpg",
+      "year": "2023",
+      "type": "dorama"
+    },
+    {
+      "id": "92648",
+      "title": "Arsenal Military Academy",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/sVqP8rGqTrjJtJV9t4UuiPKwLEq.jpg",
+      "year": "2019",
+      "type": "dorama"
+    },
+    {
+      "id": "82437",
+      "title": "O Verão da Raposa",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/9RdKkh5C7JpwdZfHIEz9Rov6oEG.jpg",
+      "year": "2017",
+      "type": "dorama"
+    },
+    {
+      "id": "316500",
+      "title": "Jardinando Meu Caminho para a Supremacia",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/hqG4wB8AP5kqOtKDqC7T2eLU9iG.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "247264",
+      "title": "Te Vejo ao Florescer",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/fGnoSNtAPjcrWv2faM3lzHIi1da.jpg",
+      "year": "2024",
+      "type": "dorama"
+    },
+    {
+      "id": "312493",
+      "title": "Viral Hit",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/tdaCe1VmSf0GHTvNRmkr1GHoeXp.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "278168",
+      "title": "A Dog and a Plane",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/aqznHK3XnW9mo2BONDkY8SJNLbP.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "278158",
+      "title": "O Menino que não vai para o Céu",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/rfHDnKXwuxhxup2n2gVZA4BrvMM.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "319617",
+      "title": "The Boy and I Who Will Break Up in 100 Days",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/LFRP7lS5KF2rzzzOawIFO4LN22.jpg",
+      "year": "2026",
+      "type": "dorama"
+    },
+    {
+      "id": "318167",
+      "title": "A Pousada do Jae-seok",
+      "poster": "https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/bnw5v4d8T9Cg4ylHuJ7CsfPZBFK.jpg",
+      "year": "2026",
+      "type": "dorama"
+    }
+  ]
+}

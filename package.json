@@ -12,6 +12,7 @@
     "start": "next start",
     "test": "next build",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
+    "sync:cache": "node scripts/sync-provider-cache.mjs",
     "db:generate": "drizzle-kit generate"
   },
   "dependencies": {

@@ -1,3 +1,5 @@
+import channelsCache from "../../../data/channels-cache.json";
+
 const BASE_URL = "https://superflixapi.pro";
 
 type ApiRecord = Record<string, unknown>;
@@ -38,6 +40,18 @@ async function readProvider(path: string) {
 }
 
 export async function GET() {
+  if (process.env.VERCEL === "1") {
+    return Response.json(
+      {
+        channels: channelsCache.channels,
+        categories: channelsCache.categories,
+        source: "cache",
+        updatedAt: channelsCache.updatedAt,
+      },
+      { headers: { "Cache-Control": "public, s-maxage=300, stale-while-revalidate=86400" } },
+    );
+  }
+
   try {
     const [channelRoot, categoryRoot] = await Promise.all([
       readProvider("/lista?category=canais&format=json&limit=999"),
@@ -81,6 +95,17 @@ export async function GET() {
       { headers: { "Cache-Control": "public, s-maxage=300, stale-while-revalidate=600" } },
     );
   } catch (error) {
+    if (channelsCache.channels.length) {
+      return Response.json(
+        {
+          channels: channelsCache.channels,
+          categories: channelsCache.categories,
+          source: "cache",
+          updatedAt: channelsCache.updatedAt,
+        },
+        { headers: { "Cache-Control": "public, s-maxage=300, stale-while-revalidate=86400" } },
+      );
+    }
     return Response.json(
       { error: error instanceof Error ? error.message : "Não foi possível acessar a TV ao vivo agora." },
       { status: 502, headers: { "Cache-Control": "no-store" } },

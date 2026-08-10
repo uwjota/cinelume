@@ -1,0 +1,2427 @@
+{
+  "updatedAt": "2026-08-10T06:05:15.706Z",
+  "channels": [
+    {
+      "id": "24h-5-minute-crafts",
+      "name": "24H - 5-Minute Crafts",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-5-minute-crafts.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-5-minute-crafts",
+      "category": "24 Horas"
+    },
+    {
+      "id": "24h-chapolin",
+      "name": "24H - Chapolin",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-chapolin.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-chapolin",
+      "category": "24 Horas"
+    },
+    {
+      "id": "24h-chaves",
+      "name": "24H - Chaves",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-chaves.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-chaves",
+      "category": "24 Horas"
+    },
+    {
+      "id": "24h-dragon-ball-z",
+      "name": "24H - Dragon Ball Z",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-dragon-ball-z.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-dragon-ball-z",
+      "category": "24 Horas"
+    },
+    {
+      "id": "24h-invencivel",
+      "name": "24H - Invencivel",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-invencivel.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-invencivel",
+      "category": "24 Horas"
+    },
+    {
+      "id": "24h-irmao-do-jorel",
+      "name": "24H - Irmão do Jorel",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-irmao-do-jorel.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-irmao-do-jorel",
+      "category": "24 Horas"
+    },
+    {
+      "id": "24h-master-cheff-brasil",
+      "name": "24H - MasterChef Brasil",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-master-cheff-brasil.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-master-cheff-brasil",
+      "category": "24 Horas"
+    },
+    {
+      "id": "24h-mr-bean",
+      "name": "24H - Mr. Bean",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-mr-bean.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-mr-bean",
+      "category": "24 Horas"
+    },
+    {
+      "id": "24h-naruto",
+      "name": "24H - Naruto",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-naruto.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-naruto",
+      "category": "24 Horas"
+    },
+    {
+      "id": "24h-os-jetsons",
+      "name": "24H - Os Jetsons",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-os-jetsons.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-os-jetsons",
+      "category": "Desenhos"
+    },
+    {
+      "id": "24h-spacetoday",
+      "name": "24H - SpaceToday",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-spacetoday.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-spacetoday",
+      "category": "Variedades"
+    },
+    {
+      "id": "24h-todo-mundo-odeia-o-chris",
+      "name": "24H -Todo Mundo Odeia o Chris",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/24h-todo-mundo-odeia-o-chris.png",
+      "embedUrl": "https://superflixapi.pro/canal/24h-todo-mundo-odeia-o-chris",
+      "category": "24 Horas"
+    },
+    {
+      "id": "ae",
+      "name": "A&E",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/ae.png",
+      "embedUrl": "https://superflixapi.pro/canal/ae",
+      "category": "Variedades"
+    },
+    {
+      "id": "adultswim",
+      "name": "Adult Swim",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/adultswim.png",
+      "embedUrl": "https://superflixapi.pro/canal/adultswim",
+      "category": "Séries"
+    },
+    {
+      "id": "agtv",
+      "name": "AG TV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/agtv.png",
+      "embedUrl": "https://superflixapi.pro/canal/agtv",
+      "category": "Variedades"
+    },
+    {
+      "id": "agrocanal",
+      "name": "Agro Canal",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/agrocanal.png",
+      "embedUrl": "https://superflixapi.pro/canal/agrocanal",
+      "category": "Variedades"
+    },
+    {
+      "id": "agromais",
+      "name": "Agro Mais",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/agromais.png",
+      "embedUrl": "https://superflixapi.pro/canal/agromais",
+      "category": "Variedades"
+    },
+    {
+      "id": "amazonsat",
+      "name": "Amazon Sat",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/amazonsat.png",
+      "embedUrl": "https://superflixapi.pro/canal/amazonsat",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "amc",
+      "name": "amc",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/amc.png",
+      "embedUrl": "https://superflixapi.pro/canal/amc",
+      "category": "Séries"
+    },
+    {
+      "id": "animalplanet",
+      "name": "Animal Planet",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/animalplanet.png",
+      "embedUrl": "https://superflixapi.pro/canal/animalplanet",
+      "category": "Séries"
+    },
+    {
+      "id": "animetv",
+      "name": "AnimeTV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/animetv.png",
+      "embedUrl": "https://superflixapi.pro/canal/animetv",
+      "category": "Variedades"
+    },
+    {
+      "id": "appletv",
+      "name": "Apple TV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/appletv.png",
+      "embedUrl": "https://superflixapi.pro/canal/appletv",
+      "category": "Esportes"
+    },
+    {
+      "id": "appletv2",
+      "name": "Apple TV 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/appletv2.png",
+      "embedUrl": "https://superflixapi.pro/canal/appletv2",
+      "category": "Esportes"
+    },
+    {
+      "id": "argentinanews",
+      "name": "Argentina News (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/argentinanews.png",
+      "embedUrl": "https://superflixapi.pro/canal/argentinanews",
+      "category": "Notícias"
+    },
+    {
+      "id": "arte1",
+      "name": "Arte1",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/arte1.png",
+      "embedUrl": "https://superflixapi.pro/canal/arte1",
+      "category": "Variedades"
+    },
+    {
+      "id": "assimeportugal",
+      "name": "Assim é Portugal (PT)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/assimeportugal.png",
+      "embedUrl": "https://superflixapi.pro/canal/assimeportugal",
+      "category": "Variedades"
+    },
+    {
+      "id": "axn",
+      "name": "AXN",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/axn.png",
+      "embedUrl": "https://superflixapi.pro/canal/axn",
+      "category": "Séries"
+    },
+    {
+      "id": "bandba",
+      "name": "Band BA",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/bandba.png",
+      "embedUrl": "https://superflixapi.pro/canal/bandba",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "bandmg",
+      "name": "Band MG",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/bandmg.png",
+      "embedUrl": "https://superflixapi.pro/canal/bandmg",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "bandnews",
+      "name": "Band News",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/bandnews.png",
+      "embedUrl": "https://superflixapi.pro/canal/bandnews",
+      "category": "Notícias"
+    },
+    {
+      "id": "bandpa",
+      "name": "Band PA",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/bandpa.png",
+      "embedUrl": "https://superflixapi.pro/canal/bandpa",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "bandpb",
+      "name": "Band PB",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/bandpb.png",
+      "embedUrl": "https://superflixapi.pro/canal/bandpb",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "bandpe",
+      "name": "Band PE",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/bandpe.png",
+      "embedUrl": "https://superflixapi.pro/canal/bandpe",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "bandsp",
+      "name": "Band SP",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/bandsp.png",
+      "embedUrl": "https://superflixapi.pro/canal/bandsp",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "bandsports",
+      "name": "Band Sports",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/bandsports.png",
+      "embedUrl": "https://superflixapi.pro/canal/bandsports",
+      "category": "Esportes"
+    },
+    {
+      "id": "bis",
+      "name": "Bis",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/bis.png",
+      "embedUrl": "https://superflixapi.pro/canal/bis",
+      "category": "Variedades"
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/bloomberg.png",
+      "embedUrl": "https://superflixapi.pro/canal/bloomberg",
+      "category": "Notícias"
+    },
+    {
+      "id": "canal11",
+      "name": "Canal 11 (PT)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/canal11.png",
+      "embedUrl": "https://superflixapi.pro/canal/canal11",
+      "category": "Esportes"
+    },
+    {
+      "id": "canalbrasil",
+      "name": "Canal Brasil",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/canalbrasil.png",
+      "embedUrl": "https://superflixapi.pro/canal/canalbrasil",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "canale",
+      "name": "Canal E!",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/canale.png",
+      "embedUrl": "https://superflixapi.pro/canal/canale",
+      "category": "Variedades"
+    },
+    {
+      "id": "canalgoat",
+      "name": "Canal Goat",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/canalgoat.png",
+      "embedUrl": "https://superflixapi.pro/canal/canalgoat",
+      "category": "Esportes"
+    },
+    {
+      "id": "canalgoat2",
+      "name": "Canal Goat 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/canalgoat2.png",
+      "embedUrl": "https://superflixapi.pro/canal/canalgoat2",
+      "category": "Esportes"
+    },
+    {
+      "id": "canalgoat3",
+      "name": "Canal Goat 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/canalgoat3.png",
+      "embedUrl": "https://superflixapi.pro/canal/canalgoat3",
+      "category": "Esportes"
+    },
+    {
+      "id": "canalgov",
+      "name": "Canal Gov",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/canalgov.png",
+      "embedUrl": "https://superflixapi.pro/canal/canalgov",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "canaloff",
+      "name": "Canal Off",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/canaloff.png",
+      "embedUrl": "https://superflixapi.pro/canal/canaloff",
+      "category": "Variedades"
+    },
+    {
+      "id": "canalrural",
+      "name": "Canal Rural",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/canalrural.png",
+      "embedUrl": "https://superflixapi.pro/canal/canalrural",
+      "category": "Variedades"
+    },
+    {
+      "id": "canaluol",
+      "name": "Canal UOL",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/canaluol.png",
+      "embedUrl": "https://superflixapi.pro/canal/canaluol",
+      "category": "Variedades"
+    },
+    {
+      "id": "cancao-nova",
+      "name": "Cancao Nova",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cancao-nova.png",
+      "embedUrl": "https://superflixapi.pro/canal/cancao-nova",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "cartoonnetwork",
+      "name": "Cartoon Network",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cartoonnetwork.png",
+      "embedUrl": "https://superflixapi.pro/canal/cartoonnetwork",
+      "category": "Infantil"
+    },
+    {
+      "id": "cartoonito",
+      "name": "Cartoonito",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cartoonito.png",
+      "embedUrl": "https://superflixapi.pro/canal/cartoonito",
+      "category": "Infantil"
+    },
+    {
+      "id": "cazetv",
+      "name": "Cazé TV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cazetv.png",
+      "embedUrl": "https://superflixapi.pro/canal/cazetv",
+      "category": "Esportes"
+    },
+    {
+      "id": "cazetv2",
+      "name": "Cazé TV 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cazetv2.png",
+      "embedUrl": "https://superflixapi.pro/canal/cazetv2",
+      "category": "Esportes"
+    },
+    {
+      "id": "cazetv3",
+      "name": "Cazé TV 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cazetv3.png",
+      "embedUrl": "https://superflixapi.pro/canal/cazetv3",
+      "category": "Esportes"
+    },
+    {
+      "id": "cazetv4",
+      "name": "Cazé TV 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cazetv4.png",
+      "embedUrl": "https://superflixapi.pro/canal/cazetv4",
+      "category": "Esportes"
+    },
+    {
+      "id": "cazetv5",
+      "name": "Cazé TV 5",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cazetv5.png",
+      "embedUrl": "https://superflixapi.pro/canal/cazetv5",
+      "category": "Esportes"
+    },
+    {
+      "id": "cinemax",
+      "name": "Cinemax",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cinemax.png",
+      "embedUrl": "https://superflixapi.pro/canal/cinemax",
+      "category": "Filmes"
+    },
+    {
+      "id": "cnnbrasil",
+      "name": "CNN Brasil",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cnnbrasil.png",
+      "embedUrl": "https://superflixapi.pro/canal/cnnbrasil",
+      "category": "Notícias"
+    },
+    {
+      "id": "cnnbrasilmoney",
+      "name": "CNN Brasil Money",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cnnbrasilmoney.png",
+      "embedUrl": "https://superflixapi.pro/canal/cnnbrasilmoney",
+      "category": "Notícias"
+    },
+    {
+      "id": "cnnportugal",
+      "name": "CNN Portugal (PT)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cnnportugal.png",
+      "embedUrl": "https://superflixapi.pro/canal/cnnportugal",
+      "category": "Notícias"
+    },
+    {
+      "id": "combrasiltv",
+      "name": "Com Brasil TV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/combrasiltv.png",
+      "embedUrl": "https://superflixapi.pro/canal/combrasiltv",
+      "category": "Variedades"
+    },
+    {
+      "id": "combate",
+      "name": "Combate",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/combate.png",
+      "embedUrl": "https://superflixapi.pro/canal/combate",
+      "category": "Esportes"
+    },
+    {
+      "id": "cuaima",
+      "name": "Cuaima (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cuaima.png",
+      "embedUrl": "https://superflixapi.pro/canal/cuaima",
+      "category": "Variedades"
+    },
+    {
+      "id": "cultura-brasil",
+      "name": "Cultura Brasil",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cultura-brasil.png",
+      "embedUrl": "https://superflixapi.pro/canal/cultura-brasil",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "cultura-fm",
+      "name": "Cultura FM",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/cultura-fm.png",
+      "embedUrl": "https://superflixapi.pro/canal/cultura-fm",
+      "category": "Variedades"
+    },
+    {
+      "id": "curta",
+      "name": "Curta!",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/curta.png",
+      "embedUrl": "https://superflixapi.pro/canal/curta",
+      "category": "Variedades"
+    },
+    {
+      "id": "dazn",
+      "name": "Dazn",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dazn.png",
+      "embedUrl": "https://superflixapi.pro/canal/dazn",
+      "category": "Esportes"
+    },
+    {
+      "id": "dazn10",
+      "name": "Dazn 10",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dazn10.png",
+      "embedUrl": "https://superflixapi.pro/canal/dazn10",
+      "category": "Esportes"
+    },
+    {
+      "id": "dazn2",
+      "name": "Dazn 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dazn2.png",
+      "embedUrl": "https://superflixapi.pro/canal/dazn2",
+      "category": "Esportes"
+    },
+    {
+      "id": "dazn3",
+      "name": "Dazn 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dazn3.png",
+      "embedUrl": "https://superflixapi.pro/canal/dazn3",
+      "category": "Esportes"
+    },
+    {
+      "id": "dazn4",
+      "name": "Dazn 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dazn4.png",
+      "embedUrl": "https://superflixapi.pro/canal/dazn4",
+      "category": "Esportes"
+    },
+    {
+      "id": "dazn5",
+      "name": "Dazn 5",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dazn5.png",
+      "embedUrl": "https://superflixapi.pro/canal/dazn5",
+      "category": "Esportes"
+    },
+    {
+      "id": "dazn6",
+      "name": "Dazn 6",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dazn6.png",
+      "embedUrl": "https://superflixapi.pro/canal/dazn6",
+      "category": "Esportes"
+    },
+    {
+      "id": "dazn7",
+      "name": "Dazn 7",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dazn7.png",
+      "embedUrl": "https://superflixapi.pro/canal/dazn7",
+      "category": "Esportes"
+    },
+    {
+      "id": "dazn8",
+      "name": "Dazn 8",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dazn8.png",
+      "embedUrl": "https://superflixapi.pro/canal/dazn8",
+      "category": "Esportes"
+    },
+    {
+      "id": "dazn9",
+      "name": "Dazn 9",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dazn9.png",
+      "embedUrl": "https://superflixapi.pro/canal/dazn9",
+      "category": "Esportes"
+    },
+    {
+      "id": "discoverychannel",
+      "name": "Discovery Channel",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/discoverychannel.png",
+      "embedUrl": "https://superflixapi.pro/canal/discoverychannel",
+      "category": "Variedades"
+    },
+    {
+      "id": "discoveryheh",
+      "name": "Discovery Home & Health",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/discoveryheh.png",
+      "embedUrl": "https://superflixapi.pro/canal/discoveryheh",
+      "category": "Variedades"
+    },
+    {
+      "id": "discoveryid",
+      "name": "Discovery ID",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/discoveryid.png",
+      "embedUrl": "https://superflixapi.pro/canal/discoveryid",
+      "category": "Documentários"
+    },
+    {
+      "id": "discoverykids",
+      "name": "Discovery Kids",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/discoverykids.png",
+      "embedUrl": "https://superflixapi.pro/canal/discoverykids",
+      "category": "Infantil"
+    },
+    {
+      "id": "discoveryscience",
+      "name": "Discovery Science",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/discoveryscience.png",
+      "embedUrl": "https://superflixapi.pro/canal/discoveryscience",
+      "category": "Variedades"
+    },
+    {
+      "id": "discoverytheater",
+      "name": "Discovery Theater",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/discoverytheater.png",
+      "embedUrl": "https://superflixapi.pro/canal/discoverytheater",
+      "category": "Variedades"
+    },
+    {
+      "id": "discoveryturbo",
+      "name": "Discovery Turbo",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/discoveryturbo.png",
+      "embedUrl": "https://superflixapi.pro/canal/discoveryturbo",
+      "category": "Variedades"
+    },
+    {
+      "id": "discoveryworld",
+      "name": "Discovery World",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/discoveryworld.png",
+      "embedUrl": "https://superflixapi.pro/canal/discoveryworld",
+      "category": "Variedades"
+    },
+    {
+      "id": "disneyplus1",
+      "name": "Disney +",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/disneyplus1.png",
+      "embedUrl": "https://superflixapi.pro/canal/disneyplus1",
+      "category": "Esportes"
+    },
+    {
+      "id": "disneyplus2",
+      "name": "Disney+ 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/disneyplus2.png",
+      "embedUrl": "https://superflixapi.pro/canal/disneyplus2",
+      "category": "Esportes"
+    },
+    {
+      "id": "disneyplus3",
+      "name": "Disney+ 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/disneyplus3.png",
+      "embedUrl": "https://superflixapi.pro/canal/disneyplus3",
+      "category": "Esportes"
+    },
+    {
+      "id": "disneyplus4",
+      "name": "Disney+ 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/disneyplus4.png",
+      "embedUrl": "https://superflixapi.pro/canal/disneyplus4",
+      "category": "Esportes"
+    },
+    {
+      "id": "disneyplus5",
+      "name": "Disney+ 5",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/disneyplus5.png",
+      "embedUrl": "https://superflixapi.pro/canal/disneyplus5",
+      "category": "Esportes"
+    },
+    {
+      "id": "disneyplus6",
+      "name": "Disney+ 6",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/disneyplus6.png",
+      "embedUrl": "https://superflixapi.pro/canal/disneyplus6",
+      "category": "Esportes"
+    },
+    {
+      "id": "disneyplus7",
+      "name": "Disney+ 7",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/disneyplus7.png",
+      "embedUrl": "https://superflixapi.pro/canal/disneyplus7",
+      "category": "Esportes"
+    },
+    {
+      "id": "disneyplus8",
+      "name": "Disney+ 8",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/disneyplus8.png",
+      "embedUrl": "https://superflixapi.pro/canal/disneyplus8",
+      "category": "Esportes"
+    },
+    {
+      "id": "dreamworks",
+      "name": "DreamWorks",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dreamworks.png",
+      "embedUrl": "https://superflixapi.pro/canal/dreamworks",
+      "category": "Desenhos"
+    },
+    {
+      "id": "dsports",
+      "name": "DSports (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dsports.png",
+      "embedUrl": "https://superflixapi.pro/canal/dsports",
+      "category": "Esportes"
+    },
+    {
+      "id": "dsports2",
+      "name": "DSports 2 (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dsports2.png",
+      "embedUrl": "https://superflixapi.pro/canal/dsports2",
+      "category": "Esportes"
+    },
+    {
+      "id": "dumdum",
+      "name": "DumDum",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/dumdum.png",
+      "embedUrl": "https://superflixapi.pro/canal/dumdum",
+      "category": "Infantil"
+    },
+    {
+      "id": "espn",
+      "name": "ESPN",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/espn.png",
+      "embedUrl": "https://superflixapi.pro/canal/espn",
+      "category": "Esportes"
+    },
+    {
+      "id": "espn2",
+      "name": "ESPN 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/espn2.png",
+      "embedUrl": "https://superflixapi.pro/canal/espn2",
+      "category": "Esportes"
+    },
+    {
+      "id": "espn3",
+      "name": "ESPN 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/espn3.png",
+      "embedUrl": "https://superflixapi.pro/canal/espn3",
+      "category": "Esportes"
+    },
+    {
+      "id": "espn4",
+      "name": "ESPN 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/espn4.png",
+      "embedUrl": "https://superflixapi.pro/canal/espn4",
+      "category": "Esportes"
+    },
+    {
+      "id": "espn5",
+      "name": "ESPN 5",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/espn5.png",
+      "embedUrl": "https://superflixapi.pro/canal/espn5",
+      "category": "Esportes"
+    },
+    {
+      "id": "espn6",
+      "name": "ESPN 6",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/espn6.png",
+      "embedUrl": "https://superflixapi.pro/canal/espn6",
+      "category": "Esportes"
+    },
+    {
+      "id": "eurosport",
+      "name": "Eurosport",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/eurosport.png",
+      "embedUrl": "https://superflixapi.pro/canal/eurosport",
+      "category": "Esportes"
+    },
+    {
+      "id": "eurosport2",
+      "name": "Eurosport 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/eurosport2.png",
+      "embedUrl": "https://superflixapi.pro/canal/eurosport2",
+      "category": "Esportes"
+    },
+    {
+      "id": "eventos1",
+      "name": "Eventos",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/eventos1.png",
+      "embedUrl": "https://superflixapi.pro/canal/eventos1",
+      "category": "Esportes"
+    },
+    {
+      "id": "eventos2",
+      "name": "Eventos 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/eventos2.png",
+      "embedUrl": "https://superflixapi.pro/canal/eventos2",
+      "category": "Esportes"
+    },
+    {
+      "id": "eventos3",
+      "name": "Eventos 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/eventos3.png",
+      "embedUrl": "https://superflixapi.pro/canal/eventos3",
+      "category": "Esportes"
+    },
+    {
+      "id": "eventos4",
+      "name": "Eventos 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/eventos4.png",
+      "embedUrl": "https://superflixapi.pro/canal/eventos4",
+      "category": "Esportes"
+    },
+    {
+      "id": "fashiontv",
+      "name": "FashionTV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/fashiontv.png",
+      "embedUrl": "https://superflixapi.pro/canal/fashiontv",
+      "category": "Variedades"
+    },
+    {
+      "id": "fifa",
+      "name": "FIFA+",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/fifa.png",
+      "embedUrl": "https://superflixapi.pro/canal/fifa",
+      "category": "Esportes"
+    },
+    {
+      "id": "fifa2",
+      "name": "FIFA+ 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/fifa2.png",
+      "embedUrl": "https://superflixapi.pro/canal/fifa2",
+      "category": "Esportes"
+    },
+    {
+      "id": "fifa3",
+      "name": "FIFA+ 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/fifa3.png",
+      "embedUrl": "https://superflixapi.pro/canal/fifa3",
+      "category": "Esportes"
+    },
+    {
+      "id": "fifa4",
+      "name": "FIFA+ 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/fifa4.png",
+      "embedUrl": "https://superflixapi.pro/canal/fifa4",
+      "category": "Esportes"
+    },
+    {
+      "id": "filmarts",
+      "name": "Film&Arts",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/filmarts.png",
+      "embedUrl": "https://superflixapi.pro/canal/filmarts",
+      "category": "Variedades"
+    },
+    {
+      "id": "fishtv",
+      "name": "Fish TV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/fishtv.png",
+      "embedUrl": "https://superflixapi.pro/canal/fishtv",
+      "category": "Variedades"
+    },
+    {
+      "id": "foodnetwork",
+      "name": "Food Network",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/foodnetwork.png",
+      "embedUrl": "https://superflixapi.pro/canal/foodnetwork",
+      "category": "Variedades"
+    },
+    {
+      "id": "ftfsports",
+      "name": "FTF Sports (EN)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/ftfsports.png",
+      "embedUrl": "https://superflixapi.pro/canal/ftfsports",
+      "category": "Esportes"
+    },
+    {
+      "id": "fueltv",
+      "name": "Fuel TV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/fueltv.png",
+      "embedUrl": "https://superflixapi.pro/canal/fueltv",
+      "category": "Variedades"
+    },
+    {
+      "id": "futura",
+      "name": "Futura",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/futura.png",
+      "embedUrl": "https://superflixapi.pro/canal/futura",
+      "category": "Variedades"
+    },
+    {
+      "id": "gazeta",
+      "name": "Gazeta",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/gazeta.png",
+      "embedUrl": "https://superflixapi.pro/canal/gazeta",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "geekdot",
+      "name": "Geekdot",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/geekdot.png",
+      "embedUrl": "https://superflixapi.pro/canal/geekdot",
+      "category": "Variedades"
+    },
+    {
+      "id": "getv",
+      "name": "GeTV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/getv.png",
+      "embedUrl": "https://superflixapi.pro/canal/getv",
+      "category": "Esportes"
+    },
+    {
+      "id": "globoal",
+      "name": "Globo AL",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globoal.png",
+      "embedUrl": "https://superflixapi.pro/canal/globoal",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "globoam",
+      "name": "Globo AM",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globoam.png",
+      "embedUrl": "https://superflixapi.pro/canal/globoam",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "globoba",
+      "name": "Globo BA",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globoba.png",
+      "embedUrl": "https://superflixapi.pro/canal/globoba",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "globodf",
+      "name": "Globo DF",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globodf.png",
+      "embedUrl": "https://superflixapi.pro/canal/globodf",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "globogo",
+      "name": "Globo GO",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globogo.png",
+      "embedUrl": "https://superflixapi.pro/canal/globogo",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "globomg",
+      "name": "Globo MG",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globomg.png",
+      "embedUrl": "https://superflixapi.pro/canal/globomg",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "globoms",
+      "name": "Globo MS",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globoms.png",
+      "embedUrl": "https://superflixapi.pro/canal/globoms",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "globonews",
+      "name": "Globo News",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globonews.png",
+      "embedUrl": "https://superflixapi.pro/canal/globonews",
+      "category": "Notícias"
+    },
+    {
+      "id": "globorj",
+      "name": "Globo RJ",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globorj.png",
+      "embedUrl": "https://superflixapi.pro/canal/globorj",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "globors",
+      "name": "Globo RS",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globors.png",
+      "embedUrl": "https://superflixapi.pro/canal/globors",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "globosp",
+      "name": "Globo SP",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globosp.png",
+      "embedUrl": "https://superflixapi.pro/canal/globosp",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "globoplaynovelas",
+      "name": "Globoplay Novelas",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/globoplaynovelas.png",
+      "embedUrl": "https://superflixapi.pro/canal/globoplaynovelas",
+      "category": "Séries"
+    },
+    {
+      "id": "gloob",
+      "name": "Gloob",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/gloob.png",
+      "embedUrl": "https://superflixapi.pro/canal/gloob",
+      "category": "Infantil"
+    },
+    {
+      "id": "gloobinho",
+      "name": "Gloobinho",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/gloobinho.png",
+      "embedUrl": "https://superflixapi.pro/canal/gloobinho",
+      "category": "Infantil"
+    },
+    {
+      "id": "gnt",
+      "name": "GNT",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/gnt.png",
+      "embedUrl": "https://superflixapi.pro/canal/gnt",
+      "category": "Variedades"
+    },
+    {
+      "id": "gospelcartoon",
+      "name": "Gospel Cartoon",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/gospelcartoon.png",
+      "embedUrl": "https://superflixapi.pro/canal/gospelcartoon",
+      "category": "Infantil"
+    },
+    {
+      "id": "hbo",
+      "name": "HBO",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/hbo.png",
+      "embedUrl": "https://superflixapi.pro/canal/hbo",
+      "category": "Séries"
+    },
+    {
+      "id": "hbo2",
+      "name": "HBO 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/hbo2.png",
+      "embedUrl": "https://superflixapi.pro/canal/hbo2",
+      "category": "Séries"
+    },
+    {
+      "id": "hbofamily",
+      "name": "HBO Family",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/hbofamily.png",
+      "embedUrl": "https://superflixapi.pro/canal/hbofamily",
+      "category": "Séries"
+    },
+    {
+      "id": "hbomundi",
+      "name": "HBO Mundi",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/hbomundi.png",
+      "embedUrl": "https://superflixapi.pro/canal/hbomundi",
+      "category": "Séries"
+    },
+    {
+      "id": "hboplus",
+      "name": "HBO Plus",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/hboplus.png",
+      "embedUrl": "https://superflixapi.pro/canal/hboplus",
+      "category": "Séries"
+    },
+    {
+      "id": "hbopop",
+      "name": "HBO Pop",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/hbopop.png",
+      "embedUrl": "https://superflixapi.pro/canal/hbopop",
+      "category": "Séries"
+    },
+    {
+      "id": "hbosignature",
+      "name": "HBO Signature",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/hbosignature.png",
+      "embedUrl": "https://superflixapi.pro/canal/hbosignature",
+      "category": "Séries"
+    },
+    {
+      "id": "hboxtreme",
+      "name": "HBO Xtreme",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/hboxtreme.png",
+      "embedUrl": "https://superflixapi.pro/canal/hboxtreme",
+      "category": "Séries"
+    },
+    {
+      "id": "hgtv",
+      "name": "HGTV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/hgtv.png",
+      "embedUrl": "https://superflixapi.pro/canal/hgtv",
+      "category": "Variedades"
+    },
+    {
+      "id": "hiltonchannel",
+      "name": "Hilton Channel",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/hiltonchannel.png",
+      "embedUrl": "https://superflixapi.pro/canal/hiltonchannel",
+      "category": "MiamiTV"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/history.png",
+      "embedUrl": "https://superflixapi.pro/canal/history",
+      "category": "Variedades"
+    },
+    {
+      "id": "history2",
+      "name": "History 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/history2.png",
+      "embedUrl": "https://superflixapi.pro/canal/history2",
+      "category": "Variedades"
+    },
+    {
+      "id": "jovempannews",
+      "name": "Jovem Pan News",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/jovempannews.png",
+      "embedUrl": "https://superflixapi.pro/canal/jovempannews",
+      "category": "Notícias"
+    },
+    {
+      "id": "lifetime",
+      "name": "Lifetime",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/lifetime.png",
+      "embedUrl": "https://superflixapi.pro/canal/lifetime",
+      "category": "Variedades"
+    },
+    {
+      "id": "loading",
+      "name": "Loading",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/loading.png",
+      "embedUrl": "https://superflixapi.pro/canal/loading",
+      "category": "Variedades"
+    },
+    {
+      "id": "max1",
+      "name": "Max",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/max1.png",
+      "embedUrl": "https://superflixapi.pro/canal/max1",
+      "category": "Esportes"
+    },
+    {
+      "id": "max2",
+      "name": "Max 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/max2.png",
+      "embedUrl": "https://superflixapi.pro/canal/max2",
+      "category": "Esportes"
+    },
+    {
+      "id": "max3",
+      "name": "Max 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/max3.png",
+      "embedUrl": "https://superflixapi.pro/canal/max3",
+      "category": "Esportes"
+    },
+    {
+      "id": "max4",
+      "name": "Max 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/max4.png",
+      "embedUrl": "https://superflixapi.pro/canal/max4",
+      "category": "Geral"
+    },
+    {
+      "id": "max5",
+      "name": "Max 5",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/max5.png",
+      "embedUrl": "https://superflixapi.pro/canal/max5",
+      "category": "Esportes"
+    },
+    {
+      "id": "max6",
+      "name": "Max 6",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/max6.png",
+      "embedUrl": "https://superflixapi.pro/canal/max6",
+      "category": "Esportes"
+    },
+    {
+      "id": "max7",
+      "name": "Max 7",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/max7.png",
+      "embedUrl": "https://superflixapi.pro/canal/max7",
+      "category": "Esportes"
+    },
+    {
+      "id": "maxanime",
+      "name": "Max Anime (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/maxanime.png",
+      "embedUrl": "https://superflixapi.pro/canal/maxanime",
+      "category": "Desenhos"
+    },
+    {
+      "id": "megapix",
+      "name": "Megapix",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/megapix.png",
+      "embedUrl": "https://superflixapi.pro/canal/megapix",
+      "category": "Filmes"
+    },
+    {
+      "id": "miamitvdj",
+      "name": "MiamiTV DJ (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/miamitvdj.png",
+      "embedUrl": "https://superflixapi.pro/canal/miamitvdj",
+      "category": "MiamiTV"
+    },
+    {
+      "id": "miamitvevents",
+      "name": "MiamiTV Events (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/miamitvevents.png",
+      "embedUrl": "https://superflixapi.pro/canal/miamitvevents",
+      "category": "MiamiTV"
+    },
+    {
+      "id": "miamitvfood",
+      "name": "MiamiTV Food (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/miamitvfood.png",
+      "embedUrl": "https://superflixapi.pro/canal/miamitvfood",
+      "category": "MiamiTV"
+    },
+    {
+      "id": "miamitvgold",
+      "name": "MiamiTV Gold (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/miamitvgold.png",
+      "embedUrl": "https://superflixapi.pro/canal/miamitvgold",
+      "category": "MiamiTV"
+    },
+    {
+      "id": "miamitvhealth",
+      "name": "MiamiTV Health (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/miamitvhealth.png",
+      "embedUrl": "https://superflixapi.pro/canal/miamitvhealth",
+      "category": "MiamiTV"
+    },
+    {
+      "id": "miamitvkids",
+      "name": "MiamiTV Kids (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/miamitvkids.png",
+      "embedUrl": "https://superflixapi.pro/canal/miamitvkids",
+      "category": "Variedades"
+    },
+    {
+      "id": "miamitvlatino",
+      "name": "MiamiTV Latino (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/miamitvlatino.png",
+      "embedUrl": "https://superflixapi.pro/canal/miamitvlatino",
+      "category": "MiamiTV"
+    },
+    {
+      "id": "miamitvlife",
+      "name": "MiamiTV Life (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/miamitvlife.png",
+      "embedUrl": "https://superflixapi.pro/canal/miamitvlife",
+      "category": "MiamiTV"
+    },
+    {
+      "id": "miamitvmistery",
+      "name": "MiamiTV Mistery (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/miamitvmistery.png",
+      "embedUrl": "https://superflixapi.pro/canal/miamitvmistery",
+      "category": "MiamiTV"
+    },
+    {
+      "id": "miamitvmusic",
+      "name": "MiamiTV Music (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/miamitvmusic.png",
+      "embedUrl": "https://superflixapi.pro/canal/miamitvmusic",
+      "category": "MiamiTV"
+    },
+    {
+      "id": "modoviagem",
+      "name": "Modo Viagem",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/modoviagem.png",
+      "embedUrl": "https://superflixapi.pro/canal/modoviagem",
+      "category": "Variedades"
+    },
+    {
+      "id": "motorvision",
+      "name": "Motorvision",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/motorvision.png",
+      "embedUrl": "https://superflixapi.pro/canal/motorvision",
+      "category": "Variedades"
+    },
+    {
+      "id": "moviesphere",
+      "name": "MovieSphere",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/moviesphere.png",
+      "embedUrl": "https://superflixapi.pro/canal/moviesphere",
+      "category": "Filmes"
+    },
+    {
+      "id": "mtv",
+      "name": "MTV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/mtv.png",
+      "embedUrl": "https://superflixapi.pro/canal/mtv",
+      "category": "Variedades"
+    },
+    {
+      "id": "multishow",
+      "name": "Multishow",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/multishow.png",
+      "embedUrl": "https://superflixapi.pro/canal/multishow",
+      "category": "Variedades"
+    },
+    {
+      "id": "musicbox",
+      "name": "Music Box",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/musicbox.png",
+      "embedUrl": "https://superflixapi.pro/canal/musicbox",
+      "category": "Variedades"
+    },
+    {
+      "id": "mytimemovienetwork",
+      "name": "MyTime Movie Network",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/mytimemovienetwork.png",
+      "embedUrl": "https://superflixapi.pro/canal/mytimemovienetwork",
+      "category": "Filmes"
+    },
+    {
+      "id": "nsports",
+      "name": "N Sports",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/nsports.png",
+      "embedUrl": "https://superflixapi.pro/canal/nsports",
+      "category": "Esportes"
+    },
+    {
+      "id": "nsports2",
+      "name": "N Sports 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/nsports2.png",
+      "embedUrl": "https://superflixapi.pro/canal/nsports2",
+      "category": "Esportes"
+    },
+    {
+      "id": "nsports3",
+      "name": "N Sports 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/nsports3.png",
+      "embedUrl": "https://superflixapi.pro/canal/nsports3",
+      "category": "Esportes"
+    },
+    {
+      "id": "nbaleaguepass",
+      "name": "NBA League Pass 1",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/nbaleaguepass.png",
+      "embedUrl": "https://superflixapi.pro/canal/nbaleaguepass",
+      "category": "Esportes"
+    },
+    {
+      "id": "nbaleaguepass2",
+      "name": "NBA League Pass 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/nbaleaguepass2.png",
+      "embedUrl": "https://superflixapi.pro/canal/nbaleaguepass2",
+      "category": "Esportes"
+    },
+    {
+      "id": "nbaleaguepass3",
+      "name": "NBA League Pass 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/nbaleaguepass3.png",
+      "embedUrl": "https://superflixapi.pro/canal/nbaleaguepass3",
+      "category": "Esportes"
+    },
+    {
+      "id": "nbaleaguepass4",
+      "name": "NBA League Pass 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/nbaleaguepass4.png",
+      "embedUrl": "https://superflixapi.pro/canal/nbaleaguepass4",
+      "category": "Esportes"
+    },
+    {
+      "id": "nbaleaguepass5",
+      "name": "NBA League Pass 5",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/nbaleaguepass5.png",
+      "embedUrl": "https://superflixapi.pro/canal/nbaleaguepass5",
+      "category": "Esportes"
+    },
+    {
+      "id": "nbaleaguepass6",
+      "name": "NBA League Pass 6",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/nbaleaguepass6.png",
+      "embedUrl": "https://superflixapi.pro/canal/nbaleaguepass6",
+      "category": "Esportes"
+    },
+    {
+      "id": "paramount",
+      "name": "Paramount+",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/paramount.png",
+      "embedUrl": "https://superflixapi.pro/canal/paramount",
+      "category": "Esportes"
+    },
+    {
+      "id": "paramount2",
+      "name": "Paramount+ 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/paramount2.png",
+      "embedUrl": "https://superflixapi.pro/canal/paramount2",
+      "category": "Esportes"
+    },
+    {
+      "id": "paramount3",
+      "name": "Paramount+ 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/paramount3.png",
+      "embedUrl": "https://superflixapi.pro/canal/paramount3",
+      "category": "Esportes"
+    },
+    {
+      "id": "paramount4",
+      "name": "Paramount+ 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/paramount4.png",
+      "embedUrl": "https://superflixapi.pro/canal/paramount4",
+      "category": "Esportes"
+    },
+    {
+      "id": "playtv",
+      "name": "Play TV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/playtv.png",
+      "embedUrl": "https://superflixapi.pro/canal/playtv",
+      "category": "Variedades"
+    },
+    {
+      "id": "portocanal",
+      "name": "Porto Canal (PT)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/portocanal.png",
+      "embedUrl": "https://superflixapi.pro/canal/portocanal",
+      "category": "Variedades"
+    },
+    {
+      "id": "premiere",
+      "name": "Premiere 1",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/premiere.png",
+      "embedUrl": "https://superflixapi.pro/canal/premiere",
+      "category": "Esportes"
+    },
+    {
+      "id": "premiere-2",
+      "name": "Premiere 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/premiere-2.png",
+      "embedUrl": "https://superflixapi.pro/canal/premiere-2",
+      "category": "Esportes"
+    },
+    {
+      "id": "premiere-3",
+      "name": "Premiere 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/premiere-3.png",
+      "embedUrl": "https://superflixapi.pro/canal/premiere-3",
+      "category": "Esportes"
+    },
+    {
+      "id": "premiere-4",
+      "name": "Premiere 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/premiere-4.png",
+      "embedUrl": "https://superflixapi.pro/canal/premiere-4",
+      "category": "Esportes"
+    },
+    {
+      "id": "premiere-5",
+      "name": "Premiere 5",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/premiere-5.png",
+      "embedUrl": "https://superflixapi.pro/canal/premiere-5",
+      "category": "Esportes"
+    },
+    {
+      "id": "premiere-6",
+      "name": "Premiere 6",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/premiere-6.png",
+      "embedUrl": "https://superflixapi.pro/canal/premiere-6",
+      "category": "Esportes"
+    },
+    {
+      "id": "premiere-7",
+      "name": "Premiere 7",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/premiere-7.png",
+      "embedUrl": "https://superflixapi.pro/canal/premiere-7",
+      "category": "Esportes"
+    },
+    {
+      "id": "premiere-8",
+      "name": "Premiere 8",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/premiere-8.png",
+      "embedUrl": "https://superflixapi.pro/canal/premiere-8",
+      "category": "Esportes"
+    },
+    {
+      "id": "primebox",
+      "name": "Prime Box",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/primebox.png",
+      "embedUrl": "https://superflixapi.pro/canal/primebox",
+      "category": "Filmes"
+    },
+    {
+      "id": "primevideo",
+      "name": "Prime Video",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/primevideo.png",
+      "embedUrl": "https://superflixapi.pro/canal/primevideo",
+      "category": "Esportes"
+    },
+    {
+      "id": "primevideo2",
+      "name": "Prime Video 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/primevideo2.png",
+      "embedUrl": "https://superflixapi.pro/canal/primevideo2",
+      "category": "Esportes"
+    },
+    {
+      "id": "primevideo3",
+      "name": "Prime Video 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/primevideo3.png",
+      "embedUrl": "https://superflixapi.pro/canal/primevideo3",
+      "category": "Esportes"
+    },
+    {
+      "id": "primevideo4",
+      "name": "Prime Video 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/primevideo4.png",
+      "embedUrl": "https://superflixapi.pro/canal/primevideo4",
+      "category": "Esportes"
+    },
+    {
+      "id": "racer",
+      "name": "Racer (EN)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/racer.png",
+      "embedUrl": "https://superflixapi.pro/canal/racer",
+      "category": "Variedades"
+    },
+    {
+      "id": "racerselect",
+      "name": "Racer Select (EN)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/racerselect.png",
+      "embedUrl": "https://superflixapi.pro/canal/racerselect",
+      "category": "Inglês"
+    },
+    {
+      "id": "realmadridtv",
+      "name": "Real Madrid TV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/realmadridtv.png",
+      "embedUrl": "https://superflixapi.pro/canal/realmadridtv",
+      "category": "Variedades"
+    },
+    {
+      "id": "recordmt",
+      "name": "Record MT",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/recordmt.png",
+      "embedUrl": "https://superflixapi.pro/canal/recordmt",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "recordnews",
+      "name": "Record News",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/recordnews.png",
+      "embedUrl": "https://superflixapi.pro/canal/recordnews",
+      "category": "Notícias"
+    },
+    {
+      "id": "recordpb",
+      "name": "Record PB",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/recordpb.png",
+      "embedUrl": "https://superflixapi.pro/canal/recordpb",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "recordrn",
+      "name": "Record RN",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/recordrn.png",
+      "embedUrl": "https://superflixapi.pro/canal/recordrn",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "recordro",
+      "name": "Record RO",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/recordro.png",
+      "embedUrl": "https://superflixapi.pro/canal/recordro",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "recordsp",
+      "name": "Record SP",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/recordsp.png",
+      "embedUrl": "https://superflixapi.pro/canal/recordsp",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "redbulltv",
+      "name": "Red Bull TV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/redbulltv.png",
+      "embedUrl": "https://superflixapi.pro/canal/redbulltv",
+      "category": "Variedades"
+    },
+    {
+      "id": "redebrasil",
+      "name": "Rede Brasil",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/redebrasil.png",
+      "embedUrl": "https://superflixapi.pro/canal/redebrasil",
+      "category": "Variedades"
+    },
+    {
+      "id": "redegospel",
+      "name": "Rede Gospel",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/redegospel.png",
+      "embedUrl": "https://superflixapi.pro/canal/redegospel",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "redeminas",
+      "name": "Rede Minas",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/redeminas.png",
+      "embedUrl": "https://superflixapi.pro/canal/redeminas",
+      "category": "Variedades"
+    },
+    {
+      "id": "redeseculo21",
+      "name": "Rede Século 21",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/redeseculo21.png",
+      "embedUrl": "https://superflixapi.pro/canal/redeseculo21",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "redesuper",
+      "name": "Rede Super",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/redesuper.png",
+      "embedUrl": "https://superflixapi.pro/canal/redesuper",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "redevida",
+      "name": "Rede Vida",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/redevida.png",
+      "embedUrl": "https://superflixapi.pro/canal/redevida",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "redetv",
+      "name": "RedeTV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/redetv.png",
+      "embedUrl": "https://superflixapi.pro/canal/redetv",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "retrocartoon",
+      "name": "Retrô Cartoon",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/retrocartoon.png",
+      "embedUrl": "https://superflixapi.pro/canal/retrocartoon",
+      "category": "Infantil"
+    },
+    {
+      "id": "runtime",
+      "name": "RunTime",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/runtime.png",
+      "embedUrl": "https://superflixapi.pro/canal/runtime",
+      "category": "Filmes"
+    },
+    {
+      "id": "sbt",
+      "name": "SBT",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sbt.png",
+      "embedUrl": "https://superflixapi.pro/canal/sbt",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "sbtkids",
+      "name": "SBT Kids",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sbtkids.png",
+      "embedUrl": "https://superflixapi.pro/canal/sbtkids",
+      "category": "Infantil"
+    },
+    {
+      "id": "sbtnews",
+      "name": "SBT News",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sbtnews.png",
+      "embedUrl": "https://superflixapi.pro/canal/sbtnews",
+      "category": "Notícias"
+    },
+    {
+      "id": "sbtnovelas",
+      "name": "SBT Novelas",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sbtnovelas.png",
+      "embedUrl": "https://superflixapi.pro/canal/sbtnovelas",
+      "category": "Variedades"
+    },
+    {
+      "id": "sbtpi",
+      "name": "SBT PI",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sbtpi.png",
+      "embedUrl": "https://superflixapi.pro/canal/sbtpi",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "sbtraiz",
+      "name": "SBT Raiz",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sbtraiz.png",
+      "embedUrl": "https://superflixapi.pro/canal/sbtraiz",
+      "category": "Variedades"
+    },
+    {
+      "id": "seriesclassic",
+      "name": "Séries Classic",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/seriesclassic.png",
+      "embedUrl": "https://superflixapi.pro/canal/seriesclassic",
+      "category": "Séries"
+    },
+    {
+      "id": "sesctv",
+      "name": "SescTV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sesctv.png",
+      "embedUrl": "https://superflixapi.pro/canal/sesctv",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "sony",
+      "name": "Sony",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sony.png",
+      "embedUrl": "https://superflixapi.pro/canal/sony",
+      "category": "Variedades"
+    },
+    {
+      "id": "sonymovies",
+      "name": "Sony Movies",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sonymovies.png",
+      "embedUrl": "https://superflixapi.pro/canal/sonymovies",
+      "category": "Filmes"
+    },
+    {
+      "id": "sonyone",
+      "name": "Sony One",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sonyone.png",
+      "embedUrl": "https://superflixapi.pro/canal/sonyone",
+      "category": "Séries"
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/space.png",
+      "embedUrl": "https://superflixapi.pro/canal/space",
+      "category": "Variedades"
+    },
+    {
+      "id": "spark-tv-luz-e-amor",
+      "name": "Spark Tv Luz e Amor",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/spark-tv-luz-e-amor.png",
+      "embedUrl": "https://superflixapi.pro/canal/spark-tv-luz-e-amor",
+      "category": "Séries"
+    },
+    {
+      "id": "sporttv",
+      "name": "Sport TV 1 (PT)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sporttv.png",
+      "embedUrl": "https://superflixapi.pro/canal/sporttv",
+      "category": "Esportes"
+    },
+    {
+      "id": "sporttv2",
+      "name": "Sport TV 2 (PT)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sporttv2.png",
+      "embedUrl": "https://superflixapi.pro/canal/sporttv2",
+      "category": "Esportes"
+    },
+    {
+      "id": "sporttv3",
+      "name": "Sport TV 3 (PT)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sporttv3.png",
+      "embedUrl": "https://superflixapi.pro/canal/sporttv3",
+      "category": "Esportes"
+    },
+    {
+      "id": "sporttv4",
+      "name": "Sport TV 4 (PT)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sporttv4.png",
+      "embedUrl": "https://superflixapi.pro/canal/sporttv4",
+      "category": "Esportes"
+    },
+    {
+      "id": "sporttv5",
+      "name": "Sport TV 5 (PT)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sporttv5.png",
+      "embedUrl": "https://superflixapi.pro/canal/sporttv5",
+      "category": "Esportes"
+    },
+    {
+      "id": "sporttv6",
+      "name": "Sport TV 6 (PT)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sporttv6.png",
+      "embedUrl": "https://superflixapi.pro/canal/sporttv6",
+      "category": "Esportes"
+    },
+    {
+      "id": "sporttvnba",
+      "name": "Sport TV NBA",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sporttvnba.png",
+      "embedUrl": "https://superflixapi.pro/canal/sporttvnba",
+      "category": "Esportes"
+    },
+    {
+      "id": "sportitalia",
+      "name": "Sportitalia (IT)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sportitalia.png",
+      "embedUrl": "https://superflixapi.pro/canal/sportitalia",
+      "category": "Esportes"
+    },
+    {
+      "id": "sportv",
+      "name": "SporTV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sportv.png",
+      "embedUrl": "https://superflixapi.pro/canal/sportv",
+      "category": "Esportes"
+    },
+    {
+      "id": "sportv2",
+      "name": "SporTV 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sportv2.png",
+      "embedUrl": "https://superflixapi.pro/canal/sportv2",
+      "category": "Esportes"
+    },
+    {
+      "id": "sportv3",
+      "name": "SporTV 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sportv3.png",
+      "embedUrl": "https://superflixapi.pro/canal/sportv3",
+      "category": "Esportes"
+    },
+    {
+      "id": "sportv4",
+      "name": "SporTV 4",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sportv4.png",
+      "embedUrl": "https://superflixapi.pro/canal/sportv4",
+      "category": "Esportes"
+    },
+    {
+      "id": "sportynet",
+      "name": "SportyNet",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sportynet.png",
+      "embedUrl": "https://superflixapi.pro/canal/sportynet",
+      "category": "Esportes"
+    },
+    {
+      "id": "sportynet2",
+      "name": "SportyNet 2",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sportynet2.png",
+      "embedUrl": "https://superflixapi.pro/canal/sportynet2",
+      "category": "Esportes"
+    },
+    {
+      "id": "sportynet3",
+      "name": "SportyNet 3",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/sportynet3.png",
+      "embedUrl": "https://superflixapi.pro/canal/sportynet3",
+      "category": "Esportes"
+    },
+    {
+      "id": "studiouniversal",
+      "name": "Studio Universal",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/studiouniversal.png",
+      "embedUrl": "https://superflixapi.pro/canal/studiouniversal",
+      "category": "Séries"
+    },
+    {
+      "id": "surftvnow",
+      "name": "Surf Now TV (EN)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/surftvnow.png",
+      "embedUrl": "https://superflixapi.pro/canal/surftvnow",
+      "category": "Esportes"
+    },
+    {
+      "id": "tcm",
+      "name": "TCM",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tcm.png",
+      "embedUrl": "https://superflixapi.pro/canal/tcm",
+      "category": "Variedades"
+    },
+    {
+      "id": "telecineaction",
+      "name": "Telecine Action",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/telecineaction.png",
+      "embedUrl": "https://superflixapi.pro/canal/telecineaction",
+      "category": "Filmes"
+    },
+    {
+      "id": "telecinecult",
+      "name": "Telecine Cult",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/telecinecult.png",
+      "embedUrl": "https://superflixapi.pro/canal/telecinecult",
+      "category": "Filmes"
+    },
+    {
+      "id": "telecinefun",
+      "name": "Telecine Fun",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/telecinefun.png",
+      "embedUrl": "https://superflixapi.pro/canal/telecinefun",
+      "category": "Filmes"
+    },
+    {
+      "id": "telecinepipoca",
+      "name": "Telecine Pipoca",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/telecinepipoca.png",
+      "embedUrl": "https://superflixapi.pro/canal/telecinepipoca",
+      "category": "Filmes"
+    },
+    {
+      "id": "telecinepremium",
+      "name": "Telecine Premium",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/telecinepremium.png",
+      "embedUrl": "https://superflixapi.pro/canal/telecinepremium",
+      "category": "Filmes"
+    },
+    {
+      "id": "telecinetouch",
+      "name": "Telecine Touch",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/telecinetouch.png",
+      "embedUrl": "https://superflixapi.pro/canal/telecinetouch",
+      "category": "Filmes"
+    },
+    {
+      "id": "tlc",
+      "name": "TLC",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tlc.png",
+      "embedUrl": "https://superflixapi.pro/canal/tlc",
+      "category": "Variedades"
+    },
+    {
+      "id": "tnt",
+      "name": "TNT",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tnt.png",
+      "embedUrl": "https://superflixapi.pro/canal/tnt",
+      "category": "Variedades"
+    },
+    {
+      "id": "tntnovelas",
+      "name": "TNT Novelas",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tntnovelas.png",
+      "embedUrl": "https://superflixapi.pro/canal/tntnovelas",
+      "category": "Variedades"
+    },
+    {
+      "id": "tntseries",
+      "name": "TNT Series",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tntseries.png",
+      "embedUrl": "https://superflixapi.pro/canal/tntseries",
+      "category": "Séries"
+    },
+    {
+      "id": "toon-goggles",
+      "name": "Toon Goggles",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/toon-goggles.png",
+      "embedUrl": "https://superflixapi.pro/canal/toon-goggles",
+      "category": "Infantil"
+    },
+    {
+      "id": "tooncast",
+      "name": "Tooncast",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tooncast.png",
+      "embedUrl": "https://superflixapi.pro/canal/tooncast",
+      "category": "Infantil"
+    },
+    {
+      "id": "tracebrasil",
+      "name": "Trace Brasil",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tracebrasil.png",
+      "embedUrl": "https://superflixapi.pro/canal/tracebrasil",
+      "category": "Variedades"
+    },
+    {
+      "id": "travelbox",
+      "name": "Travel Box",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/travelbox.png",
+      "embedUrl": "https://superflixapi.pro/canal/travelbox",
+      "category": "Variedades"
+    },
+    {
+      "id": "tvalego",
+      "name": "TV Alego",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvalego.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvalego",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "tvalmg",
+      "name": "TV ALMG",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvalmg.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvalmg",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "tvaparecida",
+      "name": "TV Aparecida",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvaparecida.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvaparecida",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "tvbrasil",
+      "name": "TV Brasil",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvbrasil.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvbrasil",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "tvcamara",
+      "name": "TV Câmara",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvcamara.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvcamara",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "tv-classicos",
+      "name": "TV Clássicos",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tv-classicos.png",
+      "embedUrl": "https://superflixapi.pro/canal/tv-classicos",
+      "category": "Séries"
+    },
+    {
+      "id": "tvcultura",
+      "name": "TV Cultura",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvcultura.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvcultura",
+      "category": "Infantil"
+    },
+    {
+      "id": "tvescola",
+      "name": "TV Escola",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvescola.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvescola",
+      "category": "Variedades"
+    },
+    {
+      "id": "tvevangelizar",
+      "name": "TV Evangelizar",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvevangelizar.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvevangelizar",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "tvkidmais",
+      "name": "TV KIDMAIS",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvkidmais.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvkidmais",
+      "category": "Infantil"
+    },
+    {
+      "id": "tvmaanaim",
+      "name": "TV Maanaim",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvmaanaim.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvmaanaim",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "tvnovotempo",
+      "name": "TV Novo Tempo",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvnovotempo.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvnovotempo",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "tvpaieterno",
+      "name": "TV Pai Eterno",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvpaieterno.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvpaieterno",
+      "category": "Canais Abertos"
+    },
+    {
+      "id": "tvratimbum",
+      "name": "TV Rá Tim Bum",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tvratimbum.png",
+      "embedUrl": "https://superflixapi.pro/canal/tvratimbum",
+      "category": "Infantil"
+    },
+    {
+      "id": "tycsports",
+      "name": "TyC Sports (ES)",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/tycsports.png",
+      "embedUrl": "https://superflixapi.pro/canal/tycsports",
+      "category": "Esportes"
+    },
+    {
+      "id": "ufcfightpass",
+      "name": "UFC Fight Pass",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/ufcfightpass.png",
+      "embedUrl": "https://superflixapi.pro/canal/ufcfightpass",
+      "category": "Esportes"
+    },
+    {
+      "id": "universalpremiere",
+      "name": "Universal Premiere",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/universalpremiere.png",
+      "embedUrl": "https://superflixapi.pro/canal/universalpremiere",
+      "category": "Séries"
+    },
+    {
+      "id": "universalreality",
+      "name": "Universal Reality",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/universalreality.png",
+      "embedUrl": "https://superflixapi.pro/canal/universalreality",
+      "category": "Realitys"
+    },
+    {
+      "id": "universaltv",
+      "name": "Universal TV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/universaltv.png",
+      "embedUrl": "https://superflixapi.pro/canal/universaltv",
+      "category": "Séries"
+    },
+    {
+      "id": "usa",
+      "name": "USA",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/usa.png",
+      "embedUrl": "https://superflixapi.pro/canal/usa",
+      "category": "Séries"
+    },
+    {
+      "id": "warner",
+      "name": "Warner",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/warner.png",
+      "embedUrl": "https://superflixapi.pro/canal/warner",
+      "category": "Séries"
+    },
+    {
+      "id": "woohoo",
+      "name": "Woohoo",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/woohoo.png",
+      "embedUrl": "https://superflixapi.pro/canal/woohoo",
+      "category": "Variedades"
+    },
+    {
+      "id": "xsports",
+      "name": "XSports",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/xsports.png",
+      "embedUrl": "https://superflixapi.pro/canal/xsports",
+      "category": "Esportes"
+    },
+    {
+      "id": "xtremetv",
+      "name": "XTREME TV",
+      "description": "",
+      "logo": "https://d1muf25xaso8hp.cloudfront.net/https://superflixapi.pro/img/xtremetv.png",
+      "embedUrl": "https://superflixapi.pro/canal/xtremetv",
+      "category": "Séries"
+    }
+  ],
+  "categories": [
+    {
+      "id": "24-horas",
+      "name": "24 Horas"
+    },
+    {
+      "id": "animes",
+      "name": "Animes"
+    },
+    {
+      "id": "canais-abertos",
+      "name": "Canais Abertos"
+    },
+    {
+      "id": "desenhos",
+      "name": "Desenhos"
+    },
+    {
+      "id": "documentarios",
+      "name": "Documentários"
+    },
+    {
+      "id": "esportes",
+      "name": "Esportes"
+    },
+    {
+      "id": "filmes",
+      "name": "Filmes"
+    },
+    {
+      "id": "globo",
+      "name": "Globo"
+    },
+    {
+      "id": "gospel",
+      "name": "Gospel"
+    },
+    {
+      "id": "infantil",
+      "name": "Infantil"
+    },
+    {
+      "id": "ingles",
+      "name": "Inglês"
+    },
+    {
+      "id": "internacionais",
+      "name": "Internacionais"
+    },
+    {
+      "id": "miamitv",
+      "name": "MiamiTV"
+    },
+    {
+      "id": "noticias",
+      "name": "Notícias"
+    },
+    {
+      "id": "realitys",
+      "name": "Realitys"
+    },
+    {
+      "id": "series",
+      "name": "Séries"
+    },
+    {
+      "id": "variedades",
+      "name": "Variedades"
+    }
+  ]
+}

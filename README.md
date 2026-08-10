@@ -33,6 +33,8 @@ O catálogo e os canais são consultados por rotas internas em `app/api/`, assim
 
 Importe o repositório no painel da Vercel e mantenha a configuração detectada do projeto. O arquivo `vercel.json` já instrui a plataforma a executar `next build`; não há variáveis de ambiente obrigatórias.
 
+Na Vercel, filmes, séries e canais são servidos por um cache versionado porque o provedor bloqueia requisições originadas dos IPs da plataforma. O workflow `Atualizar catálogo da API` renova esse cache automaticamente a cada seis horas e publica a atualização no repositório.
+
 ## Aviso sobre reprodução
 
 O CineLume incorpora o player fornecido pelo parceiro de conteúdo. Caso o parceiro exija abertura externa ou bloqueie a incorporação, o site mostra a opção de abrir a página dele — sem tentar contornar essa proteção.

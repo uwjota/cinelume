@@ -1,0 +1,32 @@
+name: Atualizar catálogo da API
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Atualizar cache local
+        run: node scripts/sync-provider-cache.mjs
+      - name: Publicar atualização
+        shell: bash
+        run: |
+          if git diff --quiet -- data/catalog-cache.json data/channels-cache.json; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/catalog-cache.json data/channels-cache.json
+          git commit -m "chore: atualizar catálogo da API"
+          git push
