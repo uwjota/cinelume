@@ -67,6 +67,10 @@ function contentInfo(type: ContentType) {
   return CONTENT.find((item) => item.id === type) ?? CONTENT[0];
 }
 
+function withNoExternalLink(streamUrl: string) {
+  return streamUrl.includes("#noLink") ? streamUrl : `${streamUrl}#noLink`;
+}
+
 function toCatalogTarget(item: MediaItem): PlayerTarget {
   const info = contentInfo(item.type);
   return {
@@ -529,9 +533,14 @@ export default function Home() {
           <section className="player-dialog">
             <div className="player-top"><div><span className="live-dot" /> REPRODUZINDO <b>{player.title}</b></div><button type="button" className="dialog-close" onClick={() => setPlayer(null)} aria-label="Fechar reprodução">×</button></div>
             <div className="player-frame">
-              <iframe src={player.streamUrl} title={`Reprodução de ${player.title}`} allow="autoplay; encrypted-media; picture-in-picture; fullscreen; clipboard-write; accelerometer; gyroscope" allowFullScreen />
+              <iframe
+                src={withNoExternalLink(player.streamUrl)}
+                title={`Reprodução de ${player.title}`}
+                allow="autoplay *; encrypted-media *; picture-in-picture *; fullscreen *; clipboard-write *; accelerometer *; gyroscope *; web-share *"
+                allowFullScreen
+              />
             </div>
-            <div className="player-note"><span>i</span><p>O vídeo é fornecido pelo parceiro. Caso ele solicite acesso externo, o CineLume respeita essa proteção.</p><a href={player.streamUrl} target="_blank" rel="noreferrer">Abrir no parceiro ↗</a></div>
+            <div className="player-note"><span>i</span><p>O vídeo é fornecido pelo parceiro com os links externos ocultos pelo CineLume.</p></div>
           </section>
         </div>
       ) : null}
