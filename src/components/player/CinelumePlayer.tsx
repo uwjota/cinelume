@@ -169,7 +169,7 @@ export function CinelumePlayer({
 
   return (
     <div className="flex flex-col gap-3 w-full">
-      <div className="relative w-full aspect-video bg-black overflow-hidden border border-cine-border">
+      <div className="relative left-1/2 h-[min(52svh,24rem)] min-h-[20rem] w-screen -translate-x-1/2 overflow-hidden border-y border-cine-border bg-black sm:left-auto sm:aspect-video sm:h-auto sm:min-h-0 sm:w-full sm:translate-x-0 sm:border">
         {activeProviderId && progressReady ? (
           <PlayerIframe
             key={playbackUrl}
