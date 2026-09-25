@@ -126,7 +126,7 @@ npm run start -- -p 3010
 
 A página `/instalar` usa a identidade visual do site e pode ser acessada pelo cabeçalho no desktop, pelo menu **Mais** no celular e pelas configurações. O guia do iPhone usa a instalação pelo Safari na tela inicial.
 
-O botão Android baixa `public/downloads/Cinelume.apk`, servido como anexo em `/downloads/Cinelume.apk`. A cópia atual veio de `../cinelumeapp/dist/Cinelume.apk`: versão **1.0.2-debug**, para Android **8.0+**, identificada na página como versão de teste. Ao disponibilizar uma nova versão, substitua esse arquivo e atualize a versão exibida em `src/app/instalar/page.tsx`. Para distribuição de produção, use um APK release assinado conforme o README do projeto Android.
+O botão Android baixa `public/downloads/Cinelume.apk`, servido como anexo em `/downloads/Cinelume.apk`. A cópia atual veio de `../cinelumeapp/dist/Cinelume.apk`: versão **1.0.3 release assinada**, para Android **8.0+**. Ao disponibilizar uma nova versão, substitua esse arquivo e atualize a versão exibida em `src/app/instalar/page.tsx`. Para publicação pela Play Store, envie o AAB release assinado conforme o README do projeto Android.
 
 ## APIs internas
 

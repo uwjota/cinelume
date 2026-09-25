@@ -67,7 +67,7 @@ export default function InstalarPage() {
           </div>
           <p className="mt-5 text-sm leading-relaxed text-cine-text-secondary">Baixe o arquivo de instalação do Cinelume e instale no seu celular com Android 8.0 ou superior.</p>
           <a href="/downloads/Cinelume.apk" download="Cinelume.apk" className="mt-6 flex min-h-12 items-center justify-center gap-2 rounded-xl bg-cine-brand px-5 py-3 text-sm font-bold text-white transition-colors hover:bg-cine-brand-hover"><Download className="h-5 w-5" aria-hidden="true" />Baixar APK</a>
-          <p className="mt-3 text-center text-xs text-cine-text-muted">Versão 1.0.2 · Versão de teste · APK para Android</p>
+          <p className="mt-3 text-center text-xs text-cine-text-muted">Versão 1.0.3 · APK release assinado para Android</p>
           <ol className="mt-8 space-y-7">
             {androidSteps.map(({ title, text }, index) => (
               <li key={title} className="flex gap-4">
