@@ -27,6 +27,7 @@ export const PROVIDER_CONFIG = {
     allowedDomains: [
       "superflixapi.quest",
       "warezcdn.sbs",
+      "embedtv.lat",
       "v1.rdembed.sbs",
       "v2.rdembed.sbs",
       "reidosembeds.online",

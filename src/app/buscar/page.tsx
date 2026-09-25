@@ -18,6 +18,7 @@ import { MediaCard, MediaCardSkeleton } from "@/components/media/MediaCard";
 import { EmptyState } from "@/components/feedback/EmptyState";
 import { ErrorState } from "@/components/feedback/ErrorState";
 import { GenreChip } from "@/components/ui/GenreChip";
+import { InfiniteScrollTrigger } from "@/components/media/InfiniteScrollTrigger";
 import type { LiveChannel, LiveEvent, Media } from "@/types";
 
 const SEARCH_TABS = [
@@ -338,17 +339,13 @@ export default function BuscarPage() {
                   <MediaCard key={media.id} media={media} showType />
                 ))}
               </div>
-              {hasMoreMedia && activeTab !== "TV" && activeTab !== "Esportes" && (
-                <div className="flex justify-center pt-2">
-                  <button
-                    onClick={() => loadMoreMedia()}
-                    disabled={isLoadingMoreMedia}
-                    className="inline-flex items-center gap-2 rounded-xl border border-cine-border bg-cine-surface px-6 py-2.5 text-sm font-medium text-white transition-colors hover:bg-cine-surface-elevated disabled:cursor-wait disabled:opacity-60"
-                  >
-                    {isLoadingMoreMedia && <Loader2 className="h-4 w-4 animate-spin" />}
-                    {isLoadingMoreMedia ? "Carregando..." : "Carregar mais resultados"}
-                  </button>
-                </div>
+              {activeTab !== "TV" && activeTab !== "Esportes" && (
+                <InfiniteScrollTrigger
+                  hasMore={hasMoreMedia}
+                  isLoading={isLoadingMoreMedia}
+                  onLoadMore={loadMoreMedia}
+                  loadingLabel="Carregando mais resultados..."
+                />
               )}
             </div>
           )}

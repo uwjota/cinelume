@@ -4,6 +4,7 @@ import { AppHeader } from "@/components/layout/AppHeader";
 import { MobileBottomNav } from "@/components/layout/MobileBottomNav";
 import { QueryProvider } from "@/lib/query";
 import { ServiceWorkerRegistration } from "@/components/pwa/ServiceWorkerRegistration";
+import { ScrollRestoration } from "@/components/layout/ScrollRestoration";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/seo/metadata";
 
 export const viewport: Viewport = {
@@ -93,6 +94,7 @@ export default function RootLayout({
           Ir para o conteúdo
         </a>
         <QueryProvider>
+          <ScrollRestoration />
           <AppHeader />
           <main
             id="main-content"

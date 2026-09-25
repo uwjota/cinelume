@@ -4,10 +4,11 @@ import { useMemo, useState } from "react";
 import { useInfiniteQuery } from "@tanstack/react-query";
 import Image from "next/image";
 import Link from "next/link";
-import { Loader2, Play, Star } from "lucide-react";
+import { Play, Star } from "lucide-react";
 import { MediaGrid } from "@/components/media/MediaGrid";
 import { GenreChip } from "@/components/ui/GenreChip";
 import { EmptyState } from "@/components/feedback/EmptyState";
+import { InfiniteScrollTrigger } from "@/components/media/InfiniteScrollTrigger";
 import { formatRating, getMediaDetailUrl } from "@/utils/media";
 import { SERIES_GENRES } from "@/config/catalog-filters";
 import type { MediaCatalogPage } from "@/providers/metadata/tmdb.provider";
@@ -52,6 +53,7 @@ export function SeriesClient({ initialCatalog }: SeriesClientProps) {
     });
   }, [catalogQuery.data]);
   const totalResults = catalogQuery.data?.pages[0]?.totalResults ?? initialCatalog.totalResults;
+  const { fetchNextPage, hasNextPage, isFetchingNextPage } = catalogQuery;
 
   return (
     <div className={`flex flex-col gap-10 pb-12 ${featured ? "" : "pt-24 md:pt-28"}`}>
@@ -135,18 +137,12 @@ export function SeriesClient({ initialCatalog }: SeriesClientProps) {
         {allSeries.length > 0 ? (
           <>
             <MediaGrid items={allSeries} />
-            {catalogQuery.hasNextPage && (
-              <div className="flex justify-center pt-6">
-                <button
-                  onClick={() => catalogQuery.fetchNextPage()}
-                  disabled={catalogQuery.isFetchingNextPage}
-                  className="inline-flex items-center gap-2 px-6 py-2.5 bg-cine-surface hover:bg-cine-surface-elevated text-white font-medium text-sm rounded-xl border border-cine-border transition-colors disabled:cursor-wait disabled:opacity-60"
-                >
-                  {catalogQuery.isFetchingNextPage && <Loader2 className="h-4 w-4 animate-spin" />}
-                  {catalogQuery.isFetchingNextPage ? "Carregando..." : "Carregar mais séries"}
-                </button>
-              </div>
-            )}
+            <InfiniteScrollTrigger
+              hasMore={hasNextPage}
+              isLoading={isFetchingNextPage}
+              onLoadMore={fetchNextPage}
+              loadingLabel="Carregando mais séries..."
+            />
           </>
         ) : (
           <EmptyState

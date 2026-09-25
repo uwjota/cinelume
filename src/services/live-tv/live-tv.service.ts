@@ -1,17 +1,25 @@
+import { embedTvLiveTvProvider } from "@/providers/live-tv/embedtv.provider";
 import { reiDosEmbedsLiveTvProvider } from "@/providers/live-tv/reidosembeds.provider";
 import type { LiveChannel } from "@/types";
 
 export class CinelumeLiveTvService {
   async getChannels(category?: string): Promise<LiveChannel[]> {
-    return reiDosEmbedsLiveTvProvider.getChannels(category);
+    const primaryChannels = await embedTvLiveTvProvider.getChannels(category);
+    return primaryChannels.length > 0
+      ? primaryChannels
+      : reiDosEmbedsLiveTvProvider.getChannels(category);
   }
 
   async getCategories(): Promise<string[]> {
-    return reiDosEmbedsLiveTvProvider.getCategories();
+    const primaryCategories = await embedTvLiveTvProvider.getCategories();
+    return primaryCategories.length > 0
+      ? primaryCategories
+      : reiDosEmbedsLiveTvProvider.getCategories();
   }
 
   async getChannelById(id: string): Promise<LiveChannel | null> {
-    return reiDosEmbedsLiveTvProvider.getChannelById(id);
+    const primaryChannel = await embedTvLiveTvProvider.getChannelById(id);
+    return primaryChannel ?? reiDosEmbedsLiveTvProvider.getChannelById(id);
   }
 
   async searchChannels(query: string, category?: string): Promise<LiveChannel[]> {

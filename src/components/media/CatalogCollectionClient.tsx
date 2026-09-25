@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { Loader2, Play, Star } from "lucide-react";
+import { Play, Star } from "lucide-react";
 import { useMemo, useState } from "react";
 import { useInfiniteQuery } from "@tanstack/react-query";
 import { EmptyState } from "@/components/feedback/EmptyState";
@@ -16,6 +16,7 @@ import {
 import type { MediaCatalogPage } from "@/providers/metadata/tmdb.provider";
 import { FavoriteButton } from "./FavoriteButton";
 import { MediaGrid } from "./MediaGrid";
+import { InfiniteScrollTrigger } from "./InfiniteScrollTrigger";
 
 interface CatalogCollectionClientProps {
   title: string;
@@ -73,6 +74,7 @@ export function CatalogCollectionClient({
   }, [catalogQuery.data]);
   const totalResults =
     catalogQuery.data?.pages[0]?.totalResults ?? initialCatalog.totalResults;
+  const { fetchNextPage, hasNextPage, isFetchingNextPage } = catalogQuery;
 
   return (
     <div className={`flex flex-col gap-10 pb-16 ${featured ? "" : "pt-24 md:pt-28"}`}>
@@ -129,19 +131,12 @@ export function CatalogCollectionClient({
         {items.length > 0 ? (
           <>
             <MediaGrid items={items} />
-            {catalogQuery.hasNextPage && (
-              <button
-                type="button"
-                onClick={() => catalogQuery.fetchNextPage()}
-                disabled={catalogQuery.isFetchingNextPage}
-                className="mx-auto inline-flex min-h-11 items-center gap-2 rounded-lg border border-cine-border bg-cine-surface px-6 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-cine-surface-elevated disabled:cursor-wait disabled:opacity-60"
-              >
-                {catalogQuery.isFetchingNextPage && (
-                  <Loader2 className="h-4 w-4 animate-spin" />
-                )}
-                {catalogQuery.isFetchingNextPage ? "Carregando..." : "Carregar mais"}
-              </button>
-            )}
+            <InfiniteScrollTrigger
+              hasMore={hasNextPage}
+              isLoading={isFetchingNextPage}
+              onLoadMore={fetchNextPage}
+              loadingLabel={`Carregando mais ${title.toLowerCase()}...`}
+            />
           </>
         ) : (
           <div className="rounded-xl border border-cine-border bg-cine-surface">

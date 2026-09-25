@@ -72,6 +72,11 @@ body {
   padding-bottom: env(safe-area-inset-bottom, 0px);
 }
 
+/* O APK já reserva no layout nativo a área dos botões/gestos do Android. */
+html.android-webview .safe-area-bottom {
+  padding-bottom: 0;
+}
+
 /* Accessible focus styling */
 :focus-visible {
   outline: 2px solid #E50914;

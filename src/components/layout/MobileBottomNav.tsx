@@ -65,6 +65,13 @@ export function MobileBottomNav() {
     setMoreOpen(false);
   }, [pathname]);
 
+  useEffect(() => {
+    const isAndroidWebView = /Android/i.test(navigator.userAgent) && /\bwv\b/i.test(navigator.userAgent);
+    document.documentElement.classList.toggle("android-webview", isAndroidWebView);
+
+    return () => document.documentElement.classList.remove("android-webview");
+  }, []);
+
   const isActive = (href: string) => {
     if (href === "/") return pathname === "/";
     return pathname.startsWith(href);
