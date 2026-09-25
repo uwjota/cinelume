@@ -16,7 +16,7 @@ export default async function DoramasPage() {
     <div>
       <CatalogCollectionClient
         title="Doramas"
-        description="K-dramas e produções asiáticas com romance, drama, suspense e fantasia."
+        description="Escolha um dorama para começar a assistir."
         mediaType="dorama"
         initialCatalog={catalog}
       />

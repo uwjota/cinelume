@@ -10,6 +10,7 @@ const ROUTES = [
   "/tv",
   "/esportes",
   "/buscar",
+  "/instalar",
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {

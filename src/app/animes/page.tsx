@@ -16,7 +16,7 @@ export default async function AnimesPage() {
     <div>
       <CatalogCollectionClient
         title="Animes"
-        description="Animação japonesa, aventuras, fantasia e grandes sagas organizadas em um catálogo completo."
+        description="Encontre seu próximo anime por gênero."
         mediaType="anime"
         initialCatalog={catalog}
       />

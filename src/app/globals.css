@@ -84,6 +84,20 @@ body {
   color: #FFFFFF;
 }
 
+@keyframes support-banner-scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+.support-banner-track {
+  animation: support-banner-scroll 38s linear infinite;
+}
+
+.support-banner a:hover .support-banner-track,
+.support-banner a:focus-visible .support-banner-track {
+  animation-play-state: paused !important;
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;

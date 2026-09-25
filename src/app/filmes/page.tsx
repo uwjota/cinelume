@@ -5,19 +5,16 @@ import { createPageMetadata } from "@/lib/seo/metadata";
 export const revalidate = 3600;
 export const metadata = createPageMetadata({
   title: "Filmes",
-  description: "Explore filmes populares, lançamentos e títulos de todos os gêneros no Cinelume.",
+  description: "Explore filmes populares e títulos de todos os gêneros no Cinelume.",
   path: "/filmes",
 });
 
 export default async function FilmesPage() {
-  const [catalog, releases] = await Promise.all([
-    catalogService.getCatalog("movie"),
-    catalogService.getNewReleases(1),
-  ]);
+  const catalog = await catalogService.getCatalog("movie");
 
   return (
     <div>
-      <FilmesClient initialCatalog={catalog} initialReleases={releases} />
+      <FilmesClient initialCatalog={catalog} />
     </div>
   );
 }

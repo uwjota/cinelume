@@ -35,14 +35,14 @@ export default async function AssistirFilmePage({
   const recommendations = popular.filter((m) => m.id !== movie.id);
 
   return (
-    <div className="max-w-[1360px] mx-auto px-4 md:px-6 lg:px-8 pt-20 md:pt-24 flex flex-col gap-8 pb-16">
+    <div className="max-w-[1360px] mx-auto px-4 md:px-6 lg:px-8 pt-24 md:pt-28 flex flex-col gap-8 pb-16">
       {/* Navigation Breadcrumb */}
       <div className="flex items-center justify-between">
         <Link
           href={`/filme/${movie.id}`}
-          className="inline-flex items-center gap-2 text-xs sm:text-sm font-medium text-cine-text-secondary hover:text-white transition-colors p-1 -ml-1 rounded-lg"
+          className="inline-flex flex-wrap items-center gap-2 text-xs sm:text-sm font-medium text-cine-text-secondary hover:text-white transition-colors p-1 -ml-1 rounded-lg"
         >
-          <ArrowLeft className="w-4 h-4" />
+          <ArrowLeft className="w-4 h-4 shrink-0" />
           Voltar para detalhes de {movie.title}
         </Link>
       </div>
@@ -58,8 +58,8 @@ export default async function AssistirFilmePage({
 
       {/* Movie Info Card */}
       <div className="flex flex-col sm:flex-row items-start justify-between gap-4 p-5 bg-cine-surface border border-cine-border rounded-2xl">
-        <div className="flex flex-col gap-2 max-w-2xl">
-          <div className="flex items-center gap-2 text-xs">
+        <div className="flex min-w-0 flex-col gap-2 max-w-2xl">
+          <div className="flex flex-wrap items-center gap-2 text-xs">
             <span className="flex items-center gap-1 text-cine-brand font-semibold uppercase tracking-wider">
               <Film className="w-3.5 h-3.5" />
               Filme
@@ -94,7 +94,7 @@ export default async function AssistirFilmePage({
       {/* Recommended Movies */}
       {recommendations.length > 0 && (
         <div className="pt-4">
-          <MediaRow title="Mais Filmes Recomendados" items={recommendations} />
+          <MediaRow title="Você também pode gostar" items={recommendations} />
         </div>
       )}
     </div>

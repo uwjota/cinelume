@@ -10,7 +10,8 @@ export function GenreChip({ label, active = false, onClick }: GenreChipProps) {
   return (
     <Component
       onClick={onClick}
-      className={`inline-flex min-h-10 items-center border-b-2 px-1.5 py-2 text-xs font-semibold uppercase tracking-[0.08em] transition-colors whitespace-nowrap focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cine-brand sm:text-sm ${
+      aria-pressed={onClick ? active : undefined}
+      className={`inline-flex shrink-0 min-h-11 items-center border-b-2 px-1.5 py-2 text-sm font-medium transition-colors whitespace-nowrap focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cine-brand sm:text-sm ${
         active
           ? "border-cine-brand text-white"
           : "border-transparent text-cine-text-muted hover:border-cine-border hover:text-cine-text-secondary"

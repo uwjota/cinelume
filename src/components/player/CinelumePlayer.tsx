@@ -168,7 +168,7 @@ export function CinelumePlayer({
   };
 
   return (
-    <div className="flex flex-col gap-3 w-full">
+    <div className="flex min-w-0 flex-col gap-3 w-full">
       <div className="relative left-1/2 h-[min(52svh,24rem)] min-h-[20rem] w-screen -translate-x-1/2 overflow-hidden border-y border-cine-border bg-black sm:left-auto sm:aspect-video sm:h-auto sm:min-h-0 sm:w-full sm:translate-x-0 sm:border">
         {activeProviderId && progressReady ? (
           <PlayerIframe
@@ -180,14 +180,14 @@ export function CinelumePlayer({
           />
         ) : (
           <div className="flex h-full items-center justify-center text-sm text-cine-text-muted">
-            Preparando player...
+            Carregando vídeo...
           </div>
         )}
       </div>
 
       {savedProgress > 0 && (
         <p className="px-1 text-xs text-cine-text-muted" aria-live="polite">
-          Ponto registrado: {Math.floor(savedProgress / 60)}:
+          Tempo salvo: {Math.floor(savedProgress / 60)}:
           {String(savedProgress % 60).padStart(2, "0")}
           {season && episode ? ` • T${season} E${episode}` : ""}
         </p>
@@ -204,14 +204,15 @@ export function CinelumePlayer({
 
       {/* Episode Navigation (Only for episodic content) */}
       {(prevEpisodeUrl || nextEpisodeUrl) && (
-        <div className="flex items-center justify-between pt-1">
+        <div className="flex flex-wrap items-center justify-between gap-2 pt-1">
           {prevEpisodeUrl ? (
             <Link
               href={prevEpisodeUrl}
-              className="inline-flex items-center gap-1.5 px-4 py-2 bg-cine-surface hover:bg-cine-surface-elevated border border-cine-border rounded-xl text-xs sm:text-sm font-medium text-white transition-colors"
+              aria-label="Episódio anterior"
+              className="inline-flex min-h-11 items-center gap-1.5 px-3 py-2 bg-cine-surface hover:bg-cine-surface-elevated border border-cine-border rounded-xl text-xs sm:text-sm font-medium text-white transition-colors"
             >
               <ChevronLeft className="w-4 h-4" />
-              Episódio Anterior
+              Anterior
             </Link>
           ) : (
             <div />
@@ -220,9 +221,10 @@ export function CinelumePlayer({
           {nextEpisodeUrl ? (
             <Link
               href={nextEpisodeUrl}
-              className="inline-flex items-center gap-1.5 px-5 py-2 bg-cine-brand hover:bg-cine-brand-hover text-white rounded-xl text-xs sm:text-sm font-semibold transition-colors shadow-md shadow-cine-brand/20"
+              aria-label="Próximo episódio"
+              className="inline-flex min-h-11 items-center gap-1.5 px-3 py-2 bg-cine-brand hover:bg-cine-brand-hover text-white rounded-xl text-xs sm:text-sm font-semibold transition-colors shadow-md shadow-cine-brand/20"
             >
-              Próximo Episódio
+              Próximo
               <ChevronRight className="w-4 h-4" />
             </Link>
           ) : (

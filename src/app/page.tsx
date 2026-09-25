@@ -80,7 +80,7 @@ export default async function HomePage() {
 
         {/* Doramas Imperdíveis */}
         {doramas.length > 0 && (
-          <MediaRow title="Doramas imperdíveis" items={doramas} />
+          <MediaRow title="Doramas populares" items={doramas} />
         )}
       </div>
     </div>

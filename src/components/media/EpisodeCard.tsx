@@ -39,7 +39,7 @@ export function EpisodeCard({
             src={episode.thumbnail}
             alt={episode.title}
             fill
-            sizes="(max-width: 640px) 100vw, 210px"
+            sizes="(max-width: 640px) 104px, 152px"
             className="object-cover transition-transform duration-200 group-hover:scale-105"
             onError={() => setImgError(true)}
           />
@@ -68,7 +68,7 @@ export function EpisodeCard({
 
       {/* Info */}
       <div className="flex min-w-0 flex-col">
-        <div className="flex items-start justify-between gap-2">
+        <div className="flex flex-col gap-1 sm:flex-row sm:items-start sm:justify-between sm:gap-2">
           <h3 className="line-clamp-2 text-sm font-semibold text-white transition-colors group-hover:text-cine-brand sm:text-base">
             <span className="mr-2 text-xs font-bold tracking-[0.12em] text-cine-text-muted">{episodeLabel}</span>
             {episode.title}

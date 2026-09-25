@@ -65,7 +65,7 @@ export function MediaRow({ title, items, loading = false, showType = false }: Me
         {canScrollLeft && (
           <button
             onClick={() => scroll("left")}
-            className="hidden md:flex absolute -left-1 top-0 bottom-8 z-10 w-12 items-center justify-center bg-gradient-to-r from-cine-bg/90 to-transparent opacity-0 group-hover/row:opacity-100 focus-visible:opacity-100 transition-opacity focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cine-brand"
+            className="hidden md:flex absolute left-0 top-0 bottom-8 z-10 w-12 items-center justify-center bg-gradient-to-r from-cine-bg/90 to-transparent opacity-0 group-hover/row:opacity-100 focus-visible:opacity-100 transition-opacity focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cine-brand"
             aria-label="Rolar para a esquerda"
           >
             <ChevronLeft className="w-6 h-6 text-white" />
@@ -106,7 +106,7 @@ export function MediaRow({ title, items, loading = false, showType = false }: Me
         {canScrollRight && (
           <button
             onClick={() => scroll("right")}
-            className="hidden md:flex absolute -right-1 top-0 bottom-8 z-10 w-12 items-center justify-center bg-gradient-to-l from-cine-bg/90 to-transparent opacity-0 group-hover/row:opacity-100 focus-visible:opacity-100 transition-opacity focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cine-brand"
+            className="hidden md:flex absolute right-0 top-0 bottom-8 z-10 w-12 items-center justify-center bg-gradient-to-l from-cine-bg/90 to-transparent opacity-0 group-hover/row:opacity-100 focus-visible:opacity-100 transition-opacity focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cine-brand"
             aria-label="Rolar para a direita"
           >
             <ChevronRight className="w-6 h-6 text-white" />

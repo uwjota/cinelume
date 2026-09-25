@@ -30,14 +30,14 @@ export default function MinhaListaPage() {
   };
 
   return (
-    <div className="max-w-[1440px] mx-auto px-4 md:px-6 lg:px-8 pt-20 md:pt-24 flex flex-col gap-6 pb-16">
+    <div className="max-w-[1440px] mx-auto px-4 md:px-6 lg:px-8 pt-24 md:pt-28 flex flex-col gap-6 pb-16">
       <div className="flex flex-wrap items-end justify-between gap-4">
         <div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-tight">
             Minha Lista
           </h1>
           <p className="text-sm sm:text-base text-cine-text-secondary mt-1">
-            Seus títulos favoritos ficam salvos somente neste dispositivo.
+            Os filmes e séries que você salvou neste dispositivo.
           </p>
         </div>
         {favorites.length > 0 && (
@@ -104,7 +104,7 @@ export default function MinhaListaPage() {
             message={
               favorites.length > 0
                 ? "Nenhum título corresponde a este filtro."
-                : "Você ainda não adicionou nenhum título. Use o botão Minha Lista nos detalhes de uma obra."
+                : "Sua lista está vazia. Abra um filme ou série e toque em Minha Lista para salvar."
             }
           />
         </div>

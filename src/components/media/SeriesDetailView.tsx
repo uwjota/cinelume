@@ -37,7 +37,7 @@ export function SeriesDetailView({
   return (
     <div className="flex flex-col gap-10 pb-16">
       {/* Backdrop Hero Header */}
-      <div className="relative h-[min(68svh,36rem)] min-h-[28rem] w-full overflow-hidden sm:h-[min(62svh,38rem)] lg:h-[min(68vh,42rem)]">
+      <div className="relative flex min-h-[max(28rem,min(68svh,36rem))] w-full items-end overflow-hidden sm:min-h-[min(62svh,38rem)] lg:min-h-[min(68vh,42rem)]">
         {(media.backdrop || media.poster) && (
           <Image
             src={media.backdrop || media.poster!}
@@ -51,7 +51,7 @@ export function SeriesDetailView({
         <div className="absolute inset-0 bg-gradient-to-r from-cine-bg/95 via-cine-bg/40 to-transparent" />
 
         {/* Back Link */}
-        <div className="absolute top-20 left-4 md:left-8 z-20">
+        <div className="absolute left-4 top-28 z-20 md:left-8">
           <Link
             href={backUrl}
             className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-black/60 hover:bg-black/85 text-white/80 hover:text-white backdrop-blur-md text-xs sm:text-sm font-medium transition-colors border border-white/10"
@@ -62,7 +62,7 @@ export function SeriesDetailView({
         </div>
 
         {/* Content */}
-        <div className="absolute inset-0 flex items-end">
+        <div className="relative w-full pt-40">
           <div className="max-w-[1440px] mx-auto px-4 md:px-6 lg:px-8 pb-10 sm:pb-14 w-full">
             <div className="flex flex-col sm:flex-row gap-6 items-start sm:items-end">
               {/* Poster Thumbnail */}
@@ -78,7 +78,7 @@ export function SeriesDetailView({
               )}
 
               {/* Text info */}
-              <div className="flex flex-col gap-2.5 max-w-2xl">
+              <div className="flex min-w-0 flex-col gap-2.5 max-w-2xl">
                 <div className="flex flex-wrap items-center gap-2 text-xs sm:text-sm">
                   {media.year && (
                     <span className="text-cine-text-secondary font-medium">
@@ -100,7 +100,7 @@ export function SeriesDetailView({
                   )}
                 </div>
 
-                <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-tight">
+                <h1 className="break-words text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-tight">
                   {media.title}
                 </h1>
 
@@ -145,7 +145,7 @@ export function SeriesDetailView({
             <div className="flex items-center gap-2">
               <Users className="w-5 h-5 text-cine-brand" />
               <h2 className="text-base sm:text-lg font-bold text-white">
-                Elenco Principal
+                Elenco
               </h2>
             </div>
             <div className="flex gap-3 overflow-x-auto scrollbar-hide py-1">
@@ -215,7 +215,7 @@ export function SeriesDetailView({
                   ))
                 : (
                   <div className="p-8 text-center bg-cine-surface border border-cine-border rounded-xl text-cine-text-secondary text-sm">
-                    Nenhum episódio cadastrado para esta temporada.
+                    Os episódios desta temporada não estão disponíveis no momento.
                   </div>
                 )}
           </div>
@@ -224,7 +224,7 @@ export function SeriesDetailView({
         {/* Recommendations */}
         {recommendations.length > 0 && (
           <div className="pt-4">
-            <MediaRow title="Títulos Relacionados" items={recommendations} />
+            <MediaRow title="Você também pode gostar" items={recommendations} />
           </div>
         )}
       </div>

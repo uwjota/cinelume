@@ -120,6 +120,13 @@ npm run start -- -p 3010
 | `/esportes` | Eventos esportivos. |
 | `/minha-lista` | Títulos favoritos. |
 | `/configuracoes` | Servidor padrão, histórico e dados locais. |
+| `/instalar` | Instruções para adicionar o site no iPhone e baixar o APK Android. |
+
+### Download do aplicativo
+
+A página `/instalar` usa a identidade visual do site e pode ser acessada pelo cabeçalho no desktop, pelo menu **Mais** no celular e pelas configurações. O guia do iPhone usa a instalação pelo Safari na tela inicial.
+
+O botão Android baixa `public/downloads/Cinelume.apk`, servido como anexo em `/downloads/Cinelume.apk`. A cópia atual veio de `../cinelumeapp/dist/Cinelume.apk`: versão **1.0.2-debug**, para Android **8.0+**, identificada na página como versão de teste. Ao disponibilizar uma nova versão, substitua esse arquivo e atualize a versão exibida em `src/app/instalar/page.tsx`. Para distribuição de produção, use um APK release assinado conforme o README do projeto Android.
 
 ## APIs internas
 
@@ -199,3 +206,8 @@ O Cinelume não hospeda arquivos de vídeo. Metadados, imagens e reprodução de
 ## Licença
 
 Nenhuma licença de código aberto foi definida neste repositório. Todos os direitos permanecem com o autor do projeto.
+
+
+### Checkout de apoio no Android
+
+A faixa de apoio navega para `https://pay.cakto.com.br/3632nfj_1100827` na mesma aba (`target="_self"`). A partir do APK **1.0.2**, o Android intercepta esse toque e abre o checkout no navegador externo, preservando o site dentro do app. Publique o site atualizado e distribua o novo APK para habilitar o fluxo; versões anteriores do app bloqueiam o link.

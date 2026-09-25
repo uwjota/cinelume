@@ -49,7 +49,7 @@ export default async function ChannelPage({ params }: { params: Promise<{ id: st
     .slice(0, 4);
 
   return (
-    <div className="mx-auto flex max-w-[1360px] flex-col gap-8 px-4 pb-16 pt-20 md:px-6 md:pt-24 lg:px-8">
+    <div className="mx-auto flex max-w-[1360px] flex-col gap-8 px-4 pb-16 pt-24 md:px-6 md:pt-28 lg:px-8">
       <Link href="/tv" className="inline-flex w-fit items-center gap-2 text-sm font-medium text-cine-text-secondary transition-colors hover:text-white">
         <ArrowLeft className="h-4 w-4" /> Voltar para TV ao Vivo
       </Link>

@@ -55,7 +55,7 @@ export default async function FilmeDetailPage({
   return (
     <div className="flex flex-col gap-8 pb-16">
       {/* Hero Backdrop */}
-      <div className="relative h-[36rem] w-full overflow-hidden sm:h-[40rem] lg:h-[min(72vh,44rem)] lg:min-h-[38rem]">
+      <div className="relative flex min-h-[32rem] w-full items-end overflow-hidden sm:min-h-[36rem] lg:min-h-[38rem]">
         {(movie.backdrop || movie.poster) && (
           <Image
             src={movie.backdrop || movie.poster!}
@@ -69,7 +69,7 @@ export default async function FilmeDetailPage({
         <div className="absolute inset-0 bg-gradient-to-t from-cine-bg via-cine-bg/40 to-transparent" />
         <div className="absolute inset-0 bg-gradient-to-r from-cine-bg/95 via-cine-bg/40 to-transparent" />
 
-        <div className="absolute top-20 left-4 md:left-8 z-20">
+        <div className="absolute left-4 top-28 z-20 md:left-8">
           <Link
             href="/filmes"
             className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-black/60 hover:bg-black/85 text-white/80 hover:text-white backdrop-blur-md text-xs sm:text-sm font-medium transition-colors border border-white/10"
@@ -79,7 +79,7 @@ export default async function FilmeDetailPage({
           </Link>
         </div>
 
-        <div className="absolute inset-0 flex items-end">
+        <div className="relative w-full pt-40">
           <div className="max-w-[1440px] mx-auto px-4 md:px-6 lg:px-8 pb-8 sm:pb-12 w-full">
             <div className="flex flex-col sm:flex-row gap-6 items-start sm:items-end">
               {movie.poster && (
@@ -93,7 +93,7 @@ export default async function FilmeDetailPage({
                 </div>
               )}
 
-              <div className="flex flex-col gap-2.5 max-w-2xl">
+              <div className="flex min-w-0 flex-col gap-2.5 max-w-2xl">
                 <div className="flex flex-wrap items-center gap-2 text-xs sm:text-sm">
                   {movie.year && (
                     <span className="text-cine-text-secondary font-medium">
@@ -121,7 +121,7 @@ export default async function FilmeDetailPage({
                   )}
                 </div>
 
-                <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white">
+                <h1 className="break-words text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white">
                   {movie.title}
                 </h1>
 
@@ -137,7 +137,7 @@ export default async function FilmeDetailPage({
                     className="inline-flex items-center gap-2 px-6 py-2.5 bg-cine-brand hover:bg-cine-brand-hover text-white font-semibold text-sm rounded-lg transition-colors shadow-lg shadow-cine-brand/25"
                   >
                     <Play className="w-4 h-4 fill-current" />
-                    Assistir Filme
+                    Assistir
                   </Link>
                   <FavoriteButton media={movie} />
                   {movie.trailer && (
@@ -164,7 +164,7 @@ export default async function FilmeDetailPage({
             <div className="flex items-center gap-2">
               <Users className="w-5 h-5 text-cine-brand" />
               <h2 className="text-base sm:text-lg font-bold text-white">
-                Elenco Principal
+                Elenco
               </h2>
             </div>
             <div className="flex gap-3 overflow-x-auto scrollbar-hide py-1">
@@ -212,7 +212,7 @@ export default async function FilmeDetailPage({
 
         {/* Recommendations */}
         {recommendations.length > 0 && (
-          <MediaRow title="Mais Filmes Recomendados" items={recommendations} />
+          <MediaRow title="Você também pode gostar" items={recommendations} />
         )}
       </div>
     </div>

@@ -42,20 +42,20 @@ export function LivePlayer({ title, sources }: LivePlayerProps) {
 
   if (!activeSource) {
     return (
-      <div className="flex aspect-video w-full flex-col items-center justify-center rounded-2xl border border-cine-border bg-black p-6 text-center">
+      <div className="flex min-h-52 w-full flex-col items-center justify-center rounded-2xl border border-cine-border bg-black p-6 text-center">
         <AlertTriangle className="mb-3 h-10 w-10 text-cine-brand" />
         <h2 className="font-bold text-white">Transmissão indisponível</h2>
         <p className="mt-1 max-w-md text-sm text-cine-text-secondary">
-          Nenhuma fonte autorizada está disponível para este conteúdo no momento.
+          Não foi possível abrir esta transmissão. Tente novamente mais tarde.
         </p>
       </div>
     );
   }
 
   return (
-    <div className="flex w-full flex-col gap-3">
+    <div className="flex min-w-0 w-full flex-col gap-3">
       <div className="flex flex-wrap items-center justify-between gap-3">
-        <p className="truncate text-sm font-semibold text-white">{title}</p>
+        <p className="min-w-0 max-w-full break-words text-sm font-semibold text-white">{title}</p>
         <ServerSelector
           servers={allowedSources.map((source, index) => ({
             id: source.id,

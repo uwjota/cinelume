@@ -39,7 +39,7 @@ export default async function EventPage({ params }: { params: Promise<{ id: stri
   const playable = event.status !== "finished" && event.streams.length > 0;
 
   return (
-    <div className="mx-auto flex max-w-[1360px] flex-col gap-8 px-4 pb-16 pt-20 md:px-6 md:pt-24 lg:px-8">
+    <div className="mx-auto flex max-w-[1360px] flex-col gap-8 px-4 pb-16 pt-24 md:px-6 md:pt-28 lg:px-8">
       <Link href="/esportes" className="inline-flex w-fit items-center gap-2 text-sm font-medium text-cine-text-secondary transition-colors hover:text-white">
         <ArrowLeft className="h-4 w-4" /> Voltar para Esportes
       </Link>
@@ -57,7 +57,7 @@ export default async function EventPage({ params }: { params: Promise<{ id: stri
         <div className="rounded-2xl border border-cine-border bg-cine-surface">
           <EmptyState
             icon={<Trophy className="mb-4 h-12 w-12 text-cine-brand" />}
-            message={event.status === "finished" ? "Este evento já foi encerrado." : "A transmissão ainda não foi disponibilizada pelo provider."}
+            message={event.status === "finished" ? "Este evento já foi encerrado." : "A transmissão ainda não está disponível."}
           />
         </div>
       )}

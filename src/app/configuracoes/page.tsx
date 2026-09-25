@@ -1,10 +1,12 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import {
   Clock3,
   History,
-  PlayCircle,
+  ArrowRight,
+  Smartphone,
   Server,
   Trash2,
   X,
@@ -20,8 +22,6 @@ import { playerRegistry } from "@/services/players/player.service";
 export default function ConfiguracoesPage() {
   const [feedback, setFeedback] = useState("");
   const {
-    autoplayNext,
-    setAutoplayNext,
     defaultPlayerServer,
     setDefaultPlayerServer,
     clearAllData,
@@ -46,14 +46,30 @@ export default function ConfiguracoesPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 md:px-6 lg:px-8 pt-24 md:pt-28 flex flex-col gap-10 pb-20">
       <div>
-        <span className="text-xs font-bold uppercase tracking-[0.18em] text-cine-brand">Preferências</span>
+
         <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-tight">
           Configurações
         </h1>
         <p className="text-sm sm:text-base text-cine-text-secondary mt-1">
-          Personalize sua experiência no Cinelume neste dispositivo.
+          Escolha o servidor de vídeo e gerencie seus dados.
         </p>
       </div>
+
+      <a
+        href="https://pay.cakto.com.br/3632nfj_1100827"
+        target="_self"
+        className="mx-auto block w-full max-w-lg overflow-hidden rounded-xl border border-cine-brand/30 transition-opacity hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cine-brand focus-visible:ring-offset-4 focus-visible:ring-offset-cine-bg"
+      >
+        <Image
+          src="/branding/support-banner.png"
+          alt="Seja apoiador da Cinelume. Sua ajuda faz a gente manter o app ativo. Apoiar agora."
+          width={2172}
+          height={724}
+          sizes="(max-width: 544px) calc(100vw - 32px), 512px"
+          className="h-auto w-full"
+          priority
+        />
+      </a>
 
       {feedback && (
         <div
@@ -73,42 +89,23 @@ export default function ConfiguracoesPage() {
       )}
 
       <div className="flex flex-col gap-8">
+        <Link
+          href="/instalar"
+          className="group flex items-center gap-4 rounded-2xl border border-cine-brand/25 bg-cine-brand/5 p-5 transition-colors hover:bg-cine-brand/10 sm:p-6"
+        >
+          <Smartphone className="h-6 w-6 shrink-0 text-cine-brand" aria-hidden="true" />
+          <div className="min-w-0 flex-1">
+            <h2 className="text-base font-semibold text-white">Cinelume no seu celular</h2>
+            <p className="mt-1 text-sm text-cine-text-secondary">Veja como instalar no iPhone ou baixar o APK para Android.</p>
+          </div>
+          <ArrowRight className="h-5 w-5 shrink-0 text-cine-text-secondary group-hover:text-white" aria-hidden="true" />
+        </Link>
+
         <section className="rounded-2xl border border-cine-border bg-cine-surface p-5 sm:p-6">
           <div className="mb-5 border-b border-cine-border pb-4">
             <h2 className="text-sm font-bold uppercase tracking-[0.14em] text-cine-text-secondary">Reprodução</h2>
           </div>
-          <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
-          <div className="flex items-center gap-3">
-            <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border border-cine-brand/20 bg-cine-brand/10">
-              <PlayCircle className="w-5 h-5 text-cine-brand" />
-            </span>
-            <div>
-              <h2 className="text-base font-semibold text-white">Autoplay do próximo episódio</h2>
-              <p className="text-xs sm:text-sm text-cine-text-secondary">
-                Mantém sua preferência pronta para players que informem o término do episódio.
-              </p>
-            </div>
-          </div>
-          <button
-            type="button"
-            role="switch"
-            aria-checked={autoplayNext}
-            onClick={() => setAutoplayNext(!autoplayNext)}
-            className={`relative h-7 w-12 shrink-0 rounded-full transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cine-brand ${
-              autoplayNext ? "bg-cine-brand" : "bg-cine-surface-elevated"
-            }`}
-          >
-            <span
-              className={`absolute top-1 h-5 w-5 rounded-full bg-white transition-transform ${
-                autoplayNext ? "translate-x-6" : "translate-x-1"
-              }`}
-            />
-            <span className="sr-only">
-              {autoplayNext ? "Desativar autoplay" : "Ativar autoplay"}
-            </span>
-          </button>
-          </div>
-          <div className="flex flex-col gap-3 border-t border-cine-border pt-5 sm:flex-row sm:items-center sm:justify-between">
+          <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
             <div className="flex items-center gap-3">
               <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border border-cine-brand/20 bg-cine-brand/10">
                 <Server className="h-5 w-5 text-cine-brand" />
@@ -127,7 +124,7 @@ export default function ConfiguracoesPage() {
               id="default-player-server"
               value={defaultPlayerServer}
               onChange={(event) => setDefaultPlayerServer(event.target.value)}
-              className="min-h-11 rounded-lg border border-cine-border bg-cine-surface-elevated px-3 text-sm font-medium text-white outline-none transition-colors focus:border-cine-brand focus:ring-1 focus:ring-cine-brand"
+              className="min-h-11 max-w-full rounded-lg border border-cine-border bg-cine-surface-elevated px-3 text-base font-medium text-white outline-none transition-colors focus:border-cine-brand focus:ring-1 focus:ring-cine-brand"
             >
               {playerServers.map((server) => (
                 <option key={server.id} value={server.id}>
@@ -145,11 +142,11 @@ export default function ConfiguracoesPage() {
             </span>
             <div>
               <h2 className="text-base font-semibold text-white">Dados neste dispositivo</h2>
-              <p className="mt-0.5 text-xs text-cine-text-muted">Você controla o que permanece salvo.</p>
+
             </div>
           </div>
           <p className="text-sm text-cine-text-secondary">
-            Favoritos, histórico, progresso, pesquisas e preferências ficam somente no IndexedDB deste navegador.
+            Sua lista, histórico e preferências ficam salvos neste navegador. Você pode apagá-los abaixo.
           </p>
           <div className="grid grid-cols-1 gap-2 pt-1 sm:grid-cols-2">
             <button
@@ -213,7 +210,7 @@ export default function ConfiguracoesPage() {
               <History className="h-5 w-5 text-cine-brand" />
               <div>
                 <h2 className="text-base font-semibold text-white">Histórico recente</h2>
-                <p className="text-xs text-cine-text-muted">As últimas sessões iniciadas neste dispositivo.</p>
+                <p className="text-xs text-cine-text-muted">O que você assistiu por aqui.</p>
               </div>
             </div>
             <div className="divide-y divide-cine-border">

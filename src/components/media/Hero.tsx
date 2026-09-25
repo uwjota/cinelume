@@ -73,7 +73,7 @@ export function Hero({ items }: HeroProps) {
   return (
     <section className="relative w-full" aria-label="Destaques">
       {/* Aspect ratio container */}
-      <div className="relative h-[min(68svh,34rem)] min-h-[25rem] w-full overflow-hidden sm:h-[min(62svh,35rem)] sm:min-h-[28rem] lg:h-[min(68vh,40rem)] lg:min-h-[30rem]">
+      <div className="relative flex min-h-[max(25rem,min(68svh,34rem))] w-full items-end overflow-hidden sm:min-h-[max(28rem,min(62svh,35rem))] lg:min-h-[max(30rem,min(68vh,40rem))]">
         {/* Backdrop Images */}
         {items.map((item, index) => (
           <div
@@ -101,11 +101,11 @@ export function Hero({ items }: HeroProps) {
         <div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-cine-bg to-transparent" />
 
         {/* Content */}
-        <div className="absolute inset-0 flex items-end">
+        <div className="relative w-full pt-28">
           <div className="w-full max-w-[1440px] mx-auto px-4 md:px-6 lg:px-8 pb-16 sm:pb-16 lg:pb-20">
-            <div className="max-w-xl lg:max-w-2xl">
+            <div className="min-w-0 max-w-xl lg:max-w-2xl">
               {/* Metadata */}
-              <div className="flex items-center gap-2.5 mb-3 text-xs sm:text-sm">
+              <div className="flex flex-wrap items-center gap-2.5 mb-3 text-xs sm:text-sm">
                 {currentItem.year && (
                   <span className="text-cine-text-secondary font-medium">
                     {currentItem.year}
@@ -127,17 +127,17 @@ export function Hero({ items }: HeroProps) {
               </div>
 
               {/* Title */}
-              <h1 className="max-w-[18ch] text-3xl font-extrabold leading-[1.05] tracking-tight text-white sm:text-4xl md:text-5xl lg:text-6xl">
+              <h1 className="max-w-[18ch] break-words text-3xl font-extrabold leading-[1.05] tracking-tight text-white sm:text-4xl md:text-5xl lg:text-6xl">
                 {currentItem.title}
               </h1>
 
               {/* Overview (hidden on small mobile) */}
-              <p className="mt-3 hidden text-sm leading-relaxed text-cine-text-secondary sm:block md:text-base lg:mb-6 lg:line-clamp-3">
+              <p className="mt-3 hidden text-sm leading-relaxed text-cine-text-secondary sm:line-clamp-3 md:text-base lg:mb-6">
                 {currentItem.overview}
               </p>
 
               {/* CTA Buttons */}
-              <div className="mt-4 flex items-center gap-3">
+              <div className="mt-4 flex flex-wrap items-center gap-3">
                 <Link
                   href={getMediaDetailUrl(currentItem)}
                   className="inline-flex items-center gap-2 px-5 py-2.5 sm:px-7 sm:py-3 bg-cine-brand hover:bg-cine-brand-hover text-white font-semibold text-sm sm:text-base rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cine-brand focus-visible:ring-offset-2 focus-visible:ring-offset-cine-bg shadow-lg shadow-cine-brand/25"

@@ -4,7 +4,8 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Search, Heart, Settings } from "lucide-react";
+import { Search, Heart, Settings, Smartphone } from "lucide-react";
+import { SupportBanner } from "@/components/layout/SupportBanner";
 
 const NAV_LINKS = [
   { label: "Início", href: "/" },
@@ -39,6 +40,7 @@ export function AppHeader() {
           : "bg-gradient-to-b from-black/80 via-black/40 to-transparent"
       }`}
     >
+      <SupportBanner />
       <div className="max-w-[1440px] mx-auto px-4 md:px-6 lg:px-8">
         {/* Desktop Header */}
         <nav
@@ -76,6 +78,15 @@ export function AppHeader() {
           </div>
 
           <div className="flex items-center gap-2">
+            <Link
+              href="/instalar"
+              aria-current={isActive("/instalar") ? "page" : undefined}
+              className="flex items-center gap-2 rounded-lg border border-cine-brand/30 bg-cine-brand/10 px-3 py-2 text-sm font-semibold text-white transition-colors hover:bg-cine-brand/20"
+            >
+              <Smartphone className="h-4 w-4" aria-hidden="true" />
+              Instalar app
+            </Link>
+
             <Link
               href="/buscar"
               className="p-2.5 text-cine-text-secondary hover:text-white transition-colors rounded-lg hover:bg-white/5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cine-brand"

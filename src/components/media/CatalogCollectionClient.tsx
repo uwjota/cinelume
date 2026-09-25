@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { Loader2, Play, SlidersHorizontal, Star } from "lucide-react";
+import { Loader2, Play, Star } from "lucide-react";
 import { useMemo, useState } from "react";
 import { useInfiniteQuery } from "@tanstack/react-query";
 import { EmptyState } from "@/components/feedback/EmptyState";
@@ -12,13 +12,10 @@ import {
   ANIME_GENRES,
   DORAMA_GENRES,
   type CatalogMediaType,
-  type CatalogSort,
 } from "@/config/catalog-filters";
 import type { MediaCatalogPage } from "@/providers/metadata/tmdb.provider";
 import { FavoriteButton } from "./FavoriteButton";
 import { MediaGrid } from "./MediaGrid";
-
-type SortOption = CatalogSort;
 
 interface CatalogCollectionClientProps {
   title: string;
@@ -30,13 +27,12 @@ interface CatalogCollectionClientProps {
 async function fetchCatalogPage(
   mediaType: Extract<CatalogMediaType, "anime" | "dorama">,
   genre: string,
-  sort: CatalogSort,
   page: number
 ): Promise<MediaCatalogPage> {
   const params = new URLSearchParams({
     type: mediaType,
     genre,
-    sort,
+    sort: "popularity",
     page: String(page),
   });
   const response = await fetch(`/api/catalog?${params}`);
@@ -51,15 +47,14 @@ export function CatalogCollectionClient({
   initialCatalog,
 }: CatalogCollectionClientProps) {
   const [genre, setGenre] = useState("all");
-  const [sortBy, setSortBy] = useState<SortOption>("popularity");
   const genres = mediaType === "anime" ? ANIME_GENRES : DORAMA_GENRES;
   const catalogQuery = useInfiniteQuery({
-    queryKey: ["catalog", mediaType, genre, sortBy],
+    queryKey: ["catalog", mediaType, genre, "popularity"],
     queryFn: ({ pageParam }) =>
-      fetchCatalogPage(mediaType, genre, sortBy, pageParam),
+      fetchCatalogPage(mediaType, genre, pageParam),
     initialPageParam: 1,
     initialData:
-      genre === "all" && sortBy === "popularity"
+      genre === "all"
         ? { pages: [initialCatalog], pageParams: [1] }
         : undefined,
     getNextPageParam: (lastPage) =>
@@ -80,18 +75,18 @@ export function CatalogCollectionClient({
     catalogQuery.data?.pages[0]?.totalResults ?? initialCatalog.totalResults;
 
   return (
-    <div className="flex flex-col gap-10 pb-16">
+    <div className={`flex flex-col gap-10 pb-16 ${featured ? "" : "pt-24 md:pt-28"}`}>
       {featured && (
-        <section className="relative h-[min(66svh,34rem)] min-h-[26rem] overflow-hidden sm:h-[min(60svh,36rem)] lg:h-[min(66vh,40rem)]">
+        <section className="relative flex min-h-[max(26rem,min(66svh,34rem))] items-end overflow-hidden sm:min-h-[min(60svh,36rem)] lg:min-h-[min(66vh,40rem)]">
           {(featured.backdrop || featured.poster) && (
           <Image src={featured.backdrop || featured.poster!} alt="" fill priority sizes="100vw" className="object-cover object-[62%_top] sm:object-top" />
           )}
           <div className="absolute inset-0 bg-gradient-to-r from-cine-bg via-cine-bg/70 to-cine-bg/10" />
           <div className="absolute inset-0 bg-gradient-to-t from-cine-bg via-transparent to-transparent" />
-          <div className="absolute inset-0 mx-auto flex max-w-[1440px] items-end px-4 pb-10 md:px-6 lg:px-8 lg:pb-14">
-            <div className="max-w-2xl">
+          <div className="relative mx-auto flex w-full max-w-[1440px] items-end px-4 pt-28 pb-10 md:px-6 lg:px-8 lg:pb-14">
+            <div className="min-w-0 max-w-2xl">
               <span className="text-xs font-bold uppercase tracking-[0.18em] text-cine-brand">Destaque em {title}</span>
-              <h1 className="mt-2 text-3xl font-extrabold text-white sm:text-4xl lg:text-5xl">{featured.title}</h1>
+              <h1 className="mt-2 break-words text-3xl font-extrabold text-white sm:text-4xl lg:text-5xl">{featured.title}</h1>
               <div className="mt-3 flex flex-wrap items-center gap-2 text-sm text-cine-text-secondary">
                 {featured.year && <span>{featured.year}</span>}
                 {featured.rating && <span className="inline-flex items-center gap-1 text-white"><Star className="h-3.5 w-3.5 fill-yellow-400 text-yellow-400" />{formatRating(featured.rating)}</span>}
@@ -118,7 +113,7 @@ export function CatalogCollectionClient({
           </p>
         </div>
 
-        <div className="flex flex-col justify-between gap-4 lg:flex-row lg:items-center">
+        <div className="min-w-0">
           <div className="flex gap-2 overflow-x-auto py-1 scrollbar-hide">
             {genres.map((item) => (
               <GenreChip
@@ -129,16 +124,6 @@ export function CatalogCollectionClient({
               />
             ))}
           </div>
-          <label className="flex min-h-11 w-fit items-center gap-2 rounded-lg border border-cine-border bg-cine-surface px-3 text-sm text-cine-text-secondary">
-            <SlidersHorizontal className="h-4 w-4" />
-            <span className="sr-only">Ordenar catálogo</span>
-            <select value={sortBy} onChange={(event) => setSortBy(event.target.value as SortOption)} className="bg-transparent py-2 text-sm text-white outline-none">
-              <option value="popularity">Mais populares</option>
-              <option value="rating">Melhor avaliados</option>
-              <option value="year">Mais recentes</option>
-              <option value="title">Ordem alfabética</option>
-            </select>
-          </label>
         </div>
 
         {items.length > 0 ? (

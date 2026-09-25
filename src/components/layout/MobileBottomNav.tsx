@@ -23,6 +23,7 @@ const MORE_ITEMS = [
   { label: "Doramas", href: "/doramas" },
   { label: "TV ao Vivo", href: "/tv" },
   { label: "Esportes", href: "/esportes" },
+  { label: "Instalar aplicativo", href: "/instalar" },
   { label: "Configurações", href: "/configuracoes" },
 ];
 
@@ -82,7 +83,7 @@ export function MobileBottomNav() {
           ref={moreRef}
           id="mobile-more-menu"
           role="menu"
-          className="absolute bottom-full right-2 mb-2 w-52 bg-cine-surface-elevated border border-cine-border rounded-xl shadow-2xl shadow-black/50 overflow-hidden animate-in slide-in-from-bottom-2 duration-200"
+          className="absolute bottom-full right-2 mb-2 w-52 max-h-[calc(100dvh-11rem-env(safe-area-inset-bottom,0px))] overflow-y-auto overscroll-contain bg-cine-surface-elevated border border-cine-border rounded-xl shadow-2xl shadow-black/50 animate-in slide-in-from-bottom-2 duration-200"
         >
           {MORE_ITEMS.map((item) => (
             <Link

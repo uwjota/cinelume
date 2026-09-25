@@ -46,15 +46,15 @@ const FEATURED_CHANNEL_IDS = [
   "ufcfightpass",
 ];
 const STATUS_FILTERS = [
-  { label: "Todos", value: undefined },
   { label: "Ao vivo", value: "live" },
+  { label: "Todos", value: undefined },
   { label: "Próximos", value: "upcoming" },
   { label: "Encerrados", value: "finished" },
 ] as const;
 
 export default function EsportesPage() {
-  const [sport, setSport] = useState("Futebol");
-  const [status, setStatus] = useState<string | undefined>();
+  const [sport, setSport] = useState("Todos");
+  const [status, setStatus] = useState<string | undefined>("live");
   const eventsQuery = useEvents(sport === "Todos" ? undefined : sport, status);
   const sportsChannelsQuery = useChannels("Esportes");
   const categoriesQuery = useEventCategories();
@@ -83,14 +83,11 @@ export default function EsportesPage() {
   const liveCount = events.filter((event) => event.status === "live").length;
 
   return (
-    <div className="mx-auto flex max-w-[1440px] flex-col gap-8 px-4 pb-16 pt-20 md:px-6 md:pt-24 lg:px-8">
+    <div className="mx-auto flex max-w-[1440px] flex-col gap-8 px-4 pb-16 pt-24 md:px-6 md:pt-28 lg:px-8">
       <div className="flex flex-wrap items-end justify-between gap-4">
         <div>
-          <div className="mb-2 flex items-center gap-2 text-xs font-bold uppercase tracking-[0.18em] text-cine-brand">
-            <Trophy className="h-4 w-4" /> Agenda esportiva
-          </div>
-          <h1 className="text-2xl font-extrabold tracking-tight text-white sm:text-3xl lg:text-4xl">Eventos Esportivos</h1>
-          <p className="mt-1 text-sm text-cine-text-secondary sm:text-base">Jogos, lutas e competições organizados por status e modalidade.</p>
+          <h1 className="text-2xl font-extrabold tracking-tight text-white sm:text-3xl lg:text-4xl">Esportes</h1>
+          <p className="mt-1 text-sm text-cine-text-secondary sm:text-base">Confira os jogos e as transmissões ao vivo.</p>
         </div>
         <button
           type="button"
@@ -105,7 +102,7 @@ export default function EsportesPage() {
       {liveCount > 0 && (
         <div className="flex items-center gap-3 rounded-xl border border-red-500/20 bg-red-500/10 px-4 py-3 text-sm text-white">
           <span className="flex h-8 w-8 items-center justify-center rounded-full bg-red-600"><Radio className="h-4 w-4" /></span>
-          <span><strong>{liveCount}</strong> evento(s) ao vivo nesta seleção.</span>
+          <span><strong>{liveCount}</strong> {liveCount === 1 ? "evento ao vivo" : "eventos ao vivo"}.</span>
         </div>
       )}
 
@@ -141,8 +138,12 @@ export default function EsportesPage() {
       ) : events.length > 0 ? (
         <section className="flex flex-col gap-4">
           <div>
-            <h2 className="text-xl font-bold text-white">{sport === "Todos" ? "Agenda completa" : sport}</h2>
-            <p className="text-sm text-cine-text-muted">Ao vivo primeiro, seguidos pelos próximos eventos.</p>
+            <h2 className="text-xl font-bold text-white">
+              {status === "live" ? "Ao vivo agora" : sport === "Todos" ? "Agenda completa" : sport}
+            </h2>
+            <p className="text-sm text-cine-text-muted">
+              {status === "live" ? "Transmissões disponíveis neste momento." : "Veja o que está ao vivo e o que vem a seguir."}
+            </p>
           </div>
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {events.map((event) => <EventCard key={event.id} event={event} />)}
@@ -152,7 +153,7 @@ export default function EsportesPage() {
         <div className="rounded-xl border border-cine-border bg-cine-surface">
           <EmptyState
             icon={<Trophy className="mb-4 h-12 w-12 text-cine-brand" />}
-            message={`O provider não possui eventos de ${sport === "Todos" ? "outras modalidades" : sport} nesta agenda. Confira os canais esportivos disponíveis abaixo.`}
+            message={`Nenhum evento ${sport === "Todos" ? "" : `de ${sport} `}encontrado. Você pode conferir os canais esportivos abaixo.`}
           />
         </div>
       )}

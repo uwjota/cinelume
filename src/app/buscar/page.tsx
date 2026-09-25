@@ -10,7 +10,6 @@ import {
   Tv,
   Trophy,
   Film,
-  Sparkles,
   Loader2,
 } from "lucide-react";
 import { useUnifiedSearch } from "@/hooks/useSearch";
@@ -89,7 +88,7 @@ export default function BuscarPage() {
     (showEvents ? eventItems.length : 0);
 
   return (
-    <div className="max-w-[1440px] mx-auto px-4 md:px-6 lg:px-8 pt-20 md:pt-24 flex flex-col gap-6 pb-16">
+    <div className="max-w-[1440px] mx-auto px-4 md:px-6 lg:px-8 pt-24 md:pt-28 flex flex-col gap-6 pb-16">
       <div>
         <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-tight">
           Buscar
@@ -106,9 +105,9 @@ export default function BuscarPage() {
           type="text"
           value={inputQuery}
           onChange={(e) => setInputQuery(e.target.value)}
-          placeholder="Digite o título, gênero, canal ou time..."
-          className="w-full bg-cine-surface border border-cine-border rounded-xl pl-12 pr-12 py-3.5 text-white placeholder-cine-text-muted focus:outline-none focus:border-cine-brand focus:ring-1 focus:ring-cine-brand text-sm sm:text-base transition-colors"
-          autoFocus
+          placeholder="Busque um título, canal ou time"
+          className="w-full bg-cine-surface border border-cine-border rounded-xl pl-12 pr-12 py-3.5 text-white placeholder-cine-text-muted focus:outline-none focus:border-cine-brand focus:ring-1 focus:ring-cine-brand text-base transition-colors"
+          aria-label="Buscar filmes, séries e canais"
         />
         <div className="absolute right-4 top-1/2 -translate-y-1/2 flex items-center gap-1.5">
           {isDebouncing && (
@@ -165,7 +164,7 @@ export default function BuscarPage() {
               <div className="flex items-center justify-between">
                 <span className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-cine-text-muted">
                   <Clock className="w-3.5 h-3.5" />
-                  Pesquisas Recentes
+                  Buscas recentes
                 </span>
                 <button
                   onClick={() => clearRecentSearches()}
@@ -180,11 +179,11 @@ export default function BuscarPage() {
                 {recentSearches.map((item) => (
                   <div
                     key={item.id}
-                    className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-cine-surface border border-cine-border rounded-lg text-sm text-cine-text-secondary hover:text-white hover:border-cine-text-muted transition-colors group"
+                    className="inline-flex max-w-full items-center gap-1.5 px-3 py-1.5 bg-cine-surface border border-cine-border rounded-lg text-sm text-cine-text-secondary hover:text-white hover:border-cine-text-muted transition-colors group"
                   >
                     <button
                       onClick={() => setInputQuery(item.query)}
-                      className="focus:outline-none"
+                      className="min-w-0 truncate rounded focus-visible:ring-2 focus-visible:ring-cine-brand"
                     >
                       {item.query}
                     </button>
@@ -193,7 +192,7 @@ export default function BuscarPage() {
                         e.stopPropagation();
                         removeRecentSearch(item.id);
                       }}
-                      className="text-cine-text-muted hover:text-red-400 p-0.5 rounded"
+                      className="shrink-0 text-cine-text-muted hover:text-red-400 p-0.5 rounded"
                       aria-label={`Remover ${item.query}`}
                     >
                       <X className="w-3 h-3" />
@@ -206,8 +205,8 @@ export default function BuscarPage() {
 
           <div className="flex flex-col gap-3">
             <span className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-cine-text-muted">
-              <Sparkles className="w-3.5 h-3.5 text-cine-brand" />
-              Sugestões Rápidas
+              <Search className="w-3.5 h-3.5 text-cine-brand" />
+              Sugestões
             </span>
             <div className="flex flex-wrap gap-2">
               {["Venom", "Gladiador", "Demon Slayer", "Game of Thrones", "One Piece", "The Boys"].map(
@@ -230,8 +229,8 @@ export default function BuscarPage() {
       {!isIdle && !isLoading && !isError && (
         <div className="flex flex-col gap-8">
           {totalResults > 0 && (
-            <span className="text-sm text-cine-text-muted">
-              {totalResults} resultado(s) encontrado(s) para &ldquo;
+            <span className="break-words text-sm text-cine-text-muted">
+              {totalResults} {totalResults === 1 ? "resultado" : "resultados"} para &ldquo;
               <strong className="text-white font-medium">{debouncedQuery}</strong>
               &rdquo;
             </span>
@@ -285,7 +284,7 @@ export default function BuscarPage() {
               <div className="flex items-center gap-2 border-b border-cine-border pb-2">
                 <Trophy className="w-4 h-4 text-cine-brand" />
                 <h2 className="text-base font-bold text-white">
-                  Eventos Esportivos ({eventItems.length})
+                  Esportes ({eventItems.length})
                 </h2>
               </div>
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">

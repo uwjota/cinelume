@@ -7,20 +7,6 @@ import { DEFAULT_PLAYER_SERVER_ID } from "@/services/players/player.service";
 export function useSettings() {
   const queryClient = useQueryClient();
 
-  const { data: autoplayNext = true } = useQuery<boolean>({
-    queryKey: ["local", "settings", "autoplayNext"],
-    queryFn: () => settingsService.get("autoplayNext", true),
-  });
-
-  const setAutoplayMutation = useMutation({
-    mutationFn: (val: boolean) => settingsService.set("autoplayNext", val),
-    onSuccess: () => {
-      queryClient.invalidateQueries({
-        queryKey: ["local", "settings", "autoplayNext"],
-      });
-    },
-  });
-
   const { data: defaultPlayerServer = DEFAULT_PLAYER_SERVER_ID } = useQuery<string>({
     queryKey: ["local", "settings", "defaultPlayerServer"],
     queryFn: () =>
@@ -45,8 +31,6 @@ export function useSettings() {
   });
 
   return {
-    autoplayNext,
-    setAutoplayNext: setAutoplayMutation.mutate,
     defaultPlayerServer,
     setDefaultPlayerServer: setDefaultPlayerServerMutation.mutate,
     clearAllData: clearAllDataMutation.mutate,
