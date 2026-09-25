@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { Suspense } from "react";
 import "./globals.css";
 import { AppHeader } from "@/components/layout/AppHeader";
 import { MobileBottomNav } from "@/components/layout/MobileBottomNav";
@@ -94,7 +95,9 @@ export default function RootLayout({
           Ir para o conteúdo
         </a>
         <QueryProvider>
-          <ScrollRestoration />
+          <Suspense fallback={null}>
+            <ScrollRestoration />
+          </Suspense>
           <AppHeader />
           <main
             id="main-content"
